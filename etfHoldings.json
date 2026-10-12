@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-08",
   "note": "只收錄各 ETF 的前幾大成分股。權重加總不到 100% 的部分在畫面上歸為「其他」，不要當成 0。",
   "etfs": {
     "0050": {
@@ -3292,77 +3292,82 @@
       "name": "元大全球AI新經濟主動式ETF基金",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "top": [
         {
           "symbol": "LITE US",
           "name": "LUMENTUM HOLDINGS INC",
-          "weight": 8.43
+          "weight": 8.19
         },
         {
           "symbol": "BE US",
           "name": "BLOOM ENERGY CORP- A",
-          "weight": 6.03
+          "weight": 5.81
         },
         {
           "symbol": "META US",
           "name": "META PLATFORMS INC-CLASS A",
-          "weight": 4.88
+          "weight": 5.02
         },
         {
           "symbol": "NVDA US",
           "name": "NVIDIA CORP",
-          "weight": 4.6
+          "weight": 4.59
         },
         {
           "symbol": "AMD US",
           "name": "ADVANCED MICRO DEVICES",
-          "weight": 4.37
+          "weight": 4.32
         },
         {
           "symbol": "SPCX US",
           "name": "SPACE EXPLORATION TECHN-CL A",
-          "weight": 3.57
+          "weight": 3.52
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "weight": 3.28
-        },
-        {
-          "symbol": "LRCX US",
-          "name": "LAM RESEARCH CORP",
-          "weight": 3.09
+          "weight": 3.33
         },
         {
           "symbol": "PLTR US",
           "name": "PALANTIR TECHNOLOGIES INC-A",
-          "weight": 3.02
+          "weight": 3.18
+        },
+        {
+          "symbol": "LRCX US",
+          "name": "LAM RESEARCH CORP",
+          "weight": 3.1
         },
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 2.73
+          "weight": 2.77
         },
         {
           "symbol": "MRVL US",
           "name": "MARVELL TECHNOLOGY INC",
-          "weight": 2.46
+          "weight": 2.44
         },
         {
           "symbol": "MU US",
           "name": "MICRON TECHNOLOGY INC",
-          "weight": 2.45
+          "weight": 2.4
         },
         {
           "symbol": "SHOP US",
           "name": "SHOPIFY INC - CLASS A",
-          "weight": 2.34
+          "weight": 2.39
         },
         {
           "symbol": "SMTC US",
           "name": "SEMTECH CORP",
-          "weight": 2.3
+          "weight": 2.29
+        },
+        {
+          "symbol": "6857 JP",
+          "name": "ADVANTEST CORP",
+          "weight": 2.28
         },
         {
           "symbol": "3037",
@@ -3370,124 +3375,114 @@
           "weight": 2.27
         },
         {
-          "symbol": "6857 JP",
-          "name": "ADVANTEST CORP",
-          "weight": 2.24
-        },
-        {
           "symbol": "MSFT US",
           "name": "MICROSOFT CORP",
-          "weight": 2.14
+          "weight": 2.17
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "weight": 2.08
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "weight": 2.08
+          "weight": 2.15
         },
         {
           "symbol": "NET US",
           "name": "CLOUDFLARE INC - CLASS A",
+          "weight": 2.13
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
           "weight": 2.07
         },
         {
           "symbol": "6981 JP",
           "name": "MURATA MANUFACTURING CO LTD",
-          "weight": 1.91
+          "weight": 1.87
         },
         {
           "symbol": "HPE US",
           "name": "HEWLETT PACKARD ENTERPRISE",
-          "weight": 1.66
+          "weight": 1.68
         },
         {
           "symbol": "CRWD US",
           "name": "CROWDSTRIKE HOLDINGS INC - A",
-          "weight": 1.64
+          "weight": 1.67
         },
         {
           "symbol": "PANW US",
           "name": "PALO ALTO NETWORKS INC",
-          "weight": 1.62
-        },
-        {
-          "symbol": "4062 JP",
-          "name": "IBIDEN CO LTD",
-          "weight": 1.52
+          "weight": 1.63
         },
         {
           "symbol": "6920 JP",
           "name": "LASERTEC CORP",
-          "weight": 1.52
+          "weight": 1.56
         },
         {
           "symbol": "DDOG US",
           "name": "DATADOG INC - CLASS A",
-          "weight": 1.49
+          "weight": 1.55
+        },
+        {
+          "symbol": "4062 JP",
+          "name": "IBIDEN CO LTD",
+          "weight": 1.51
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 1.46
+          "weight": 1.45
         },
         {
           "symbol": "CLS US",
           "name": "CELESTICA INC",
-          "weight": 1.39
-        },
-        {
-          "symbol": "TTMI US",
-          "name": "TTM TECHNOLOGIES",
-          "weight": 1.37
+          "weight": 1.38
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "weight": 1.34
+          "weight": 1.37
         },
         {
           "symbol": "TWST US",
           "name": "TWIST BIOSCIENCE CORP",
-          "weight": 1.34
+          "weight": 1.35
         },
         {
-          "symbol": "2449",
-          "name": "京元電子",
+          "symbol": "TTMI US",
+          "name": "TTM TECHNOLOGIES",
           "weight": 1.3
-        },
-        {
-          "symbol": "INTC US",
-          "name": "INTEL CORP",
-          "weight": 1.09
         },
         {
           "symbol": "SNOW US",
           "name": "SNOWFLAKE INC",
-          "weight": 1.05
+          "weight": 1.11
         },
         {
           "symbol": "OKTA US",
           "name": "OKTA INC",
-          "weight": 1.04
-        },
-        {
-          "symbol": "SNDK US",
-          "name": "SANDISK CORP",
-          "weight": 1.02
+          "weight": 1.08
         },
         {
           "symbol": "2345",
           "name": "智邦",
-          "weight": 1.01
+          "weight": 1.07
+        },
+        {
+          "symbol": "INTC US",
+          "name": "INTEL CORP",
+          "weight": 1.06
+        },
+        {
+          "symbol": "SNDK US",
+          "name": "SANDISK CORP",
+          "weight": 1
         },
         {
           "symbol": "AXTI US",
           "name": "AXT INC",
-          "weight": 0.94
+          "weight": 0.87
         },
         {
           "symbol": "2360",
@@ -3495,14 +3490,14 @@
           "weight": 0.81
         },
         {
-          "symbol": "009150 KP",
-          "name": "SAMSUNG ELECTRO-MECHANICS CO",
-          "weight": 0.72
+          "symbol": "2449",
+          "name": "京元電子",
+          "weight": 0.79
         },
         {
-          "symbol": "MXL US",
-          "name": "MAXLINEAR INC",
-          "weight": 0.72
+          "symbol": "009150 KP",
+          "name": "SAMSUNG ELECTRO-MECHANICS CO",
+          "weight": 0.71
         },
         {
           "symbol": "RBRK US",
@@ -3510,24 +3505,39 @@
           "weight": 0.7
         },
         {
+          "symbol": "MXL US",
+          "name": "MAXLINEAR INC",
+          "weight": 0.64
+        },
+        {
           "symbol": "VSH US",
           "name": "VISHAY INTERTECHNOLOGY INC",
-          "weight": 0.63
+          "weight": 0.61
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "weight": 0.56
+          "weight": 0.58
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "weight": 0.54
         },
         {
           "symbol": "ZETA US",
           "name": "ZETA GLOBAL HOLDINGS CORP-A",
-          "weight": 0.52
+          "weight": 0.53
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "weight": 0.51
         },
         {
           "symbol": "WOLF US",
           "name": "WOLFSPEED INC",
-          "weight": 0.47
+          "weight": 0.48
         }
       ]
     },
