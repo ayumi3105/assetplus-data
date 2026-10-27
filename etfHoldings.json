@@ -1349,8 +1349,8 @@
     },
     "00878": {
       "name": "國泰永續高股息",
-      "issuer": "MoneyDJ",
-      "via": "MoneyDJ",
+      "issuer": "國泰投信",
+      "via": "國泰投信",
       "asOf": "2026-10-22",
       "top": [
         {
@@ -1402,6 +1402,101 @@
           "symbol": "2881",
           "name": "富邦金",
           "weight": 3.18
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "weight": 3.11
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "weight": 2.93
+        },
+        {
+          "symbol": "3034",
+          "name": "聯詠",
+          "weight": 2.84
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "weight": 2.63
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "weight": 2.62
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "weight": 2.54
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "weight": 2.51
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "weight": 2.51
+        },
+        {
+          "symbol": "2301",
+          "name": "光寶科",
+          "weight": 2.48
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "weight": 2.41
+        },
+        {
+          "symbol": "5347",
+          "name": "世界先進",
+          "weight": 2.41
+        },
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "weight": 2.37
+        },
+        {
+          "symbol": "1216",
+          "name": "統一",
+          "weight": 2.35
+        },
+        {
+          "symbol": "5876",
+          "name": "上海商銀",
+          "weight": 2.08
+        },
+        {
+          "symbol": "2376",
+          "name": "技嘉",
+          "weight": 1.87
+        },
+        {
+          "symbol": "2912",
+          "name": "統一超",
+          "weight": 1.81
+        },
+        {
+          "symbol": "2356",
+          "name": "英業達",
+          "weight": 1.73
+        },
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "weight": 1.73
+        },
+        {
+          "symbol": "5871",
+          "name": "中租-KY",
+          "weight": 1.43
         }
       ]
     },
@@ -2446,8 +2541,8 @@
     },
     "00400A": {
       "name": "主動國泰動能高息",
-      "issuer": "MoneyDJ",
-      "via": "MoneyDJ",
+      "issuer": "國泰投信",
+      "via": "國泰投信",
       "asOf": "2026-10-22",
       "top": [
         {
@@ -2499,6 +2594,221 @@
           "symbol": "6223",
           "name": "旺矽",
           "weight": 2.96
+        },
+        {
+          "symbol": "6278",
+          "name": "台表科",
+          "weight": 2.76
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "weight": 2.73
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "weight": 2.48
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "weight": 2.46
+        },
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "weight": 2.44
+        },
+        {
+          "symbol": "3044",
+          "name": "健鼎",
+          "weight": 2.39
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "weight": 2.15
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "weight": 1.76
+        },
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "weight": 1.64
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "weight": 1.64
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "weight": 1.63
+        },
+        {
+          "symbol": "3036",
+          "name": "文曄",
+          "weight": 1.57
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "weight": 1.57
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "weight": 1.54
+        },
+        {
+          "symbol": "5274",
+          "name": "信  驊",
+          "weight": 1.52
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "weight": 1.49
+        },
+        {
+          "symbol": "3665",
+          "name": "貿聯-KY",
+          "weight": 1.43
+        },
+        {
+          "symbol": "6274",
+          "name": "台  燿",
+          "weight": 1.32
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "weight": 1.2
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "weight": 1.18
+        },
+        {
+          "symbol": "6187",
+          "name": "萬  潤",
+          "weight": 1.05
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "weight": 1.02
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "weight": 1.01
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "weight": 0.95
+        },
+        {
+          "symbol": "3533",
+          "name": "Lotes Co Ltd",
+          "weight": 0.91
+        },
+        {
+          "symbol": "6147",
+          "name": "頎邦",
+          "weight": 0.88
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "weight": 0.88
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "weight": 0.83
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "weight": 0.79
+        },
+        {
+          "symbol": "7750",
+          "name": "新  代",
+          "weight": 0.74
+        },
+        {
+          "symbol": "7769",
+          "name": "鴻  勁",
+          "weight": 0.7
+        },
+        {
+          "symbol": "3081",
+          "name": "聯  亞",
+          "weight": 0.65
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "weight": 0.49
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋-KY",
+          "weight": 0.48
+        },
+        {
+          "symbol": "5434",
+          "name": "崇越",
+          "weight": 0.37
+        },
+        {
+          "symbol": "3167",
+          "name": "大  量",
+          "weight": 0.36
+        },
+        {
+          "symbol": "3293",
+          "name": "鈊  象",
+          "weight": 0.35
+        },
+        {
+          "symbol": "3090",
+          "name": "日電貿",
+          "weight": 0.31
+        },
+        {
+          "symbol": "6271",
+          "name": "同欣電",
+          "weight": 0.24
+        },
+        {
+          "symbol": "6121",
+          "name": "新  普",
+          "weight": 0.22
+        },
+        {
+          "symbol": "9939",
+          "name": "宏全",
+          "weight": 0.08
+        },
+        {
+          "symbol": "1476",
+          "name": "儒鴻",
+          "weight": 0.08
+        },
+        {
+          "symbol": "1215",
+          "name": "卜蜂",
+          "weight": 0.07
         }
       ]
     },
