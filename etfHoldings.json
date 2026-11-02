@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-29",
+  "asOf": "2026-10-30",
   "note": "只收錄各 ETF 的前幾大成分股。權重加總不到 100% 的部分在畫面上歸為「其他」，不要當成 0。",
   "etfs": {
     "0050": {
@@ -3317,47 +3317,47 @@
       "name": "元大全球AI新經濟主動式ETF基金",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "top": [
         {
           "symbol": "MSFT US",
           "name": "MICROSOFT CORP",
-          "weight": 6.55
+          "weight": 6.8
         },
         {
           "symbol": "NVDA US",
           "name": "NVIDIA CORP",
-          "weight": 5.88
+          "weight": 5.94
         },
         {
           "symbol": "BE US",
           "name": "BLOOM ENERGY CORP- A",
-          "weight": 5.47
+          "weight": 5.28
         },
         {
           "symbol": "LITE US",
           "name": "LUMENTUM HOLDINGS INC",
-          "weight": 5.34
+          "weight": 5.15
         },
         {
           "symbol": "PLTR US",
           "name": "PALANTIR TECHNOLOGIES INC-A",
-          "weight": 5.13
+          "weight": 5.08
         },
         {
           "symbol": "AMD US",
           "name": "ADVANCED MICRO DEVICES",
-          "weight": 4.52
+          "weight": 4.25
         },
         {
           "symbol": "META US",
           "name": "META PLATFORMS INC-CLASS A",
-          "weight": 3.95
+          "weight": 4.11
         },
         {
           "symbol": "SPCX US",
           "name": "SPACE EXPLORATION TECHN-CL A",
-          "weight": 3.62
+          "weight": 3.57
         },
         {
           "symbol": "MU US",
@@ -3367,37 +3367,37 @@
         {
           "symbol": "SHOP US",
           "name": "SHOPIFY INC - CLASS A",
-          "weight": 3.34
+          "weight": 3.32
         },
         {
           "symbol": "SNOW US",
           "name": "SNOWFLAKE INC",
-          "weight": 3.27
+          "weight": 3.2
         },
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 2.95
-        },
-        {
-          "symbol": "NET US",
-          "name": "CLOUDFLARE INC - CLASS A",
-          "weight": 2.73
-        },
-        {
-          "symbol": "DDOG US",
-          "name": "DATADOG INC - CLASS A",
-          "weight": 2.55
-        },
-        {
-          "symbol": "NOW US",
-          "name": "SERVICENOW INC",
-          "weight": 2.46
+          "weight": 3.05
         },
         {
           "symbol": "ZS US",
           "name": "ZSCALER INC",
-          "weight": 2.39
+          "weight": 2.42
+        },
+        {
+          "symbol": "DDOG US",
+          "name": "DATADOG INC - CLASS A",
+          "weight": 2.38
+        },
+        {
+          "symbol": "6098 JP",
+          "name": "RECRUIT HOLDINGS CO LTD",
+          "weight": 2.19
+        },
+        {
+          "symbol": "NET US",
+          "name": "CLOUDFLARE INC - CLASS A",
+          "weight": 2.13
         },
         {
           "symbol": "3037",
@@ -3405,94 +3405,109 @@
           "weight": 2.09
         },
         {
-          "symbol": "6098 JP",
-          "name": "RECRUIT HOLDINGS CO LTD",
-          "weight": 2.04
+          "symbol": "2454",
+          "name": "聯發科",
+          "weight": 2.05
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "weight": 2.02
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "weight": 2.01
+          "weight": 1.99
         },
         {
           "symbol": "AMZN US",
           "name": "AMAZON.COM INC",
-          "weight": 1.9
+          "weight": 1.98
         },
         {
           "symbol": "CRWD US",
           "name": "CROWDSTRIKE HOLDINGS INC - A",
-          "weight": 1.9
+          "weight": 1.92
         },
         {
           "symbol": "RBRK US",
           "name": "RUBRIK INC-A",
-          "weight": 1.84
+          "weight": 1.81
         },
         {
           "symbol": "OKTA US",
           "name": "OKTA INC",
-          "weight": 1.8
+          "weight": 1.78
         },
         {
           "symbol": "TWST US",
           "name": "TWIST BIOSCIENCE CORP",
-          "weight": 1.77
-        },
-        {
-          "symbol": "SMTC US",
-          "name": "SEMTECH CORP",
-          "weight": 1.49
+          "weight": 1.64
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 1.48
+          "weight": 1.55
         },
         {
-          "symbol": "8046",
-          "name": "南電",
-          "weight": 1.31
+          "symbol": "SMTC US",
+          "name": "SEMTECH CORP",
+          "weight": 1.43
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "weight": 1.24
-        },
-        {
-          "symbol": "GOOGL US",
-          "name": "ALPHABET INC-CL A",
-          "weight": 1.09
-        },
-        {
-          "symbol": "CLS US",
-          "name": "CELESTICA INC",
-          "weight": 1.04
-        },
-        {
-          "symbol": "3443",
-          "name": "創意",
-          "weight": 1.01
-        },
-        {
-          "symbol": "TSLA US",
-          "name": "TESLA INC",
-          "weight": 1.01
-        },
-        {
-          "symbol": "2308",
-          "name": "台達電",
-          "weight": 0.78
+          "weight": 1.19
         },
         {
           "symbol": "GH US",
           "name": "GUARDANT HEALTH INC",
-          "weight": 0.58
+          "weight": 1.1
+        },
+        {
+          "symbol": "LLY US",
+          "name": "ELI LILLY & CO",
+          "weight": 1.08
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "weight": 1.07
+        },
+        {
+          "symbol": "TSLA US",
+          "name": "TESLA INC",
+          "weight": 1.06
+        },
+        {
+          "symbol": "AAPL US",
+          "name": "APPLE INC",
+          "weight": 1.04
+        },
+        {
+          "symbol": "CLS US",
+          "name": "CELESTICA INC",
+          "weight": 1.03
+        },
+        {
+          "symbol": "GE US",
+          "name": "GENERAL ELECTRIC",
+          "weight": 1.01
+        },
+        {
+          "symbol": "NOW US",
+          "name": "SERVICENOW INC",
+          "weight": 0.98
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "weight": 0.76
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "weight": 0.75
+        },
+        {
+          "symbol": "RPRX US",
+          "name": "ROYALTY PHARMA PLC- CL A",
+          "weight": 0.64
         }
       ]
     },
