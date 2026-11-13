@@ -1,38 +1,38 @@
 {
  "version": 1,
- "edition": "close",
- "date": "2026-11-13",
- "generatedAt": "2026-11-13T06:57:41.882Z",
+ "edition": "open",
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-13T21:33:50.259Z",
  "items": [
   {
-   "title": "〈台股盤後〉聯發科領軍ASIC族群點火 終場漲583點收43675點未能站回月線",
+   "title": "〈美股早盤〉輝達回穩、PPI數據助攻 主要指數漲跌不一",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661624",
-   "at": "2026-11-13T05:59:47.000Z"
+   "url": "https://news.cnyes.com/news/id/6661823",
+   "at": "2026-11-13T14:41:00.000Z"
   },
   {
-   "title": "新台幣午盤升3分 暫收32.859元",
+   "title": "AI股跌出買點？高盛看標普上探8700點 點名大型雲端股",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6661923",
+   "at": "2026-11-13T13:00:04.000Z"
+  },
+  {
+   "title": "輝達恐寫14年最長連跌！一周市值蒸發6572億美元 下周財報能止血？",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6662258",
+   "at": "2026-11-13T18:00:04.000Z"
+  },
+  {
+   "title": "美股早盤漲跌互見 輝達賣壓持續再跌逾2%",
    "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611130104.aspx",
-   "at": "2026-11-13T04:07:30.000Z"
+   "url": "https://www.cna.com.tw/news/afe/202611130334.aspx",
+   "at": "2026-11-13T15:22:03.000Z"
   },
   {
-   "title": "不只0050與高股息！從10大熱門ETF排行，一次看懂最新存股風向與績效表現",
+   "title": "川普點名庫克接棒黃仁勳！分析師打臉「機率幾乎為零」 蘋果前執行長為何不該掌舵輝達？",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661647",
-   "at": "2026-11-13T06:33:43.000Z"
-  },
-  {
-   "title": "黃仁勳去職風波未擴大 台股強彈新台幣震盪翻揚",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611130048.aspx",
-   "at": "2026-11-13T02:06:28.000Z"
-  },
-  {
-   "title": "〈焦點股〉SpaceX星艦試飛在即 穩懋亮燈漲停板領PA三雄齊揚",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661602",
-   "at": "2026-11-13T05:13:15.000Z"
+   "url": "https://news.cnyes.com/news/id/6661604",
+   "at": "2026-11-13T14:00:09.000Z"
   }
  ]
 }
