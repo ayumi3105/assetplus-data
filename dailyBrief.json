@@ -1,37 +1,38 @@
 {
  "version": 1,
+ "edition": "close",
  "date": "2026-11-13",
- "generatedAt": "2026-11-13T06:28:37.590Z",
+ "generatedAt": "2026-11-13T06:57:41.882Z",
  "items": [
   {
-   "title": "華爾街拿電鋸大砍輝達目標價 這家銀行從465美元砍至186美元",
+   "title": "〈台股盤後〉聯發科領軍ASIC族群點火 終場漲583點收43675點未能站回月線",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661152",
-   "at": "2026-11-13T00:30:11.000Z"
+   "url": "https://news.cnyes.com/news/id/6661624",
+   "at": "2026-11-13T05:59:47.000Z"
   },
   {
-   "title": "美股期貨小漲0.2% 輝達人事風波衝擊收斂、美債殖利率續攀",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661506",
-   "at": "2026-11-13T03:30:07.000Z"
+   "title": "新台幣午盤升3分 暫收32.859元",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611130104.aspx",
+   "at": "2026-11-13T04:07:30.000Z"
   },
   {
-   "title": "衝刺史上最大IPO！Anthropic超額認購達6倍 估值上看1.4兆美元、11/19掛牌那斯達克",
+   "title": "不只0050與高股息！從10大熱門ETF排行，一次看懂最新存股風向與績效表現",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661183",
-   "at": "2026-11-13T01:20:07.000Z"
+   "url": "https://news.cnyes.com/news/id/6661647",
+   "at": "2026-11-13T06:33:43.000Z"
   },
   {
-   "title": "輝達本周重挫逾11%沒拖垮美股！超微飆逾30% 三大類股逆勢走強",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661182",
-   "at": "2026-11-13T04:00:03.000Z"
+   "title": "黃仁勳去職風波未擴大 台股強彈新台幣震盪翻揚",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611130048.aspx",
+   "at": "2026-11-13T02:06:28.000Z"
   },
   {
-   "title": "華爾街看好輝達財務長出任臨時CEO 但公司前景仍蒙上陰影",
+   "title": "〈焦點股〉SpaceX星艦試飛在即 穩懋亮燈漲停板領PA三雄齊揚",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661139",
-   "at": "2026-11-13T02:30:06.000Z"
+   "url": "https://news.cnyes.com/news/id/6661602",
+   "at": "2026-11-13T05:13:15.000Z"
   }
  ]
 }
