@@ -1,15 +1,9 @@
 {
  "version": 1,
  "edition": "open",
- "date": "2026-11-14",
- "generatedAt": "2026-11-14T08:54:48.086Z",
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-14T20:03:36.266Z",
  "items": [
-  {
-   "title": "〈美股盤後〉黑色星期五！輝達單週慘崩13% 費半跌超3.4% 但三大指數仍創8月初來最佳一週",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661815",
-   "at": "2026-11-13T22:08:42.000Z"
-  },
   {
    "title": "Fed猛烈升息恐成2027年美股最大風險！經濟學家警告市場低估緊縮幅度",
    "source": "鉅亨網",
@@ -17,22 +11,28 @@
    "at": "2026-11-14T01:40:08.000Z"
   },
   {
-   "title": "《紐時》：黃仁勳下台 失去「最會談生意的輝達執行長」 華爾街AI盛宴怎麼走？",
+   "title": "特斯拉Cybercab開放個人訂購 售價3萬美元",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661820",
-   "at": "2026-11-13T23:30:06.000Z"
-  },
-  {
-   "title": "〈紐約匯市〉美元創9月來最大單週漲幅 Fed升息幾成定局",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661753",
-   "at": "2026-11-13T21:46:42.000Z"
+   "url": "https://news.cnyes.com/news/id/6662671",
+   "at": "2026-11-14T14:19:50.000Z"
   },
   {
    "title": "AI成金融系統最大威脅！Fed最新調查87%受訪者示警 遠高於股市修正與網攻風險",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6662370",
    "at": "2026-11-14T03:10:05.000Z"
+  },
+  {
+   "title": "前DeepMind與Anthropic班底 Mirendil募10億美元 Google參投 主攻AI代理自動化研發",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6662513",
+   "at": "2026-11-14T09:00:06.000Z"
+  },
+  {
+   "title": "川普11/19將與習近平、普丁三方會談！不談輝達但聚焦去核化、伊朗戰爭",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6662470",
+   "at": "2026-11-14T07:00:08.000Z"
   }
  ]
 }
