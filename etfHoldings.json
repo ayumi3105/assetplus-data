@@ -2268,8 +2268,8 @@
     },
     "00919": {
       "name": "群益台灣精選高息",
-      "issuer": "MoneyDJ",
-      "via": "MoneyDJ",
+      "issuer": "群益投信",
+      "via": "群益投信",
       "asOf": "2026-11-13",
       "top": [
         {
@@ -2321,6 +2321,156 @@
           "symbol": "3034",
           "name": "聯詠",
           "weight": 2.8
+        },
+        {
+          "symbol": "4938",
+          "name": "和碩",
+          "weight": 2.23
+        },
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "weight": 1.99
+        },
+        {
+          "symbol": "3293",
+          "name": "鈊象",
+          "weight": 1.63
+        },
+        {
+          "symbol": "5871",
+          "name": "中租-KY",
+          "weight": 1.36
+        },
+        {
+          "symbol": "1402",
+          "name": "遠東新",
+          "weight": 0.94
+        },
+        {
+          "symbol": "2855",
+          "name": "統一證",
+          "weight": 0.91
+        },
+        {
+          "symbol": "2474",
+          "name": "可成",
+          "weight": 0.82
+        },
+        {
+          "symbol": "2347",
+          "name": "聯強",
+          "weight": 0.81
+        },
+        {
+          "symbol": "5522",
+          "name": "遠雄",
+          "weight": 0.68
+        },
+        {
+          "symbol": "2504",
+          "name": "國產",
+          "weight": 0.6
+        },
+        {
+          "symbol": "2105",
+          "name": "正新",
+          "weight": 0.57
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋-KY",
+          "weight": 0.56
+        },
+        {
+          "symbol": "2385",
+          "name": "群光",
+          "weight": 0.54
+        },
+        {
+          "symbol": "1477",
+          "name": "聚陽",
+          "weight": 0.53
+        },
+        {
+          "symbol": "2542",
+          "name": "興富發",
+          "weight": 0.51
+        },
+        {
+          "symbol": "8454",
+          "name": "富邦媒",
+          "weight": 0.48
+        },
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "weight": 0.48
+        },
+        {
+          "symbol": "6121",
+          "name": "新普",
+          "weight": 0.43
+        },
+        {
+          "symbol": "2597",
+          "name": "潤弘",
+          "weight": 0.42
+        },
+        {
+          "symbol": "9910",
+          "name": "豐泰",
+          "weight": 0.4
+        },
+        {
+          "symbol": "8112",
+          "name": "至上",
+          "weight": 0.4
+        },
+        {
+          "symbol": "9941",
+          "name": "裕融",
+          "weight": 0.38
+        },
+        {
+          "symbol": "6670",
+          "name": "復盛應用",
+          "weight": 0.37
+        },
+        {
+          "symbol": "6890",
+          "name": "來億-KY",
+          "weight": 0.36
+        },
+        {
+          "symbol": "1210",
+          "name": "大成",
+          "weight": 0.35
+        },
+        {
+          "symbol": "1319",
+          "name": "東陽",
+          "weight": 0.32
+        },
+        {
+          "symbol": "2458",
+          "name": "義隆",
+          "weight": 0.31
+        },
+        {
+          "symbol": "4763",
+          "name": "材料*-KY",
+          "weight": 0.29
+        },
+        {
+          "symbol": "2211",
+          "name": "長榮鋼",
+          "weight": 0.27
+        },
+        {
+          "symbol": "4915",
+          "name": "致伸",
+          "weight": 0.24
         }
       ]
     },
@@ -2877,8 +3027,8 @@
     },
     "00982A": {
       "name": "群益台灣精選強棒主動式ETF基金",
-      "issuer": "MoneyDJ",
-      "via": "MoneyDJ",
+      "issuer": "群益投信",
+      "via": "群益投信",
       "asOf": "2026-11-13",
       "top": [
         {
@@ -2930,6 +3080,221 @@
           "symbol": "6223",
           "name": "旺矽",
           "weight": 2.99
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "weight": 2.95
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "weight": 2.57
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "weight": 2.55
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "weight": 2.45
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "weight": 2.45
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "weight": 1.93
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "weight": 1.86
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "weight": 1.76
+        },
+        {
+          "symbol": "2301",
+          "name": "光寶科",
+          "weight": 1.68
+        },
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "weight": 1.58
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "weight": 1.42
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "weight": 1.37
+        },
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "weight": 1.33
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "weight": 1.3
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "weight": 1.27
+        },
+        {
+          "symbol": "3265",
+          "name": "台星科",
+          "weight": 1.25
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "weight": 1.2
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "weight": 1.17
+        },
+        {
+          "symbol": "5425",
+          "name": "台半",
+          "weight": 1.15
+        },
+        {
+          "symbol": "2376",
+          "name": "技嘉",
+          "weight": 1.14
+        },
+        {
+          "symbol": "6510",
+          "name": "精測",
+          "weight": 1.06
+        },
+        {
+          "symbol": "2428",
+          "name": "興勤",
+          "weight": 0.95
+        },
+        {
+          "symbol": "6472",
+          "name": "保瑞",
+          "weight": 0.9
+        },
+        {
+          "symbol": "5536",
+          "name": "聖暉*",
+          "weight": 0.88
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "weight": 0.8
+        },
+        {
+          "symbol": "8070",
+          "name": "長華*",
+          "weight": 0.78
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "weight": 0.67
+        },
+        {
+          "symbol": "3617",
+          "name": "碩天",
+          "weight": 0.51
+        },
+        {
+          "symbol": "2476",
+          "name": "鉅祥",
+          "weight": 0.46
+        },
+        {
+          "symbol": "2486",
+          "name": "一詮",
+          "weight": 0.39
+        },
+        {
+          "symbol": "2377",
+          "name": "微星",
+          "weight": 0.36
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "weight": 0.34
+        },
+        {
+          "symbol": "3090",
+          "name": "日電貿",
+          "weight": 0.34
+        },
+        {
+          "symbol": "2478",
+          "name": "大毅",
+          "weight": 0.33
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "weight": 0.3
+        },
+        {
+          "symbol": "6196",
+          "name": "帆宣",
+          "weight": 0.28
+        },
+        {
+          "symbol": "3583",
+          "name": "辛耘",
+          "weight": 0.2
+        },
+        {
+          "symbol": "6640",
+          "name": "均華",
+          "weight": 0.19
+        },
+        {
+          "symbol": "2467",
+          "name": "志聖",
+          "weight": 0.14
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "weight": 0.12
+        },
+        {
+          "symbol": "6214",
+          "name": "精誠",
+          "weight": 0.04
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "weight": 0.02
+        },
+        {
+          "symbol": "6177",
+          "name": "達麗",
+          "weight": 0.02
         }
       ]
     },
