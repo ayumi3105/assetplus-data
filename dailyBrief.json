@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-16",
- "generatedAt": "2026-11-15T20:31:36.749Z",
+ "generatedAt": "2026-11-15T21:14:06.769Z",
  "items": [
   {
    "title": "矽谷科技巨頭押注川普恐踢鐵板！OpenAI、Meta政治豪賭埋下AI產業隱憂",
@@ -17,12 +17,6 @@
    "at": "2026-11-15T10:10:03.000Z"
   },
   {
-   "title": "年複合成長率飆破64%！AI Agent引爆資安新藍海，黃金商機誰能搶先卡位？",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6661679",
-   "at": "2026-11-15T01:10:05.000Z"
-  },
-  {
    "title": "伊朗利用美國士兵跑步App蒐集情報 炸出90億美元損失",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6663040",
@@ -33,6 +27,12 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6662400",
    "at": "2026-11-15T13:30:04.000Z"
+  },
+  {
+   "title": "OpenAI測試ChatGPT商家功能！導入AI導購代理 商家可上架商品、掌握推薦流量",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6662928",
+   "at": "2026-11-15T12:10:02.000Z"
   }
  ]
 }
