@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-12",
+  "asOf": "2026-11-13",
   "note": "只收錄各 ETF 的前幾大成分股。權重加總不到 100% 的部分在畫面上歸為「其他」，不要當成 0。",
   "etfs": {
     "0050": {
@@ -3302,127 +3302,132 @@
       "name": "元大全球AI新經濟主動式ETF基金",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-11-12",
+      "asOf": "2026-11-13",
       "top": [
         {
           "symbol": "AMD US",
           "name": "ADVANCED MICRO DEVICES",
-          "weight": 6.47
+          "weight": 5.95
         },
         {
           "symbol": "MSFT US",
           "name": "MICROSOFT CORP",
-          "weight": 5.78
+          "weight": 5.84
         },
         {
           "symbol": "BE US",
           "name": "BLOOM ENERGY CORP- A",
-          "weight": 5.66
+          "weight": 5.43
         },
         {
           "symbol": "PLTR US",
           "name": "PALANTIR TECHNOLOGIES INC-A",
-          "weight": 5.03
-        },
-        {
-          "symbol": "AMZN US",
-          "name": "AMAZON.COM INC",
-          "weight": 4.46
+          "weight": 4.96
         },
         {
           "symbol": "META US",
           "name": "META PLATFORMS INC-CLASS A",
-          "weight": 4.42
+          "weight": 4.59
         },
         {
-          "symbol": "2330",
-          "name": "台積電",
-          "weight": 4.04
-        },
-        {
-          "symbol": "AVGO US",
-          "name": "BROADCOM INC",
-          "weight": 3.9
-        },
-        {
-          "symbol": "SPCX US",
-          "name": "SPACE EXPLORATION TECHN-CL A",
-          "weight": 3.87
-        },
-        {
-          "symbol": "SHOP US",
-          "name": "SHOPIFY INC - CLASS A",
-          "weight": 3.29
+          "symbol": "AMZN US",
+          "name": "AMAZON.COM INC",
+          "weight": 4.48
         },
         {
           "symbol": "GOOGL US",
           "name": "ALPHABET INC-CL A",
-          "weight": 3.28
+          "weight": 4.27
         },
         {
-          "symbol": "LLY US",
-          "name": "ELI LILLY & CO",
-          "weight": 3.04
+          "symbol": "2330",
+          "name": "台積電",
+          "weight": 4.1
         },
         {
-          "symbol": "3443",
-          "name": "創意",
-          "weight": 2.85
+          "symbol": "AVGO US",
+          "name": "BROADCOM INC",
+          "weight": 3.75
         },
         {
           "symbol": "CRWD US",
           "name": "CROWDSTRIKE HOLDINGS INC - A",
-          "weight": 2.84
+          "weight": 3.32
         },
         {
-          "symbol": "SNOW US",
-          "name": "SNOWFLAKE INC",
-          "weight": 2.78
+          "symbol": "SHOP US",
+          "name": "SHOPIFY INC - CLASS A",
+          "weight": 3.32
         },
         {
-          "symbol": "NET US",
-          "name": "CLOUDFLARE INC - CLASS A",
-          "weight": 2.77
+          "symbol": "3443",
+          "name": "創意",
+          "weight": 3.16
+        },
+        {
+          "symbol": "LLY US",
+          "name": "ELI LILLY & CO",
+          "weight": 3.1
         },
         {
           "symbol": "GE US",
           "name": "GENERAL ELECTRIC",
-          "weight": 2.75
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "weight": 2.48
+          "weight": 2.78
         },
         {
           "symbol": "ANET US",
           "name": "ARISTA NETWORKS INC",
-          "weight": 2.35
+          "weight": 2.75
+        },
+        {
+          "symbol": "SNOW US",
+          "name": "SNOWFLAKE INC",
+          "weight": 2.74
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "weight": 2.68
+        },
+        {
+          "symbol": "NET US",
+          "name": "CLOUDFLARE INC - CLASS A",
+          "weight": 2.68
         },
         {
           "symbol": "6098 JP",
           "name": "RECRUIT HOLDINGS CO LTD",
-          "weight": 2
-        },
-        {
-          "symbol": "MU US",
-          "name": "MICRON TECHNOLOGY INC",
-          "weight": 1.97
-        },
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "weight": 1.83
+          "weight": 2.62
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 1.76
+          "weight": 1.95
+        },
+        {
+          "symbol": "MU US",
+          "name": "MICRON TECHNOLOGY INC",
+          "weight": 1.93
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "weight": 1.9
+        },
+        {
+          "symbol": "FROG US",
+          "name": "JFROG LTD",
+          "weight": 1.86
         },
         {
           "symbol": "3037",
           "name": "欣興",
           "weight": 1.76
+        },
+        {
+          "symbol": "ZS US",
+          "name": "ZSCALER INC",
+          "weight": 1.63
         },
         {
           "symbol": "HWM US",
@@ -3432,52 +3437,47 @@
         {
           "symbol": "2368",
           "name": "金像電",
-          "weight": 1.44
+          "weight": 1.53
         },
         {
-          "symbol": "FROG US",
-          "name": "JFROG LTD",
-          "weight": 1.32
+          "symbol": "PANW US",
+          "name": "PALO ALTO NETWORKS INC",
+          "weight": 1.51
         },
         {
           "symbol": "NVDA US",
           "name": "NVIDIA CORP",
-          "weight": 1.23
-        },
-        {
-          "symbol": "ZS US",
-          "name": "ZSCALER INC",
-          "weight": 1.12
+          "weight": 1.22
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "weight": 0.99
+          "weight": 1
         },
         {
-          "symbol": "SMTC US",
-          "name": "SEMTECH CORP",
-          "weight": 0.9
+          "symbol": "CLS US",
+          "name": "CELESTICA INC",
+          "weight": 0.95
         },
         {
           "symbol": "APP US",
           "name": "APPLOVIN CORP-CLASS A",
-          "weight": 0.76
+          "weight": 0.8
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "weight": 0.55
+          "weight": 0.56
         },
         {
           "symbol": "HPE US",
           "name": "HEWLETT PACKARD ENTERPRISE",
-          "weight": 0.52
+          "weight": 0.5
         },
         {
           "symbol": "9602 JP",
           "name": "TOHO CO LTD",
-          "weight": 0.19
+          "weight": 0.2
         }
       ]
     },
