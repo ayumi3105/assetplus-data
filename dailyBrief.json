@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-18",
- "generatedAt": "2026-11-17T23:06:25.270Z",
+ "generatedAt": "2026-11-17T23:38:29.137Z",
  "items": [
   {
    "title": "〈美股盤後〉道瓊尾盤一度狂瀉逾1000點 標普創7月底來最低收盤 輝達財報公布",
@@ -36,6 +36,24 @@
   }
  ],
  "more": [
+  {
+   "title": "黃仁勳聽證會前夕添變數！Muddy Waters放空輝達、追問前高層與美超微晶片分配疑雲",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6665733",
+   "at": "2026-11-17T23:30:12.000Z"
+  },
+  {
+   "title": "渾水做空輝達！追問前高階主管與美超微前主管之間的關係",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6665685",
+   "at": "2026-11-17T23:20:04.000Z"
+  },
+  {
+   "title": "標普500三年大漲80%仍不貴？預估本益比降至3年低點、企業獲利預期成關鍵風險",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664942",
+   "at": "2026-11-17T23:10:06.000Z"
+  },
   {
    "title": "〈貴金屬盤後〉美元和美債殖利率雙升 黃金仍陷一年低點",
    "source": "鉅亨網",
@@ -377,24 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6665553",
    "at": "2026-11-17T15:47:21.000Z"
-  },
-  {
-   "title": "盤中速報 - Atlassian Corporation - Class A(TEAM-US)大跌5.02%，報142.41美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665552",
-   "at": "2026-11-17T15:47:21.000Z"
-  },
-  {
-   "title": "盤中速報 - 數據狗(DDOG-US)大跌5.2%，報163.87美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665551",
-   "at": "2026-11-17T15:47:20.000Z"
-  },
-  {
-   "title": "盤中速報 - 直覺(INTU-US)大跌5.72%，報325.8美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665550",
-   "at": "2026-11-17T15:47:20.000Z"
   }
  ]
 }
