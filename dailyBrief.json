@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-18",
- "generatedAt": "2026-11-17T23:38:29.137Z",
+ "generatedAt": "2026-11-17T23:56:36.416Z",
  "items": [
   {
    "title": "〈美股盤後〉道瓊尾盤一度狂瀉逾1000點 標普創7月底來最低收盤 輝達財報公布",
@@ -37,6 +37,30 @@
  ],
  "more": [
   {
+   "title": "營收速報 - 2026年11月18日台股大型公司10月營收一覽（新增20家）",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6665763",
+   "at": "2026-11-17T23:55:14.000Z"
+  },
+  {
+   "title": "SEC盯上輝達！《WSJ》曝調查是否誤導投資人 黃仁勳離任後股價跌逾1成",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6665726",
+   "at": "2026-11-17T23:50:06.000Z"
+  },
+  {
+   "title": "AI算力也要「去美國化」！歐洲五大企業聯手打造跨國超級工廠",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6665722",
+   "at": "2026-11-17T23:40:05.000Z"
+  },
+  {
+   "title": "AI盛宴接近尾聲？高盛五份研報同指「一結論」：市場比經濟更脆弱",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664943",
+   "at": "2026-11-17T23:40:04.000Z"
+  },
+  {
    "title": "黃仁勳聽證會前夕添變數！Muddy Waters放空輝達、追問前高層與美超微晶片分配疑雲",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6665733",
@@ -65,6 +89,12 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6665702",
    "at": "2026-11-17T22:50:04.000Z"
+  },
+  {
+   "title": "黃仁勳表達願意回鍋 輝達董事會：無意恢復其執行長職務",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611180012.aspx",
+   "at": "2026-11-17T22:42:42.000Z"
   },
   {
    "title": "輝達董事長財報會議明言：「無意讓黃仁勳重任執行長」",
@@ -365,36 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6665558",
    "at": "2026-11-17T15:55:34.000Z"
-  },
-  {
-   "title": "盤中速報 - 超微電腦(SMCI-US)大跌5.01%，報23.77美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665557",
-   "at": "2026-11-17T15:53:19.000Z"
-  },
-  {
-   "title": "盤中速報 - Applovin Corp - Class A(APP-US)大跌5%，報394.44美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665556",
-   "at": "2026-11-17T15:51:04.000Z"
-  },
-  {
-   "title": "盤中速報 - 道瓊指數大跌1.02%，報51082.59點",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665555",
-   "at": "2026-11-17T15:47:34.000Z"
-  },
-  {
-   "title": "盤中速報 - Zscaler公司(ZS-US)大跌5.09%，報181.13美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665554",
-   "at": "2026-11-17T15:47:22.000Z"
-  },
-  {
-   "title": "盤中速報 - MongoDB公司(MDB-US)大跌6.59%，報296.05美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665553",
-   "at": "2026-11-17T15:47:21.000Z"
   }
  ]
 }
