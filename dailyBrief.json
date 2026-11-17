@@ -2,13 +2,19 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-17",
- "generatedAt": "2026-11-17T00:28:16.928Z",
+ "generatedAt": "2026-11-17T01:02:24.328Z",
  "items": [
   {
    "title": "〈美股盤後〉輝達財報前AI股掀賣壓 道瓊瀉近740點 費半、台積ADR重挫超5%",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6664477",
    "at": "2026-11-16T22:09:15.000Z"
+  },
+  {
+   "title": "晶片、光通訊全面挫跌！費半崩逾5% 輝達、台積電、艾司摩爾均大跌 英特爾遭輝達減持重挫逾7%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664597",
+   "at": "2026-11-17T00:55:41.000Z"
   },
   {
    "title": "〈貴金屬盤後〉美元升值+美國升息壓力罩頂 黃金跌到逾一年低點",
@@ -27,15 +33,45 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6663830",
    "at": "2026-11-16T15:10:04.000Z"
-  },
-  {
-   "title": "〈美股早盤〉AI股又被砍！那指跌逾1% 輝達財報與Anthropic上市成焦點",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664138",
-   "at": "2026-11-16T14:41:57.000Z"
   }
  ],
  "more": [
+  {
+   "title": "打工成百萬富翁！NASA招太空人 年薪新台幣542萬",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664586",
+   "at": "2026-11-17T00:53:40.000Z"
+  },
+  {
+   "title": "拒表態是否支持復職！奧特曼：對輝達風波「感同身受」 相信AI產業能挺過黃仁勳離職",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664590",
+   "at": "2026-11-17T00:35:20.000Z"
+  },
+  {
+   "title": "CNN：伊朗擬對川普政府高層發動髒彈或化學武器攻擊、美方已啟動應變",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664564",
+   "at": "2026-11-17T00:34:10.000Z"
+  },
+  {
+   "title": "美股AI賣壓延燒日本！日經昨重挫2.4%、跌破6萬點，今早期貨再跌1.2%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664593",
+   "at": "2026-11-17T00:30:46.000Z"
+  },
+  {
+   "title": "波克夏操盤動向｜大砍第一資本62%、萊納持股翻倍衝上12.5%，阿貝爾棄金融押房建",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664592",
+   "at": "2026-11-17T00:30:45.000Z"
+  },
+  {
+   "title": "兩度反對維持利率不變！Fed哈瑪克重申漸進升息立場",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664491",
+   "at": "2026-11-17T00:30:38.000Z"
+  },
   {
    "title": "愛奇藝第三季重返Non-GAAP營業獲利 收入年減一成、AI內容擴量",
    "source": "鉅亨網",
@@ -359,42 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6664362",
    "at": "2026-11-16T14:45:55.000Z"
-  },
-  {
-   "title": "盤中速報 - 萊迪思半導體(LSCC-US)大跌5.36%，報106.33美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664361",
-   "at": "2026-11-16T14:45:50.000Z"
-  },
-  {
-   "title": "盤中速報 - 安可(AMKR-US)大跌5.48%，報34.13美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664360",
-   "at": "2026-11-16T14:45:48.000Z"
-  },
-  {
-   "title": "盤中速報 - 芯源系統(MPWR-US)大跌5.09%，報1319.71美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664359",
-   "at": "2026-11-16T14:45:42.000Z"
-  },
-  {
-   "title": "盤中速報 - 科磊(KLAC-US)大跌5.06%，報144.4美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664358",
-   "at": "2026-11-16T14:45:40.000Z"
-  },
-  {
-   "title": "盤中速報 - 科林研發(LRCX-US)大跌5.16%，報214.27美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664357",
-   "at": "2026-11-16T14:45:37.000Z"
-  },
-  {
-   "title": "盤中速報 - 泰瑞達(TER-US)大跌5.25%，報236.45美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664356",
-   "at": "2026-11-16T14:45:34.000Z"
   }
  ]
 }
