@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-17",
- "generatedAt": "2026-11-16T23:49:36.133Z",
+ "generatedAt": "2026-11-17T00:28:16.928Z",
  "items": [
   {
    "title": "〈美股盤後〉輝達財報前AI股掀賣壓 道瓊瀉近740點 費半、台積ADR重挫超5%",
@@ -36,6 +36,48 @@
   }
  ],
  "more": [
+  {
+   "title": "愛奇藝第三季重返Non-GAAP營業獲利 收入年減一成、AI內容擴量",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664531",
+   "at": "2026-11-17T00:20:17.000Z"
+  },
+  {
+   "title": "NAND現貨價重挫20%！美銀示警2027年首季恐跌價、DRAM漲勢延續",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6663049",
+   "at": "2026-11-17T00:10:03.000Z"
+  },
+  {
+   "title": "支持者盼黃仁勳重掌輝達 為何他回鍋機會渺茫？",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664476",
+   "at": "2026-11-17T00:01:34.000Z"
+  },
+  {
+   "title": "AI股賣壓全面擴散！輝達重挫4.1%、費半暴跌5.3%，那斯達克跌逾10%陷入修正",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664549",
+   "at": "2026-11-17T00:00:15.000Z"
+  },
+  {
+   "title": "美股重點新聞摘要2026年11月17日",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664145",
+   "at": "2026-11-17T00:00:03.000Z"
+  },
+  {
+   "title": "營收速報 - 2026年11月17日台股大型公司10月營收一覽（新增28家）",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664544",
+   "at": "2026-11-16T23:55:15.000Z"
+  },
+  {
+   "title": "Fed建模推演AI三大情境！華許：AI可望推升生產力 卻也恐掀大規模失業 甚至拖累股市與經濟",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6664523",
+   "at": "2026-11-16T23:50:08.000Z"
+  },
   {
    "title": "美股反彈避險基金反而加碼放空！科技股多空比創10年新低、高盛揭市場矛盾",
    "source": "鉅亨網",
@@ -353,48 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6664356",
    "at": "2026-11-16T14:45:34.000Z"
-  },
-  {
-   "title": "盤中速報 - Onto Innovation Inc.(ONTO-US)大跌6.76%，報189.85美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664355",
-   "at": "2026-11-16T14:45:30.000Z"
-  },
-  {
-   "title": "盤中速報 - 美光科技(MU-US)大跌5.48%，報735.67美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664354",
-   "at": "2026-11-16T14:45:27.000Z"
-  },
-  {
-   "title": "盤中速報 - 安謀控股公司(ARM-US)大跌5.1%，報180.81美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664353",
-   "at": "2026-11-16T14:45:24.000Z"
-  },
-  {
-   "title": "盤中速報 - 超微半導體(AMD-US)大跌5.73%，報503.46美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664352",
-   "at": "2026-11-16T14:45:21.000Z"
-  },
-  {
-   "title": "盤中速報 - 英特爾(INTC-US)大跌5.03%，報56.66美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664351",
-   "at": "2026-11-16T14:45:19.000Z"
-  },
-  {
-   "title": "盤中速報 - 邁威爾科技(MRVL-US)大跌5.7%，報147.82美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664350",
-   "at": "2026-11-16T14:45:16.000Z"
-  },
-  {
-   "title": "盤中速報 - 應用材料(AMAT-US)大跌5.87%，報348.76美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6664349",
-   "at": "2026-11-16T14:45:11.000Z"
   }
  ]
 }
