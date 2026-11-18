@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-19",
- "generatedAt": "2026-11-18T22:40:50.515Z",
+ "generatedAt": "2026-11-18T23:06:07.078Z",
  "items": [
   {
    "title": "市場評估輝達財報及聯準會紀要 美股收盤互有漲跌",
@@ -17,6 +17,12 @@
    "at": "2026-11-18T22:10:54.000Z"
   },
   {
+   "title": "〈貴金屬盤後〉Fed會議紀錄放鷹 黃金重挫逾3%跌破3800美元",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6666308",
+   "at": "2026-11-18T22:51:01.000Z"
+  },
+  {
    "title": "〈紐約匯市〉美元走強 Fed鷹派官員支持採取積極行動",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6666493",
@@ -27,15 +33,27 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6666522",
    "at": "2026-11-18T14:42:36.000Z"
-  },
-  {
-   "title": "AI賣壓擴大！標普500指數跌破200日均線、後市反而可能「優於」長期平均",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6665759",
-   "at": "2026-11-18T13:10:07.000Z"
   }
  ],
  "more": [
+  {
+   "title": "黃仁勳離職後首場全員大會 Kress喊話「向前看」員工反應曝光",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6666798",
+   "at": "2026-11-18T23:00:06.000Z"
+  },
+  {
+   "title": "〈能源盤後〉美國原油庫存增幅超預期 WTI油價重挫逾3%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6666579",
+   "at": "2026-11-18T22:59:16.000Z"
+  },
+  {
+   "title": "穆迪下調輝達評等展望至「穩定」",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6666810",
+   "at": "2026-11-18T22:50:03.000Z"
+  },
   {
    "title": "傳Anthropic每股定價83美元 總募資破940億美元、超車SpaceX創史上最大IPO",
    "source": "鉅亨網",
@@ -367,34 +385,16 @@
    "at": "2026-11-18T13:30:07.000Z"
   },
   {
+   "title": "AI賣壓擴大！標普500指數跌破200日均線、後市反而可能「優於」長期平均",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6665759",
+   "at": "2026-11-18T13:10:07.000Z"
+  },
+  {
    "title": "罕見連環爆！AI鏈驚見鉅額違約交割 創意、華通等9檔合計4.27億元",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6666606",
    "at": "2026-11-18T13:05:01.000Z"
-  },
-  {
-   "title": "美股盤前／那指期貨漲0.9%輝達財測提振AI股，市場聚焦Anthropic定價",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6666609",
-   "at": "2026-11-18T13:00:18.000Z"
-  },
-  {
-   "title": "又是狼來了？媒體喊崩盤常失準 研究卻見最高97%泡沫訊號",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6666555",
-   "at": "2026-11-18T13:00:15.000Z"
-  },
-  {
-   "title": "優群伺服器、電信訂單逐步放量 明年營運拚雙位數成長",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6666608",
-   "at": "2026-11-18T12:58:08.000Z"
-  },
-  {
-   "title": "黃仁勳回鍋無望？營收亮眼難抵換帥衝擊！野村看台股有戲：4大族群將「倒吃甘藨」",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6666601",
-   "at": "2026-11-18T12:58:00.000Z"
   }
  ]
 }
