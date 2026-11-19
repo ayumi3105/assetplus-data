@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-20",
- "generatedAt": "2026-11-19T23:13:16.154Z",
+ "generatedAt": "2026-11-19T23:46:57.960Z",
  "items": [
   {
    "title": "〈美股盤後〉Anthropic上市難救AI買氣！道瓊暴跌超1100點 那指費半跌逾2%",
@@ -23,19 +23,37 @@
    "at": "2026-11-19T12:06:52.000Z"
   },
   {
-   "title": "瑞銀2027年展望：黃金飆5000美元 標普8200點 預言3力量顛覆未來10年",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6667709",
-   "at": "2026-11-19T09:53:41.000Z"
-  },
-  {
    "title": "〈台股盤前要聞〉金管會祭「有條件禁空令」、全體券商10月獲利月減近6成、台積電砸5億美元取得Anthropic 602萬股",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6667178",
    "at": "2026-11-19T21:10:06.000Z"
+  },
+  {
+   "title": "美股科技11強成形！MAGP ETF集結「七巨頭＋四大新貴」",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6668131",
+   "at": "2026-11-19T22:20:05.000Z"
   }
  ],
  "more": [
+  {
+   "title": "洛杉磯、長灘港250名保全醞釀罷工 馬士基等四大航商恐受衝擊",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6668105",
+   "at": "2026-11-19T23:40:04.000Z"
+  },
+  {
+   "title": "Anthropic 上市首日大漲17%！史上最大 IPO 的「高光與裂痕」華爾街多空激辯交鋒",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6668162",
+   "at": "2026-11-19T23:30:21.000Z"
+  },
+  {
+   "title": "加州檢察長向輝達「發傳票」 追查先進晶片是否違規流入中國",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6668159",
+   "at": "2026-11-19T23:20:04.000Z"
+  },
   {
    "title": "小摩：iPhone 18 Pro買氣意願高漲！iPhone Duo吸引安卓用戶跳槽",
    "source": "鉅亨網",
@@ -59,12 +77,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6668130",
    "at": "2026-11-19T22:30:11.000Z"
-  },
-  {
-   "title": "美股科技11強成形！MAGP ETF集結「七巨頭＋四大新貴」",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668131",
-   "at": "2026-11-19T22:20:05.000Z"
   },
   {
    "title": "鉅亨速報 - Factset 最新調查：拼多多控股(PDD-US)EPS預估上修至10.31元，預估目標價為113.77元",
@@ -383,18 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6667986",
    "at": "2026-11-19T14:45:53.000Z"
-  },
-  {
-   "title": "盤中速報 - 英特爾(INTC-US)大漲5.03%，報57.42美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6667985",
-   "at": "2026-11-19T14:45:24.000Z"
-  },
-  {
-   "title": "盤中速報 - Palo Alto Networks Inc(PANW-US)大漲5.01%，報356.96美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6667984",
-   "at": "2026-11-19T14:45:24.000Z"
   }
  ]
 }
