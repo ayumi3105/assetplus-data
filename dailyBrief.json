@@ -2,13 +2,19 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-21",
- "generatedAt": "2026-11-20T22:48:34.758Z",
+ "generatedAt": "2026-11-20T23:19:47.051Z",
  "items": [
   {
    "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控 道瓊標普陷修正區 費半瀉逾10% 輝達、美光暴跌約14%",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669311",
    "at": "2026-11-20T21:49:30.000Z"
+  },
+  {
+   "title": "AI股賣壓持續湧出 美股收黑、那指重挫逾5%",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611210015.aspx",
+   "at": "2026-11-20T22:08:19.000Z"
   },
   {
    "title": "AI股賣壓擴大！道瓊盤中跌入修正 那指今年漲幅全吐光",
@@ -27,20 +33,32 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669336",
    "at": "2026-11-20T14:39:03.000Z"
-  },
-  {
-   "title": "美股警報快響了？花旗：輝達等四大權值股恐觸發風險訊號",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669394",
-   "at": "2026-11-20T12:27:21.000Z"
   }
  ],
  "more": [
+  {
+   "title": "花旗內控出大包！少算350億美元風險資產 被迫注資補強",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669306",
+   "at": "2026-11-20T23:10:03.000Z"
+  },
+  {
+   "title": "《路透》：SEC調查輝達會計處理！新加坡營收揭露、AI循環融資再受檢視",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669659",
+   "at": "2026-11-20T23:02:29.000Z"
+  },
   {
    "title": "Anthropic上市蜜月行情僅一天！股價重挫8.5% 發行價保衛戰逼近",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669673",
    "at": "2026-11-20T22:35:55.000Z"
+  },
+  {
+   "title": "油價漲 週線連3黑",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611210018.aspx",
+   "at": "2026-11-20T22:27:25.000Z"
   },
   {
    "title": "輝達連七黑！創金融海嘯以來最長連跌紀錄 市值遭Alphabet超車跌至第四",
@@ -377,24 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669549",
    "at": "2026-11-20T16:01:09.000Z"
-  },
-  {
-   "title": "盤中速報 - 高盛集團(GS-US)大跌5.09%，報804.4美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669548",
-   "at": "2026-11-20T16:00:54.000Z"
-  },
-  {
-   "title": "盤中速報 - 艾司摩爾(ASML-US)大跌5.15%，報1286.4美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669547",
-   "at": "2026-11-20T16:00:08.000Z"
-  },
-  {
-   "title": "盤中速報 - 安森美半導體(ON-US)大跌5.04%，報62.41美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669546",
-   "at": "2026-11-20T15:52:18.000Z"
   }
  ]
 }
