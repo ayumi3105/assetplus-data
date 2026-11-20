@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-21",
- "generatedAt": "2026-11-20T22:19:41.125Z",
+ "generatedAt": "2026-11-20T22:48:34.758Z",
  "items": [
   {
    "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控 道瓊標普陷修正區 費半瀉逾10% 輝達、美光暴跌約14%",
@@ -36,6 +36,12 @@
   }
  ],
  "more": [
+  {
+   "title": "Anthropic上市蜜月行情僅一天！股價重挫8.5% 發行價保衛戰逼近",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669673",
+   "at": "2026-11-20T22:35:55.000Z"
+  },
   {
    "title": "輝達連七黑！創金融海嘯以來最長連跌紀錄 市值遭Alphabet超車跌至第四",
    "source": "鉅亨網",
@@ -389,12 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669546",
    "at": "2026-11-20T15:52:18.000Z"
-  },
-  {
-   "title": "盤中速報 - 甲骨文(ORCL-US)大跌5.01%，報105.03美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669545",
-   "at": "2026-11-20T15:52:09.000Z"
   }
  ]
 }
