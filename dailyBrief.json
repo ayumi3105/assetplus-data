@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "close",
  "date": "2026-11-20",
- "generatedAt": "2026-11-20T08:29:28.833Z",
+ "generatedAt": "2026-11-20T09:56:59.681Z",
  "items": [
   {
    "title": "〈台股盤後〉限空令2.0擋不住賣壓狂瀉2393點創史上第三大跌點 本周跌逾7000點跌幅17.5%",
@@ -11,31 +11,199 @@
    "at": "2026-11-20T06:09:33.000Z"
   },
   {
+   "title": "外資賣超94億元連5賣 續砍ETF敲進聯電、群創",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200224.aspx",
+   "at": "2026-11-20T09:05:44.000Z"
+  },
+  {
    "title": "三大法人賣超台股522.46億元",
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/afe/202611200157.aspx",
    "at": "2026-11-20T07:13:20.000Z"
   },
   {
-   "title": "新台幣午盤貶4.5分 暫收32.987元",
+   "title": "新台幣升0.6分 收32.936元",
    "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200089.aspx",
-   "at": "2026-11-20T04:05:50.000Z"
+   "url": "https://www.cna.com.tw/news/afe/202611200192.aspx",
+   "at": "2026-11-20T08:03:35.000Z"
   },
   {
-   "title": "多空大分裂！投機客在COMEX銅市狂賣超108億美元 實體買家卻在逆勢抄底",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668964",
-   "at": "2026-11-20T07:00:09.000Z"
-  },
-  {
-   "title": "〈焦點股〉台達電失守千元挫跌停 半年跌逾6成市值蒸發4兆元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668895",
-   "at": "2026-11-20T05:10:37.000Z"
+   "title": "台股重挫 證交所：短期市場波動不改產業基本面",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200247.aspx",
+   "at": "2026-11-20T09:24:32.000Z"
   }
  ],
  "more": [
+  {
+   "title": "南山人壽、南山產物連五年躋身公平待客評核前25% 打造友善包容金融服務",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669219",
+   "at": "2026-11-20T09:54:00.000Z"
+  },
+  {
+   "title": "央行外匯局出面信心喊話 出口大廠在賣匯 匯市供需趨平衡了",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669218",
+   "at": "2026-11-20T09:51:17.000Z"
+  },
+  {
+   "title": "研調：三大應用面板Q4需求同步轉弱 11月價格估全面持平",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669213",
+   "at": "2026-11-20T09:47:50.000Z"
+  },
+  {
+   "title": "長榮航在APEX拿下2027全球五星級航空 還拿一項區域冠軍",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669153",
+   "at": "2026-11-20T09:46:30.000Z"
+  },
+  {
+   "title": "一詮激勵員工向心力 擬砸最高3億元買回庫藏股",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669190",
+   "at": "2026-11-20T09:40:14.000Z"
+  },
+  {
+   "title": "中華電信進駐KidZania Taipei 董事長簡志誠揭合作目的",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669211",
+   "at": "2026-11-20T09:36:40.000Z"
+  },
+  {
+   "title": "AI前景疑慮罩頂族群重挫 法人：籌碼沉澱是止跌關鍵",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200249.aspx",
+   "at": "2026-11-20T09:28:37.000Z"
+  },
+  {
+   "title": "黎明前最煎熬！極端超跌背後的籌碼真相，這波風暴何時迎來真實落底？",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669154",
+   "at": "2026-11-20T09:17:59.000Z"
+  },
+  {
+   "title": "研調：11月下旬需求弱成本仍高 面板價格持平",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200231.aspx",
+   "at": "2026-11-20T09:13:59.000Z"
+  },
+  {
+   "title": "綠白聯手也擋不住！普發2萬條例三讀過關 最快預算生效3個月發放",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669152",
+   "at": "2026-11-20T09:11:32.000Z"
+  },
+  {
+   "title": "台股繼續崩，何時回穩?關鍵訊號告訴你",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669149",
+   "at": "2026-11-20T09:11:16.000Z"
+  },
+  {
+   "title": "台股本週脫軌國際盤，流動性枯竭拉警報",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669148",
+   "at": "2026-11-20T09:10:54.000Z"
+  },
+  {
+   "title": "中華電：沒放棄AWS低軌衛星合作 盼協調28GHz頻譜",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200226.aspx",
+   "at": "2026-11-20T09:10:48.000Z"
+  },
+  {
+   "title": "矽谷開始變臉！馬斯克悔捐共和黨4億美元 Palantir執行長自爆「終身民主黨人」",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669117",
+   "at": "2026-11-20T09:10:04.000Z"
+  },
+  {
+   "title": "〈台幣〉央行強力穩盤 收32.936元升值0.6分",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669140",
+   "at": "2026-11-20T09:04:23.000Z"
+  },
+  {
+   "title": "台股反攻的關鍵？買價值、買成長、買被錯殺",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669142",
+   "at": "2026-11-20T09:02:22.000Z"
+  },
+  {
+   "title": "台股單週下跌7641點史上之最 本土法人加入停損行列",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200217.aspx",
+   "at": "2026-11-20T08:54:29.000Z"
+  },
+  {
+   "title": "信紘科攜手中工搶攻台塑大樓都更 統包訂單營收占比已達50%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669132",
+   "at": "2026-11-20T08:50:04.000Z"
+  },
+  {
+   "title": "【盤後贏指標】台股大逃殺！空頭來臨了？贏指標跌破5日，3萬6保衛戰正式開打！",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669131",
+   "at": "2026-11-20T08:42:09.000Z"
+  },
+  {
+   "title": "10月青安3.0累計撥貸384億元 育兒宅占比逾2成",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200211.aspx",
+   "at": "2026-11-20T08:41:16.000Z"
+  },
+  {
+   "title": "〈港股盤後〉科網晶片股走低 主要指數承壓 恒指跌1.89%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669119",
+   "at": "2026-11-20T08:39:43.000Z"
+  },
+  {
+   "title": "和泰車：今年車市估43萬輛 觀察AI產業震盪",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200209.aspx",
+   "at": "2026-11-20T08:35:11.000Z"
+  },
+  {
+   "title": "〈外銷訂單〉21紅！10月外銷訂單1238億美元連3月破千億 續創單月新高",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6663480",
+   "at": "2026-11-20T08:34:25.000Z"
+  },
+  {
+   "title": "〈陸股盤後〉半導體股領跌 滬指險守3500點大關 連二日收黑",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6668956",
+   "at": "2026-11-20T08:30:02.000Z"
+  },
+  {
+   "title": "方舟「木頭姐」砸9000萬美元搶進Anthropic 減持輝達因應監管風暴",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669035",
+   "at": "2026-11-20T08:29:56.000Z"
+  },
+  {
+   "title": "台股暴跌6.23% 4檔2倍槓桿ETF跌幅13%起跳",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200204.aspx",
+   "at": "2026-11-20T08:23:00.000Z"
+  },
+  {
+   "title": "數發部：強化資安自主能量 今年累計培訓逾3900名資安人才",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200203.aspx",
+   "at": "2026-11-20T08:21:58.000Z"
+  },
+  {
+   "title": "10月外銷訂單1238億美元續創高 年增78.3%連21紅",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200201.aspx",
+   "at": "2026-11-20T08:20:54.000Z"
+  },
   {
    "title": "阿里巴巴遭股東提起集體訴訟 稱公司隱瞞與Megaspeed密切關係",
    "source": "鉅亨網",
@@ -43,10 +211,16 @@
    "at": "2026-11-20T08:20:04.000Z"
   },
   {
-   "title": "2支手機就能3D揮棒分析！經部攜28家新創搶攻5.4億商機 專利佈局助攻接軌國際",
+   "title": "2支手機就能3D揮棒分析！經部攜28家新創搶攻5.4億商機 專利佈局助攻國際",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6668841",
    "at": "2026-11-20T08:17:50.000Z"
+  },
+  {
+   "title": "東協電網計畫受矚 新加坡盼吸引投資促區域經濟成長",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611200200.aspx",
+   "at": "2026-11-20T08:16:52.000Z"
   },
   {
    "title": "鉅亨速報 - Factset 最新調查：玉山金(2884-TW)EPS預估下修至2.52元，預估目標價為47元",
@@ -73,6 +247,18 @@
    "at": "2026-11-20T08:04:57.000Z"
   },
   {
+   "title": "國巨跌破300元關卡創波段新低 自7/1高點回跌逾75%",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200191.aspx",
+   "at": "2026-11-20T07:58:33.000Z"
+  },
+  {
+   "title": "中工攜信紘科推台塑大樓都更 機電案49億元",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200185.aspx",
+   "at": "2026-11-20T07:52:20.000Z"
+  },
+  {
    "title": "〈航運指數〉SCFI連3跌反映傳統淡季 恐修正至12月中旬",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669047",
@@ -97,6 +283,12 @@
    "at": "2026-11-20T07:50:04.000Z"
   },
   {
+   "title": "投資台灣三大方案累計破3兆 福懋科砸逾111億擴封測產能",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200180.aspx",
+   "at": "2026-11-20T07:45:09.000Z"
+  },
+  {
    "title": "Anthropic 上市未能扭轉賣壓，美股回檔後該如何投資？",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669038",
@@ -107,6 +299,12 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669013",
    "at": "2026-11-20T07:32:22.000Z"
+  },
+  {
+   "title": "日股暴跌逾3000點 Anthropic上市難救行情",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611200171.aspx",
+   "at": "2026-11-20T07:28:50.000Z"
   },
   {
    "title": "輝達股價恐暴跌至100美元？機構提出看空的主要理由",
@@ -125,6 +323,12 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6668901",
    "at": "2026-11-20T07:08:17.000Z"
+  },
+  {
+   "title": "多空大分裂！投機客在COMEX銅市狂賣超108億美元 實體買家卻在逆勢抄底",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6668964",
+   "at": "2026-11-20T07:00:09.000Z"
   },
   {
    "title": "亞光合作夥伴Frore Systems續推進先進液冷散熱領域並獲CES獎",
@@ -151,12 +355,6 @@
    "at": "2026-11-20T06:36:47.000Z"
   },
   {
-   "title": "台股再崩2393點創近7月新低 本週重挫7641點",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200139.aspx",
-   "at": "2026-11-20T06:32:41.000Z"
-  },
-  {
    "title": "亞洲晶片股拋售演變為恐慌性踩踏 台韓股市成重災區",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6668962",
@@ -167,12 +365,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6668832",
    "at": "2026-11-20T06:10:05.000Z"
-  },
-  {
-   "title": "12月電子期金融期齊跌",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200131.aspx",
-   "at": "2026-11-20T06:06:23.000Z"
   },
   {
    "title": "鈺創：記憶體缺貨漲價壓縮部分需求新增需求仍較多",
@@ -193,208 +385,16 @@
    "at": "2026-11-20T06:00:04.000Z"
   },
   {
-   "title": "金管會與多倫多中心舉辦金融監理官交流活動 13國參與",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200127.aspx",
-   "at": "2026-11-20T05:59:15.000Z"
-  },
-  {
-   "title": "12月台指期跌2732點",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200126.aspx",
-   "at": "2026-11-20T05:58:13.000Z"
-  },
-  {
    "title": "拼多多逆勢大漲11%：收縮行銷開支 流量補貼時代正式告終",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6668888",
    "at": "2026-11-20T05:50:04.000Z"
   },
   {
-   "title": "台股再崩2393點收36033點 史上第3大收盤跌點",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200121.aspx",
-   "at": "2026-11-20T05:45:02.000Z"
-  },
-  {
-   "title": "台股開低走低 跌2393.60點",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200120.aspx",
-   "at": "2026-11-20T05:45:00.000Z"
-  },
-  {
    "title": "觀光署攜手遠創智慧攻國旅升級 結合停車便利與旅遊雙重回饋",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6668957",
    "at": "2026-11-20T05:42:03.000Z"
-  },
-  {
-   "title": "數發部推大專校院資安健檢團 強化中小企業防護韌性",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200118.aspx",
-   "at": "2026-11-20T05:35:55.000Z"
-  },
-  {
-   "title": "輝達共同創辦人哽咽批黃仁勳 指背叛公司核心價值",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611200115.aspx",
-   "at": "2026-11-20T05:26:49.000Z"
-  },
-  {
-   "title": "微軟與英特爾深化合作 共同打造差異化Azure基礎架構",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668924",
-   "at": "2026-11-20T05:20:04.000Z"
-  },
-  {
-   "title": "華碩Q4放量出貨輝達Vera Rubin NVL72 全方位AI工廠示範架構亮相SC26",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668903",
-   "at": "2026-11-20T05:20:04.000Z"
-  },
-  {
-   "title": "〈焦點股〉台股狂殺2400點 光通訊一片哀號超過10檔亮燈跌停",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668916",
-   "at": "2026-11-20T05:15:25.000Z"
-  },
-  {
-   "title": "Anthropic創紀錄IPO後再迎利多！將納入MSCI、富時全球指數",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668833",
-   "at": "2026-11-20T05:10:06.000Z"
-  },
-  {
-   "title": "馬來西亞研議改善投資保障協定 須兼顧國家利益與外交政策",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611200110.aspx",
-   "at": "2026-11-20T05:02:35.000Z"
-  },
-  {
-   "title": "美中俄史上首次三方峰會！普丁高度評價、川普親打12分 專家：為新型大國關係提供明確路徑",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668810",
-   "at": "2026-11-20T05:00:07.000Z"
-  },
-  {
-   "title": "台股盤中／大跌逾2,400點失守3萬6本週跌逾17%恐創1990年來最大單週跌幅",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668881",
-   "at": "2026-11-20T05:00:05.000Z"
-  },
-  {
-   "title": "劉文雄：產業需跨領域T型人才 電力穩定度需資金支持",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200106.aspx",
-   "at": "2026-11-20T04:53:27.000Z"
-  },
-  {
-   "title": "環工業者裕山多元方向發展擬辦現增籌資 將發行1萬張現增股",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668857",
-   "at": "2026-11-20T04:52:30.000Z"
-  },
-  {
-   "title": "安聯人壽重磅推出「扶力優長期照顧終身健康保險」 16歲即可投保 全齡守護新升級",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668851",
-   "at": "2026-11-20T04:48:42.000Z"
-  },
-  {
-   "title": "〈焦點股〉視陽矽水膠產品需求強勁積極擴產展望正面 逆風守紅盤",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6640784",
-   "at": "2026-11-20T04:48:37.000Z"
-  },
-  {
-   "title": "ETF吸金破紀錄！全球10月淨流入3931億美元 台灣奪亞太吸金王",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6663761",
-   "at": "2026-11-20T04:42:22.000Z"
-  },
-  {
-   "title": "傳暫停中國16奈米以下訂單 台積電：遵循適用法令",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200096.aspx",
-   "at": "2026-11-20T04:23:05.000Z"
-  },
-  {
-   "title": "AI下一棒誰接？國泰投信攜手大和國泰證券揭台韓半導體新商機",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6663468",
-   "at": "2026-11-20T04:15:26.000Z"
-  },
-  {
-   "title": "Anthropic創史上最大IPO！96%員工一夕成百萬美元富豪",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668789",
-   "at": "2026-11-20T04:15:13.000Z"
-  },
-  {
-   "title": "華航連11年獲頒APEX五星航空 首度拿最佳座椅舒適度獎",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668814",
-   "at": "2026-11-20T04:12:46.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：長榮(2603-TW)EPS預估上修至45.31元，預估目標價為271.5元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668817",
-   "at": "2026-11-20T04:11:03.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：創意(3443-TW)EPS預估下修至62.05元，預估目標價為9150元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668816",
-   "at": "2026-11-20T04:10:54.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：和碩(4938-TW)EPS預估上修至5.83元，預估目標價為99元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668815",
-   "at": "2026-11-20T04:10:45.000Z"
-  },
-  {
-   "title": "算力需求強 華碩第4季擴大輝達Vera Rubin機櫃出貨",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611200090.aspx",
-   "at": "2026-11-20T04:06:52.000Z"
-  },
-  {
-   "title": "〈分析〉川習會未解晶片僵局 北京反制牌如何牽動貿易休戰？",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668709",
-   "at": "2026-11-20T04:00:06.000Z"
-  },
-  {
-   "title": "黑色星期五！Anthropic IPO不夠力衝擊AI信仰 全球股災將創近三年最長跌勢紀錄",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668566",
-   "at": "2026-11-20T03:50:06.000Z"
-  },
-  {
-   "title": "AI下一波贏家藏在傳產？傳奇投資人轉向應用端 四大產業受關注",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668107",
-   "at": "2026-11-20T03:50:06.000Z"
-  },
-  {
-   "title": "盤中速報 - 集中市場加權指數下跌-2222.53點至36204.36點，跌幅5.78%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668759",
-   "at": "2026-11-20T03:41:59.000Z"
-  },
-  {
-   "title": "盤中速報 - 櫃買市場加權指數下跌-21.13點至264.2點，跌幅7.41%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668758",
-   "at": "2026-11-20T03:41:57.000Z"
-  },
-  {
-   "title": "盤中速報 - 集中市場加權指數下跌-2250.63點至36176.26點，跌幅5.86%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6668756",
-   "at": "2026-11-20T03:40:59.000Z"
   }
  ]
 }
