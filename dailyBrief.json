@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-21",
- "generatedAt": "2026-11-21T06:56:34.965Z",
+ "generatedAt": "2026-11-21T08:14:57.595Z",
  "items": [
   {
    "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控 道瓊標普陷修正區 費半瀉逾10% 輝達、美光暴跌約14%",
@@ -17,6 +17,12 @@
    "at": "2026-11-20T22:08:19.000Z"
   },
   {
+   "title": "黃仁勳可能轉投英特爾？華爾街憂帶走輝達核心人才",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669741",
+   "at": "2026-11-21T07:10:09.000Z"
+  },
+  {
    "title": "AI疑慮引爆美股重挫！標普、道瓊雙雙陷入修正區間 那斯達克抹去全年漲幅",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669685",
@@ -27,15 +33,21 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669652",
    "at": "2026-11-21T03:10:02.000Z"
-  },
-  {
-   "title": "輝達被Google母公司超車！退居美股市值第四 股價恐連7周收黑",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669540",
-   "at": "2026-11-20T15:50:04.000Z"
   }
  ],
  "more": [
+  {
+   "title": "超29萬人爆倉！比特幣跌破5.9萬美元、以太坊重挫8% 「數位黃金」失靈？",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669708",
+   "at": "2026-11-21T08:10:03.000Z"
+  },
+  {
+   "title": "台股血崩7641點下周守住35000！國安基金急派「定心丸」喊話4大撐盤亮點",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669743",
+   "at": "2026-11-21T07:58:46.000Z"
+  },
   {
    "title": "SpaceX 500億美元亞利桑那資料中心遇阻！總檢察長要求暫緩審查",
    "source": "鉅亨網",
@@ -383,18 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669666",
    "at": "2026-11-20T20:45:15.000Z"
-  },
-  {
-   "title": "盤中速報 - Palo Alto Networks Inc(PANW-US)大跌5.06%，報343.43美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669665",
-   "at": "2026-11-20T20:41:19.000Z"
-  },
-  {
-   "title": "川普：只向中國出售較舊款晶片 正商討全面協議",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669309",
-   "at": "2026-11-20T20:40:03.000Z"
   }
  ]
 }
