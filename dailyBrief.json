@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-21",
- "generatedAt": "2026-11-21T03:29:17.870Z",
+ "generatedAt": "2026-11-21T06:56:34.965Z",
  "items": [
   {
    "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控 道瓊標普陷修正區 費半瀉逾10% 輝達、美光暴跌約14%",
@@ -37,10 +37,76 @@
  ],
  "more": [
   {
+   "title": "SpaceX 500億美元亞利桑那資料中心遇阻！總檢察長要求暫緩審查",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669707",
+   "at": "2026-11-21T06:10:05.000Z"
+  },
+  {
+   "title": "〈熱門股〉宣德低軌衛星業務明年估增3成 無懼大盤逆風飆漲停周漲15%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669740",
+   "at": "2026-11-21T05:48:01.000Z"
+  },
+  {
+   "title": "做空AI交易開始獲利了結？ 《大賣空》貝瑞減半輝達、半導體ETF看跌期權",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669719",
+   "at": "2026-11-21T05:16:40.000Z"
+  },
+  {
+   "title": "美銀：標普跌破7000點可買入 但市場低估「硬著陸」風險",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669653",
+   "at": "2026-11-21T05:10:03.000Z"
+  },
+  {
+   "title": "ABB機器人出售案遭北京封殺 分拆上市重回選項 軟銀恐付分手費",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669732",
+   "at": "2026-11-21T04:30:06.000Z"
+  },
+  {
+   "title": "特斯拉、SpaceX最快12月合併？HSBC：馬斯克持股將達60%、爲股東帶來33%溢價",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669706",
+   "at": "2026-11-21T04:20:04.000Z"
+  },
+  {
+   "title": "台股本周跌7641點35年來最慘、金管會祭「有條件禁空令」、外銷訂單連21紅 本周大事回顧",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669536",
+   "at": "2026-11-21T04:10:08.000Z"
+  },
+  {
+   "title": "郭明錤：Google明年下修博通TPU出貨約百萬顆 「聯發科」可望受惠",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669649",
+   "at": "2026-11-21T04:00:06.000Z"
+  },
+  {
+   "title": "NGINX釋重大安全更新 資安署籲儘速升級防範入侵",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/ait/202611210071.aspx",
+   "at": "2026-11-21T03:51:25.000Z"
+  },
+  {
+   "title": "CrowdStrike洽購Zscaler ZS盤後飆18% 資安整併潮延燒",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669715",
+   "at": "2026-11-21T03:30:06.000Z"
+  },
+  {
    "title": "美國公開中國AI晶片採購清單！344萬顆輝達、AMD晶片申請僅88萬顆獲准",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669713",
    "at": "2026-11-21T03:12:41.000Z"
+  },
+  {
+   "title": "那斯達克重挫5.3%逼近熊市 美股AI震盪重點一次看",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611210053.aspx",
+   "at": "2026-11-21T03:08:47.000Z"
   },
   {
    "title": "AI泡沫年底前要破了？Polymarket機率急升至35% 但合約規則藏重大爭議",
@@ -329,72 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669309",
    "at": "2026-11-20T20:40:03.000Z"
-  },
-  {
-   "title": "盤中速報 - 數據狗(DDOG-US)大跌5.06%，報158.04美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669663",
-   "at": "2026-11-20T20:34:30.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：前線公司(FRO-US)EPS預估上修至11.31元，預估目標價為53.00元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669662",
-   "at": "2026-11-20T20:15:30.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：吉利德科學GILD-US的目標價調升至181元，幅度約3.43%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669661",
-   "at": "2026-11-20T20:15:21.000Z"
-  },
-  {
-   "title": "盤中速報 - 星座能源(CEG-US)大跌5.01%，報239.42美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669660",
-   "at": "2026-11-20T20:07:33.000Z"
-  },
-  {
-   "title": "貝森特：川習會談未提黃仁勳 重申輝達H200為晶片出口上限",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669308",
-   "at": "2026-11-20T20:00:08.000Z"
-  },
-  {
-   "title": "路透：輝達再陷法律風暴 SEC調查會計作業",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611210010.aspx",
-   "at": "2026-11-20T19:53:05.000Z"
-  },
-  {
-   "title": "盤中速報 - 防特網(FTNT-US)大跌5.01%，報124.88美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669657",
-   "at": "2026-11-20T19:48:20.000Z"
-  },
-  {
-   "title": "盤中速報 - 摩根士丹利(MS-US)大跌5.06%，報166.12美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669656",
-   "at": "2026-11-20T19:45:10.000Z"
-  },
-  {
-   "title": "盤中速報 - 高通(QCOM-US)大跌5.02%，報153.87美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669655",
-   "at": "2026-11-20T19:41:06.000Z"
-  },
-  {
-   "title": "AI推論｜範式智能API營收增逾15倍，貢獻四成新增營收",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669646",
-   "at": "2026-11-20T19:38:05.000Z"
-  },
-  {
-   "title": "Anthropic IPO規模增至935億美元承銷商不再需為超額配售買回股票",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669645",
-   "at": "2026-11-20T19:38:05.000Z"
   }
  ]
 }
