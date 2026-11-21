@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-21",
- "generatedAt": "2026-11-21T08:14:57.595Z",
+ "generatedAt": "2026-11-21T09:40:14.715Z",
  "items": [
   {
    "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控 道瓊標普陷修正區 費半瀉逾10% 輝達、美光暴跌約14%",
@@ -36,6 +36,12 @@
   }
  ],
  "more": [
+  {
+   "title": "AI破解「黎曼猜想」！Anthropic數學家宣稱與Claude合作、公開14份Lean程式碼供全球驗證",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669739",
+   "at": "2026-11-21T09:10:06.000Z"
+  },
   {
    "title": "超29萬人爆倉！比特幣跌破5.9萬美元、以太坊重挫8% 「數位黃金」失靈？",
    "source": "鉅亨網",
@@ -389,12 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669667",
    "at": "2026-11-20T20:48:11.000Z"
-  },
-  {
-   "title": "盤中速報 - 恩智浦半導體(NXPI-US)大跌5.1%，報238.92美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669666",
-   "at": "2026-11-20T20:45:15.000Z"
   }
  ]
 }
