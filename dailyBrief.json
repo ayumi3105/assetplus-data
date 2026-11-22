@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T07:57:41.333Z",
+ "generatedAt": "2026-11-22T09:41:46.831Z",
  "items": [
   {
    "title": "2018年劇本重演？美股暴跌 投資人質疑聯準會緊縮政策",
@@ -23,19 +23,37 @@
    "at": "2026-11-22T04:10:09.000Z"
   },
   {
-   "title": "軟銀欲收購SK海力士？孫正義一度考慮砸1兆美元、已接洽華爾街",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669717",
-   "at": "2026-11-21T13:10:05.000Z"
-  },
-  {
    "title": "馬斯克警告：AI產業2027年將面臨數千億美元資金短缺危機",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669844",
    "at": "2026-11-22T07:00:05.000Z"
+  },
+  {
+   "title": "美股恐慌指數VIX飆升至40 市場究竟在擔心什麼？",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669833",
+   "at": "2026-11-22T02:40:04.000Z"
   }
  ],
  "more": [
+  {
+   "title": "韓股暴跌 散戶已無現金攤平！26兆韓元融資面臨斷頭風暴",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669840",
+   "at": "2026-11-22T09:20:02.000Z"
+  },
+  {
+   "title": "比特幣崩了！5.5萬美元背後 加密市場發生了什麼？",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669851",
+   "at": "2026-11-22T08:40:04.000Z"
+  },
+  {
+   "title": "國銀海外據點前3季獲利811億 美國新加坡日本寫同期新高",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611220110.aspx",
+   "at": "2026-11-22T08:04:37.000Z"
+  },
   {
    "title": "狂發30張照片回味APEC！川普曬與普丁合影 標註「我的朋友」",
    "source": "鉅亨網",
@@ -65,12 +83,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669831",
    "at": "2026-11-22T03:20:02.000Z"
-  },
-  {
-   "title": "美股恐慌指數VIX飆升至40 市場究竟在擔心什麼？",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669833",
-   "at": "2026-11-22T02:40:04.000Z"
   },
   {
    "title": "駭客猛攻金融業 國銀今年探測攻擊逾2000萬次、AI上陣協防",
@@ -173,18 +185,6 @@
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/afe/202611210216.aspx",
    "at": "2026-11-21T13:45:52.000Z"
-  },
-  {
-   "title": "今彩539第115282期開獎",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/ahel/202611210203.aspx",
-   "at": "2026-11-21T12:43:21.000Z"
-  },
-  {
-   "title": "甲骨文宣布OpenAI基礎設施合約資金全數到位！股價盤後漲逾3%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669716",
-   "at": "2026-11-21T12:10:09.000Z"
   }
  ]
 }
