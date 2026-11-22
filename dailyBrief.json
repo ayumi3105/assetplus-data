@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T06:33:45.817Z",
+ "generatedAt": "2026-11-22T07:57:41.333Z",
  "items": [
   {
    "title": "2018年劇本重演？美股暴跌 投資人質疑聯準會緊縮政策",
@@ -29,13 +29,19 @@
    "at": "2026-11-21T13:10:05.000Z"
   },
   {
-   "title": "美股恐慌指數VIX飆升至40 市場究竟在擔心什麼？",
+   "title": "馬斯克警告：AI產業2027年將面臨數千億美元資金短缺危機",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669833",
-   "at": "2026-11-22T02:40:04.000Z"
+   "url": "https://news.cnyes.com/news/id/6669844",
+   "at": "2026-11-22T07:00:05.000Z"
   }
  ],
  "more": [
+  {
+   "title": "狂發30張照片回味APEC！川普曬與普丁合影 標註「我的朋友」",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669849",
+   "at": "2026-11-22T07:39:03.000Z"
+  },
   {
    "title": "伊朗宣稱擊中巴林美軍雷達 沙烏地攔截一枚飛彈",
    "source": "鉅亨網",
@@ -59,6 +65,12 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669831",
    "at": "2026-11-22T03:20:02.000Z"
+  },
+  {
+   "title": "美股恐慌指數VIX飆升至40 市場究竟在擔心什麼？",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669833",
+   "at": "2026-11-22T02:40:04.000Z"
   },
   {
    "title": "駭客猛攻金融業 國銀今年探測攻擊逾2000萬次、AI上陣協防",
@@ -173,24 +185,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6669716",
    "at": "2026-11-21T12:10:09.000Z"
-  },
-  {
-   "title": "美媒：軟銀曾探詢1兆美元收購SK海力士 但不再考慮",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611210191.aspx",
-   "at": "2026-11-21T11:27:55.000Z"
-  },
-  {
-   "title": "SK海力士取得鎧俠14.1%股權成最大間接股東！八年投資獲利逾20兆韓元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6669710",
-   "at": "2026-11-21T11:10:05.000Z"
-  },
-  {
-   "title": "比特幣跌至2年新低 AI股估值疑慮引發風險資產賣壓",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611210188.aspx",
-   "at": "2026-11-21T11:05:48.000Z"
   }
  ]
 }
