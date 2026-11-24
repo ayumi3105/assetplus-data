@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-24",
- "generatedAt": "2026-11-24T02:32:12.572Z",
+ "generatedAt": "2026-11-24T03:02:07.028Z",
  "items": [
   {
    "title": "〈美股盤後〉見證歷史！黃仁勳辭職11天閃電回鍋 輝達單日狂飆超31% 費半瘋漲超14%",
@@ -29,13 +29,73 @@
    "at": "2026-11-23T22:44:42.000Z"
   },
   {
-   "title": "抱著怕跌 賣了怕漲！輝達暴漲逾30% 揭美股投資人兩難",
+   "title": "空頭一夜血虧122億美元！三倍做空輝達ETF崩92% 淨值幾乎歸零 2019年來最慘",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670373",
-   "at": "2026-11-23T19:30:03.000Z"
+   "url": "https://news.cnyes.com/news/id/6670741",
+   "at": "2026-11-24T02:22:09.000Z"
   }
  ],
  "more": [
+  {
+   "title": "美股強彈！黃仁勳回歸點燃AI行情 華爾街熱議底部已浮現？",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670636",
+   "at": "2026-11-24T03:00:27.000Z"
+  },
+  {
+   "title": "產業大老看旺AI後市、黃仁勳回歸添信心 國產搶南台灣半導體建設商機",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670790",
+   "at": "2026-11-24T02:51:41.000Z"
+  },
+  {
+   "title": "長照需求飆10倍達87萬人！卓揆端5年489億元健康台灣深耕計畫 擴大醫療長照量能",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670782",
+   "at": "2026-11-24T02:48:29.000Z"
+  },
+  {
+   "title": "〈房產〉一表看桃園各行政區房價變化 大園年漲12%居冠、龍潭緊追在後",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670788",
+   "at": "2026-11-24T02:47:15.000Z"
+  },
+  {
+   "title": "黃仁勳歷劫歸來！川普力挺重掌輝達 但麻煩還沒結束",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670388",
+   "at": "2026-11-24T02:44:32.000Z"
+  },
+  {
+   "title": "墨石資本旗下大投控股加速布局美國資本市場",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670784",
+   "at": "2026-11-24T02:41:13.000Z"
+  },
+  {
+   "title": "「開心爆了！」輝達員工大廳歡迎黃仁勳齊喊「Welcome back」 內部群組嗨到不行",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670772",
+   "at": "2026-11-24T02:40:06.000Z"
+  },
+  {
+   "title": "黃仁勳12月3日赴參議院公開作證！舒默放話：民主黨將動用全部權力徹查",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670663",
+   "at": "2026-11-24T02:40:05.000Z"
+  },
+  {
+   "title": "黃仁勳回任輝達執行長 PCB股滿血回歸多檔亮燈",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611240056.aspx",
+   "at": "2026-11-24T02:34:51.000Z"
+  },
+  {
+   "title": "〈焦點股〉漢康新藥臨床試驗暫停慘亮綠燈 董事長加碼持股",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670777",
+   "at": "2026-11-24T02:32:47.000Z"
+  },
   {
    "title": "黃仁勳復職有內幕交易？340萬美元買權押注暴賺9000%、木頭姐卻提前賣股",
    "source": "鉅亨網",
@@ -61,16 +121,16 @@
    "at": "2026-11-24T02:30:09.000Z"
   },
   {
+   "title": "黃仁勳重掌輝達 台股大漲3368點上市櫃逾550檔漲停",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611240054.aspx",
+   "at": "2026-11-24T02:28:46.000Z"
+  },
+  {
    "title": "蘋果iPhone Duo難尋第二家面板商 傳三星至少再獨供五年",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6670383",
    "at": "2026-11-24T02:24:42.000Z"
-  },
-  {
-   "title": "空頭一夜血虧122億美元！三倍做空輝達ETF崩92% 淨值幾乎歸零 2019年來最慘",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670741",
-   "at": "2026-11-24T02:22:09.000Z"
   },
   {
    "title": "傑佛瑞斯轟黃仁勳復職「站不住腳」！要求NDAA納入嚴格晶片管制 Megaspeed遭美封殺",
@@ -85,6 +145,12 @@
    "at": "2026-11-24T02:14:52.000Z"
   },
   {
+   "title": "台股大漲9.15%史上第2大漲幅 正2與反向ETF兩樣情",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611240048.aspx",
+   "at": "2026-11-24T02:14:33.000Z"
+  },
+  {
    "title": "川普為何力保黃仁勳？《紐約時報》揭兩人關係轉變：輝達「大到不能倒」 AI霸權才是關鍵",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6670650",
@@ -95,6 +161,12 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6670662",
    "at": "2026-11-24T02:05:57.000Z"
+  },
+  {
+   "title": "黃仁勳回歸輝達 加州檢方稱不影響調查必要性",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611240043.aspx",
+   "at": "2026-11-24T02:04:23.000Z"
   },
   {
    "title": "黃仁勳復職內幕：川普全程參與 必須保護天才",
@@ -323,78 +395,6 @@
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/aopl/202611240015.aspx",
    "at": "2026-11-23T23:03:20.000Z"
-  },
-  {
-   "title": "馬斯克力挺黃仁勳復職：患難見真情 酒肉朋友無價值",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670403",
-   "at": "2026-11-23T23:01:20.000Z"
-  },
-  {
-   "title": "記憶體股絕地大反攻！花旗喊美光上看1300美元、SanDisk潛在漲幅逾兩倍",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670387",
-   "at": "2026-11-23T22:50:03.000Z"
-  },
-  {
-   "title": "〈紐約匯市〉美元升至近20個月新高 AI投資熱潮再度點燃、帶動經濟展望",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670185",
-   "at": "2026-11-23T22:46:28.000Z"
-  },
-  {
-   "title": "「謝謝給我第二次機會」黃仁勳重返輝達總部 員工歡呼聲響徹雲霄",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670380",
-   "at": "2026-11-23T22:40:03.000Z"
-  },
-  {
-   "title": "AI教父黃仁勳重磅回歸 輝達創紀錄單日拉抬市場2兆美元",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611240013.aspx",
-   "at": "2026-11-23T22:37:13.000Z"
-  },
-  {
-   "title": "范斯遭參議院調查！疑助政治金主搶委內瑞拉石油大單 Vitol已賺進數億美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670405",
-   "at": "2026-11-23T22:30:05.000Z"
-  },
-  {
-   "title": "輝達市值暴增近1兆美元！川普：沒人能像黃仁勳讓股價起死回生",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670395",
-   "at": "2026-11-23T22:20:16.000Z"
-  },
-  {
-   "title": "AI泡沫警報響起！SK海力士2028年利潤恐暴跌86% 三星卻被搶單到2031年",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670120",
-   "at": "2026-11-23T22:10:03.000Z"
-  },
-  {
-   "title": "蘋果傳推紅色版HomePod mini 2、AirPods Max 2 搶攻年末商機",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670382",
-   "at": "2026-11-23T22:08:24.000Z"
-  },
-  {
-   "title": "原油供應趨於充裕且伊朗情勢緩和 國際油價重挫",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611240011.aspx",
-   "at": "2026-11-23T21:41:08.000Z"
-  },
-  {
-   "title": "〈能源盤後〉 原油重挫逾3%！Brent、WTI齊創近三個月新低 利比亞復產加劇供應過剩疑慮",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670245",
-   "at": "2026-11-23T21:30:16.000Z"
-  },
-  {
-   "title": "記憶體超級循環迎轉折？高盛預警2028年DRAM、NAND、HBM價格恐全面下跌兩成",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670391",
-   "at": "2026-11-23T21:29:50.000Z"
   }
  ]
 }
