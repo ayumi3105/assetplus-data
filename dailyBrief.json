@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-24",
- "generatedAt": "2026-11-24T03:02:07.028Z",
+ "generatedAt": "2026-11-24T03:28:05.534Z",
  "items": [
   {
    "title": "〈美股盤後〉見證歷史！黃仁勳辭職11天閃電回鍋 輝達單日狂飆超31% 費半瘋漲超14%",
@@ -36,6 +36,30 @@
   }
  ],
  "more": [
+  {
+   "title": "黃仁勳戲劇性重掌輝達！盤點美企「迴旋鏢CEO」名單：奧特曼、賈伯斯、艾格都曾離職再掌權",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670745",
+   "at": "2026-11-24T03:20:10.000Z"
+  },
+  {
+   "title": "黃仁勳「熹妃回宮」點火！這5檔ETF最搶手 2檔主動式強勢上榜",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670808",
+   "at": "2026-11-24T03:12:12.000Z"
+  },
+  {
+   "title": "黃仁勳回鍋案例前所未見！川普直接介入輝達董事會 業界憂創政府干預企業先例",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670402",
+   "at": "2026-11-24T03:10:06.000Z"
+  },
+  {
+   "title": "黃仁勳回鍋、輝達飆逾3成 AI泡沫疑慮還卡在兩筆帳",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6670656",
+   "at": "2026-11-24T03:03:45.000Z"
+  },
   {
    "title": "美股強彈！黃仁勳回歸點燃AI行情 華爾街熱議底部已浮現？",
    "source": "鉅亨網",
@@ -371,30 +395,6 @@
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/afe/202611240020.aspx",
    "at": "2026-11-23T23:40:31.000Z"
-  },
-  {
-   "title": "Anthropic一度跌逾3% 為何未能跟上輝達大漲行情？",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670393",
-   "at": "2026-11-23T23:40:03.000Z"
-  },
-  {
-   "title": "川普為何力挺黃仁勳復職？路透：看重輝達抗中AI布局 開放權重模型成戰略關鍵",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670406",
-   "at": "2026-11-23T23:31:11.000Z"
-  },
-  {
-   "title": "換掉AI巨頭CEO有多難？黃仁勳、阿特曼均不到兩週就回歸",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670386",
-   "at": "2026-11-23T23:10:04.000Z"
-  },
-  {
-   "title": "Megaspeed遭美列黑名單 涉助中取得輝達AI晶片",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611240015.aspx",
-   "at": "2026-11-23T23:03:20.000Z"
   }
  ]
 }
