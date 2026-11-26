@@ -1,46 +1,322 @@
 {
  "version": 1,
- "edition": "open",
+ "edition": "close",
  "date": "2026-11-26",
- "generatedAt": "2026-11-26T04:23:46.964Z",
+ "generatedAt": "2026-11-26T08:04:10.478Z",
  "items": [
   {
-   "title": "〈美股盤後〉道瓊驚天逆轉收紅164點！輝達跌近4% AI股賣壓未歇",
+   "title": "〈台股盤後〉電子族群強勢反彈帶動收漲近千點 護盤指標股台積電收小跌",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671872",
-   "at": "2026-11-25T22:04:58.000Z"
+   "url": "https://news.cnyes.com/news/id/6672829",
+   "at": "2026-11-26T06:09:09.000Z"
   },
   {
-   "title": "美股上演深V反攻 債市卻拉警報！小摩示警4500億美元AI發債巨浪",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672021",
-   "at": "2026-11-26T03:40:05.000Z"
+   "title": "三大法人賣超台股132.65億元",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260169.aspx",
+   "at": "2026-11-26T07:16:57.000Z"
   },
   {
-   "title": "AI信仰遭遇極限壓力測試！美股超級「V轉」 分析師：深V不是轉折 是分歧",
+   "title": "野村投信最新台股看法--【台股操盤人筆記】 短線雜音仍存，聚焦ASIC供應鏈機會",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671911",
-   "at": "2026-11-26T01:10:25.000Z"
+   "url": "https://news.cnyes.com/news/id/6660654",
+   "at": "2026-11-26T05:45:59.000Z"
   },
   {
-   "title": "新關稅提案添通膨壓力 Fed高利率恐更難退場",
+   "title": "六檔大型ETF會跳舞 00981A本周飆漲18%彈跳力居冠",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671868",
-   "at": "2026-11-26T00:00:07.000Z"
+   "url": "https://news.cnyes.com/news/id/6672858",
+   "at": "2026-11-26T07:30:06.000Z"
   },
   {
-   "title": "特斯拉Robotaxi進展打動華爾街空頭！分析師首度喊買、目標價暗示還有25%漲幅",
+   "title": "台股強彈956點重返3萬9！關稅真的沒問題?底部到了嗎?",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671208",
-   "at": "2026-11-25T23:40:04.000Z"
+   "url": "https://news.cnyes.com/news/id/6672846",
+   "at": "2026-11-26T06:58:21.000Z"
   }
  ],
  "more": [
+  {
+   "title": "歐洲首富延後退休！阿爾諾將掌舵LVMH至95歲",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6671878",
+   "at": "2026-11-26T08:00:07.000Z"
+  },
+  {
+   "title": "〈房產〉千萬元總預算在桃園買什麼房 桃園、中壢及龜山三大熱區比一比",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672900",
+   "at": "2026-11-26T07:58:09.000Z"
+  },
+  {
+   "title": "和泰車啟用楊梅物流中心第三倉 強化零件供應體系",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672866",
+   "at": "2026-11-26T07:39:43.000Z"
+  },
+  {
+   "title": "AI贏家再洗牌！晶片股遭拋售、軟體股接棒 市場從「算力信仰」轉向「護城河篩選」",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672841",
+   "at": "2026-11-26T07:30:07.000Z"
+  },
+  {
+   "title": "美國擬對中國等經濟體加徵301關稅 中國商務部、外交部回應！",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672859",
+   "at": "2026-11-26T07:29:46.000Z"
+  },
+  {
+   "title": "OpenAI內部模型挑戰57年數學難題 矩陣乘法「速度極限」指向2.25",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6671981",
+   "at": "2026-11-26T07:19:24.000Z"
+  },
+  {
+   "title": "新光三越百貨週年慶壓軸登場 看旺買氣至農曆年",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260168.aspx",
+   "at": "2026-11-26T07:14:55.000Z"
+  },
+  {
+   "title": "台股收復3萬9關 外資續砍491億、三大法人賣超132.65億元",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672850",
+   "at": "2026-11-26T07:02:16.000Z"
+  },
+  {
+   "title": "AI、半導體類股強彈 日股收漲",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260159.aspx",
+   "at": "2026-11-26T06:58:35.000Z"
+  },
+  {
+   "title": "路易莎難扛人力成本 黃銘賢：明年評估調漲3%到5%",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260158.aspx",
+   "at": "2026-11-26T06:57:33.000Z"
+  },
+  {
+   "title": "一銀攜手VASP業者 點數經濟跨足美元穩定幣",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260156.aspx",
+   "at": "2026-11-26T06:54:29.000Z"
+  },
+  {
+   "title": "〈穎崴法說〉董座：客戶需求非常積極 明年營運成長估雙位數以上",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672843",
+   "at": "2026-11-26T06:48:17.000Z"
+  },
+  {
+   "title": "美擬對14經濟體加徵新關稅 主要貿易夥伴紛表不滿",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611260153.aspx",
+   "at": "2026-11-26T06:40:22.000Z"
+  },
+  {
+   "title": "川普啟動產能過剩關稅：日本抗議、巴西反嗆「不合法、將對等回擊」",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672124",
+   "at": "2026-11-26T06:30:09.000Z"
+  },
+  {
+   "title": "和泰車日本辦公室啟用 攜手日野經銷商攻商用車商機",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260149.aspx",
+   "at": "2026-11-26T06:27:13.000Z"
+  },
+  {
+   "title": "富邦006208分割投票27日開跑 估1拆7、入手一張只要3萬元",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672832",
+   "at": "2026-11-26T06:15:14.000Z"
+  },
+  {
+   "title": "台股收漲956點站回39000點 法人：短線年線震盪",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260144.aspx",
+   "at": "2026-11-26T06:13:03.000Z"
+  },
+  {
+   "title": "科技股修正後還有機會？野村投信解析2027台股布局方向 「台股基金老字號」以研究實力掌握產業新局",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6671284",
+   "at": "2026-11-26T06:06:34.000Z"
+  },
+  {
+   "title": "亞洲首發！施羅德00419A聚焦半導體與AI基建今上市 證交所掛牌衝245檔",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672692",
+   "at": "2026-11-26T06:04:33.000Z"
+  },
+  {
+   "title": "《價值型投資 最新產業研究報告》騰輝電子-KY (6672-TW) 黏合片推升毛利，特殊材料接新單",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672693",
+   "at": "2026-11-26T05:55:50.000Z"
+  },
+  {
+   "title": "12月台股期指漲1332點",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260138.aspx",
+   "at": "2026-11-26T05:54:49.000Z"
+  },
+  {
+   "title": "12月電子期金融期齊漲",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260137.aspx",
+   "at": "2026-11-26T05:53:47.000Z"
+  },
+  {
+   "title": "台股上漲956點收39151點 PCB散熱族群反彈",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260136.aspx",
+   "at": "2026-11-26T05:52:45.000Z"
+  },
+  {
+   "title": "台股漲956.38點",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260133.aspx",
+   "at": "2026-11-26T05:45:39.000Z"
+  },
+  {
+   "title": "幣託助攻第一銀行跨足虛擬資產 粉獅幣換兩大主流穩定幣",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672127",
+   "at": "2026-11-26T05:35:58.000Z"
+  },
+  {
+   "title": "美擬加徵新關稅 日稱「令人遺憾」否認產能過剩",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611260130.aspx",
+   "at": "2026-11-26T05:35:32.000Z"
+  },
+  {
+   "title": "和泰車物流轉型 斥資10億打造楊梅智慧物流新倉",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260127.aspx",
+   "at": "2026-11-26T05:33:24.000Z"
+  },
+  {
+   "title": "華爾街罕見出現多空對決 同一家研究機構分析師對Anthropic股價看法分歧",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6671890",
+   "at": "2026-11-26T05:30:03.000Z"
+  },
+  {
+   "title": "調查：歐洲半數工企陷財務壓力 370萬職位恐不保",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611260124.aspx",
+   "at": "2026-11-26T05:27:17.000Z"
+  },
+  {
+   "title": "〈焦點股〉SpaceX獲准發射百萬顆衛星 激勵穩懋亮燈漲停領7檔題材股齊嗨",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672121",
+   "at": "2026-11-26T05:24:42.000Z"
+  },
+  {
+   "title": "穎崴：AI需求續強明年業績訂單看增 產能擴充供不應求",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260122.aspx",
+   "at": "2026-11-26T05:20:13.000Z"
+  },
+  {
+   "title": "AI豪賭推升融資成本！軟銀集團信用風險首升破500基點 創四年來新高",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672062",
+   "at": "2026-11-26T05:20:09.000Z"
+  },
+  {
+   "title": "銅礦股連跌13週敲響景氣警鐘 《巴隆》：COPX逼近關鍵支撐、留意反彈機會",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6671871",
+   "at": "2026-11-26T05:10:04.000Z"
+  },
+  {
+   "title": "泰柬衝突波及零售 柬埔寨7-Eleven門市12/25全關",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611260116.aspx",
+   "at": "2026-11-26T05:05:00.000Z"
+  },
+  {
+   "title": "GOGOLOOK獲利爆發有望開始配息 樂觀看資安商機巨大",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672101",
+   "at": "2026-11-26T04:53:46.000Z"
+  },
+  {
+   "title": "今年績效勝過89%同業！這家亞洲基金提前減碼科技股、轉抱防禦股",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6671897",
+   "at": "2026-11-26T04:50:06.000Z"
+  },
+  {
+   "title": "幾十元中國商品「坐飛機」出海 航空貨運生意火爆",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6671904",
+   "at": "2026-11-26T04:47:20.000Z"
+  },
+  {
+   "title": "新光保全TCSA永續報告金級晉升白金級 事業群雙獲銀級肯定",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672092",
+   "at": "2026-11-26T04:43:15.000Z"
+  },
+  {
+   "title": "韓國央行升息至2年高點 AI出口帶動上修經濟預測",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611260109.aspx",
+   "at": "2026-11-26T04:37:44.000Z"
+  },
+  {
+   "title": "TEL擴大南台灣布局 高雄新辦公室明年啟用",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260104.aspx",
+   "at": "2026-11-26T04:30:34.000Z"
+  },
+  {
+   "title": "日銀委員釋加快升息訊號 稱須迅速因應通膨風險",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672012",
+   "at": "2026-11-26T04:30:06.000Z"
+  },
+  {
+   "title": "力晶股臨會董事改選 小股東陣營近2成持股未取得席次、質疑相關程序",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672072",
+   "at": "2026-11-26T04:28:07.000Z"
+  },
+  {
+   "title": "兩大信評機構接連拆台！穆迪展望下修+標普負面觀察 輝達「治理缺陷」90天不補恐遭降評",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672064",
+   "at": "2026-11-26T04:25:15.000Z"
+  },
+  {
+   "title": "美301調查結果出爐 工總籲確保台美協商成果落實",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611260098.aspx",
+   "at": "2026-11-26T04:22:21.000Z"
+  },
   {
    "title": "統一超連10年拿TCSA大獎 立超商產業標竿",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6672071",
    "at": "2026-11-26T04:22:15.000Z"
+  },
+  {
+   "title": "鉅亨速報 - Factset 最新調查：儒鴻(1476-TW)EPS預估上修至25.21元，預估目標價為446元",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672068",
+   "at": "2026-11-26T04:10:35.000Z"
+  },
+  {
+   "title": "鉅亨速報 - Factset 最新調查：力旺(3529-TW)目標價調升至3492.5元，幅度約4.88%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672067",
+   "at": "2026-11-26T04:10:26.000Z"
   },
   {
    "title": "「有些人不該從菜單移除」 Denny’s 迎黃仁勳回歸 重掛輝達創業紀念牌",
@@ -85,6 +361,12 @@
    "at": "2026-11-26T03:43:32.000Z"
   },
   {
+   "title": "美股上演深V反攻 債市卻拉警報！小摩示警4500億美元AI發債巨浪",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6672021",
+   "at": "2026-11-26T03:40:05.000Z"
+  },
+  {
    "title": "六成金融機構認詐騙手法複雜化 Visa推資安情報平台搶先攔截",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6672053",
@@ -95,12 +377,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6672003",
    "at": "2026-11-26T03:32:14.000Z"
-  },
-  {
-   "title": "工研院與英創新中心OREC續約5年 搶亞太風電商機",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260063.aspx",
-   "at": "2026-11-26T03:22:06.000Z"
   },
   {
    "title": "〈SemiAnalysis報告解析〉AI加速器需求與出貨預測大降！輝達受衝擊最大 博通相對抗跌",
@@ -119,282 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6671905",
    "at": "2026-11-26T03:19:04.000Z"
-  },
-  {
-   "title": "美國301關稅利空淡化 台股盤中勁揚逾1200點",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260058.aspx",
-   "at": "2026-11-26T03:14:55.000Z"
-  },
-  {
-   "title": "信評：若台股流動性惡化 恐影響證券商信用狀況",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260057.aspx",
-   "at": "2026-11-26T03:13:53.000Z"
-  },
-  {
-   "title": "〈焦點股〉SpaceX獲准部署百萬顆衛星 啟碁、兆赫、友訊強攻漲停領軍網通族群",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672049",
-   "at": "2026-11-26T03:11:27.000Z"
-  },
-  {
-   "title": "押注Anthropic帳面賺200億美元 阿聯酋的「算力美元」賭局才剛開始",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671980",
-   "at": "2026-11-26T03:10:06.000Z"
-  },
-  {
-   "title": "兆聯實業在手訂單衝380億元 創歷史新高",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260050.aspx",
-   "at": "2026-11-26T02:53:38.000Z"
-  },
-  {
-   "title": "黃仁勳閃電官復原職 為什麼不穿皮衣了？",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671907",
-   "at": "2026-11-26T02:51:03.000Z"
-  },
-  {
-   "title": "AI債信警訊響起！CoreWeave違約率飆68%、通膨升溫，台股止穩必看「兩大關鍵指標」",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672042",
-   "at": "2026-11-26T02:50:56.000Z"
-  },
-  {
-   "title": "Anthropic爆驚人內幕！企業文化如邪教？員工被稱「螞蟻」CEO示警AI有3成機率毀滅人類",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672017",
-   "at": "2026-11-26T02:50:05.000Z"
-  },
-  {
-   "title": "台積電擴大在美投資 鄭麗君：協助爭取豁免及232零關稅配額",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aipl/202611260049.aspx",
-   "at": "2026-11-26T02:49:35.000Z"
-  },
-  {
-   "title": "AI股跌勢擴大後收斂 華爾街重新檢視AI熱潮財務風險",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260046.aspx",
-   "at": "2026-11-26T02:40:29.000Z"
-  },
-  {
-   "title": "美政府也分利！博利財團簽百億美元換股協議 買盧克石油海外資產",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672015",
-   "at": "2026-11-26T02:40:03.000Z"
-  },
-  {
-   "title": "中信投顧：301關稅影響不大 明年台股倒吃甘蔗",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260043.aspx",
-   "at": "2026-11-26T02:32:22.000Z"
-  },
-  {
-   "title": "爆倉300億美元仍照辦「奇點婚禮」！25歲AI投資天才背後的矽谷權力圈 揭開不到25人的未來帝國",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671883",
-   "at": "2026-11-26T02:30:10.000Z"
-  },
-  {
-   "title": "點數秒變穩定幣！一銀攜手幣託BitoPro 首創粉獅幣即時兌換USDT、USDC",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672030",
-   "at": "2026-11-26T02:27:41.000Z"
-  },
-  {
-   "title": "胡塞報復！攻擊沙烏地阿拉伯吉達港、吉贊港",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672007",
-   "at": "2026-11-26T02:22:59.000Z"
-  },
-  {
-   "title": "美AI晶片恐供過於求！SemiAnalysis下修2030年支出40% 輝達首當其衝",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672014",
-   "at": "2026-11-26T02:20:07.000Z"
-  },
-  {
-   "title": "美啟動「產能過剩」301關稅：南韓暫守15%、中國20% 1月聽證定生死",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671995",
-   "at": "2026-11-26T02:20:07.000Z"
-  },
-  {
-   "title": "美產能過剩301報告點名14國 龔明鑫揭台美關稅3大優勢：半導體豁免穩了",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6670939",
-   "at": "2026-11-26T02:06:21.000Z"
-  },
-  {
-   "title": "美國擬對主要貿易夥伴加徵新關稅 歐盟強烈反對",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672001",
-   "at": "2026-11-26T02:05:14.000Z"
-  },
-  {
-   "title": "SpaceX獲准擴大部署 低軌衛星台廠供應鏈強勢表態",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260041.aspx",
-   "at": "2026-11-26T02:03:18.000Z"
-  },
-  {
-   "title": "美銀2027年展望：AI投資成美國經濟最大變數 Fed料再升息三次",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671881",
-   "at": "2026-11-26T02:00:09.000Z"
-  },
-  {
-   "title": "昕力資攜手國內醫學中心 首見完成血液透析碳盤查",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672008",
-   "at": "2026-11-26T01:46:43.000Z"
-  },
-  {
-   "title": "傳五角大廈曾想動用《國防生產法》讓黃仁勳復職 官方否認",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671999",
-   "at": "2026-11-26T01:40:26.000Z"
-  },
-  {
-   "title": "〈台股開盤〉大盤由電子權值股帶動強勢反彈逾千點 台積電仍是多空指標",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672000",
-   "at": "2026-11-26T01:32:55.000Z"
-  },
-  {
-   "title": "AI記憶體紅利推高經濟成長！南韓央行宣布升息1碼抗通膨 與美利差降至0.75個百分點",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671960",
-   "at": "2026-11-26T01:32:49.000Z"
-  },
-  {
-   "title": "黃仁勳「失業11天」在幹嘛？曾私訊好友想騎重機橫越美國",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671964",
-   "at": "2026-11-26T01:23:32.000Z"
-  },
-  {
-   "title": "電金傳齊揚 台股早盤上漲逾900點重返39000點",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260033.aspx",
-   "at": "2026-11-26T01:20:00.000Z"
-  },
-  {
-   "title": "川普12/4赴亞利桑那州 出席台積電晶片廠擴建動土典禮",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671912",
-   "at": "2026-11-26T01:14:03.000Z"
-  },
-  {
-   "title": "星巴克、瑞幸扎堆入局 飲品開始在中國拚高蛋白了",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671899",
-   "at": "2026-11-26T01:10:21.000Z"
-  },
-  {
-   "title": "新台幣開盤升0.6分 為33.12元",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260030.aspx",
-   "at": "2026-11-26T01:04:53.000Z"
-  },
-  {
-   "title": "台股開盤漲240.56點",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260029.aspx",
-   "at": "2026-11-26T01:03:51.000Z"
-  },
-  {
-   "title": "Palantir CEO：AI恐加劇貧富差距、傷害中產階級！企業數據主權成關鍵",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671880",
-   "at": "2026-11-26T01:00:05.000Z"
-  },
-  {
-   "title": "北歐6家企業推國防採購與產能合作 強化區域防禦能力",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611260028.aspx",
-   "at": "2026-11-26T00:58:48.000Z"
-  },
-  {
-   "title": "美經濟持續溫和成長 聯準會褐皮書示警通膨居高不下",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611260027.aspx",
-   "at": "2026-11-26T00:57:46.000Z"
-  },
-  {
-   "title": "SpaceX大手筆送股！每個活躍川普帳戶獲1股 馬斯克再加碼1股",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671898",
-   "at": "2026-11-26T00:40:05.000Z"
-  },
-  {
-   "title": "川普新關稅恐讓美國稅率回到最高法院推翻前水準！耶魯估整體平均稅率升至13.9%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671891",
-   "at": "2026-11-26T00:30:06.000Z"
-  },
-  {
-   "title": "亞馬遜鬆手？傳與Meta談判解除Muse封鎖 廣告生意成焦點",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671894",
-   "at": "2026-11-26T00:20:04.000Z"
-  },
-  {
-   "title": "黃仁勳回鍋引分歧 標普列降級觀察、穆迪維持評等",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260022.aspx",
-   "at": "2026-11-26T00:15:35.000Z"
-  },
-  {
-   "title": "感恩節前美科技股走弱 301新關稅成台股變數",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260021.aspx",
-   "at": "2026-11-26T00:10:33.000Z"
-  },
-  {
-   "title": "Anthropic執行長駁「把控制權交給AI」：荒謬！自我改進應設限",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671893",
-   "at": "2026-11-26T00:10:18.000Z"
-  },
-  {
-   "title": "美擬對巴西飛機及糖品加徵關稅 魯拉政府強烈反彈",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611260019.aspx",
-   "at": "2026-11-26T00:09:28.000Z"
-  },
-  {
-   "title": "美股重點新聞摘要2026年11月26日",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671734",
-   "at": "2026-11-26T00:00:18.000Z"
-  },
-  {
-   "title": "iPhone、晶片暫列美301關稅豁免！台積電、輝達鬆口氣 越南製AirPods恐遭課最高35%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671885",
-   "at": "2026-11-25T23:50:05.000Z"
-  },
-  {
-   "title": "美軍引爆愛荷華州近萬磅過期疊氮化鉛 官方稱初步未測到有毒鉛塵",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671896",
-   "at": "2026-11-25T23:30:04.000Z"
-  },
-  {
-   "title": "SpaceX、馬斯克聯手捐股！川普帳戶每戶將獲兩股股票",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671875",
-   "at": "2026-11-25T23:20:08.000Z"
-  },
-  {
-   "title": "摩根大通看空銅鋁！看好黃金2027年反彈、2027第四季上看4500美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6671641",
-   "at": "2026-11-25T23:10:04.000Z"
   }
  ]
 }
