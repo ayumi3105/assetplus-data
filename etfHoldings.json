@@ -1,52 +1,57 @@
 {
-  "asOf": "2026-11-24",
+  "asOf": "2026-11-25",
   "note": "只收錄各 ETF 的前幾大成分股。權重加總不到 100% 的部分在畫面上歸為「其他」，不要當成 0。",
   "etfs": {
     "0050": {
       "name": "元大台灣50",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 60.48
+          "weight": 59.26
         },
         {
           "symbol": "2454",
           "name": "聯發科",
-          "weight": 6.17
+          "weight": 6.16
         },
         {
           "symbol": "2317",
           "name": "鴻海",
-          "weight": 2.9
+          "weight": 2.99
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "weight": 2.34
+          "weight": 2.44
         },
         {
           "symbol": "3711",
           "name": "日月光投控",
-          "weight": 1.86
+          "weight": 1.92
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 1.34
+          "weight": 1.38
         },
         {
           "symbol": "1303",
           "name": "南亞",
-          "weight": 1.28
+          "weight": 1.36
         },
         {
           "symbol": "2881",
           "name": "富邦金",
-          "weight": 1.27
+          "weight": 1.31
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "weight": 1.2
         },
         {
           "symbol": "2303",
@@ -54,44 +59,39 @@
           "weight": 1.17
         },
         {
-          "symbol": "2383",
-          "name": "台光電",
-          "weight": 1.12
-        },
-        {
           "symbol": "2882",
           "name": "國泰金",
-          "weight": 1.1
+          "weight": 1.13
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 0.94
-        },
-        {
-          "symbol": "2887",
-          "name": "台新新光金",
-          "weight": 0.92
+          "weight": 1.01
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "weight": 0.89
+          "weight": 0.96
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "weight": 0.93
         },
         {
           "symbol": "2345",
           "name": "智邦",
+          "weight": 0.91
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
           "weight": 0.84
         },
         {
           "symbol": "2885",
           "name": "元大金",
-          "weight": 0.81
-        },
-        {
-          "symbol": "2382",
-          "name": "廣達",
-          "weight": 0.79
+          "weight": 0.83
         },
         {
           "symbol": "2412",
@@ -106,47 +106,52 @@
         {
           "symbol": "2886",
           "name": "兆豐金",
-          "weight": 0.68
+          "weight": 0.64
         },
         {
           "symbol": "2357",
           "name": "華碩",
-          "weight": 0.6
-        },
-        {
-          "symbol": "2890",
-          "name": "永豐金",
-          "weight": 0.57
+          "weight": 0.61
         },
         {
           "symbol": "2327",
           "name": "國巨*",
-          "weight": 0.56
-        },
-        {
-          "symbol": "2883",
-          "name": "凱基金",
-          "weight": 0.54
+          "weight": 0.6
         },
         {
           "symbol": "3231",
           "name": "緯創",
-          "weight": 0.53
+          "weight": 0.57
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "weight": 0.55
         },
         {
           "symbol": "6669",
           "name": "緯穎",
-          "weight": 0.51
+          "weight": 0.55
         },
         {
-          "symbol": "2892",
-          "name": "第一金",
-          "weight": 0.48
+          "symbol": "2890",
+          "name": "永豐金",
+          "weight": 0.54
         },
         {
           "symbol": "3443",
           "name": "創意",
+          "weight": 0.49
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
           "weight": 0.47
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "weight": 0.46
         },
         {
           "symbol": "2880",
@@ -154,88 +159,88 @@
           "weight": 0.46
         },
         {
-          "symbol": "1216",
-          "name": "統一",
-          "weight": 0.45
-        },
-        {
-          "symbol": "2301",
-          "name": "光寶科",
-          "weight": 0.43
-        },
-        {
-          "symbol": "2360",
-          "name": "致茂",
-          "weight": 0.43
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "weight": 0.43
-        },
-        {
-          "symbol": "3653",
-          "name": "健策",
-          "weight": 0.42
-        },
-        {
-          "symbol": "2059",
-          "name": "川湖",
-          "weight": 0.41
+          "symbol": "2892",
+          "name": "第一金",
+          "weight": 0.46
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "weight": 0.41
+          "weight": 0.45
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "weight": 0.45
+        },
+        {
+          "symbol": "1216",
+          "name": "統一",
+          "weight": 0.44
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "weight": 0.44
+        },
+        {
+          "symbol": "2301",
+          "name": "光寶科",
+          "weight": 0.44
         },
         {
           "symbol": "6446",
           "name": "藥華藥",
-          "weight": 0.39
+          "weight": 0.42
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "weight": 0.36
+          "weight": 0.39
         },
         {
           "symbol": "2344",
           "name": "華邦電",
-          "weight": 0.34
+          "weight": 0.36
         },
         {
           "symbol": "3665",
           "name": "貿聯-KY",
-          "weight": 0.34
-        },
-        {
-          "symbol": "5880",
-          "name": "合庫金",
-          "weight": 0.33
-        },
-        {
-          "symbol": "2603",
-          "name": "長榮",
-          "weight": 0.32
+          "weight": 0.36
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "weight": 0.3
+          "weight": 0.32
+        },
+        {
+          "symbol": "5880",
+          "name": "合庫金",
+          "weight": 0.32
         },
         {
           "symbol": "2395",
           "name": "研華",
-          "weight": 0.29
+          "weight": 0.31
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "weight": 0.31
         },
         {
           "symbol": "2449",
           "name": "京元電子",
-          "weight": 0.23
+          "weight": 0.24
         },
         {
           "symbol": "4904",
           "name": "遠傳",
+          "weight": 0.21
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
           "weight": 0.21
         },
         {
@@ -249,11 +254,6 @@
           "weight": 0.2
         },
         {
-          "symbol": "8046",
-          "name": "南電",
-          "weight": 0.19
-        },
-        {
           "symbol": "6505",
           "name": "台塑化",
           "weight": 0.11
@@ -264,32 +264,22 @@
       "name": "元大高股息",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "1303",
           "name": "南亞",
-          "weight": 8.88
+          "weight": 9.2
         },
         {
           "symbol": "2880",
           "name": "華南金",
-          "weight": 4.61
+          "weight": 4.59
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 4.41
-        },
-        {
-          "symbol": "2890",
-          "name": "永豐金",
-          "weight": 4.22
-        },
-        {
-          "symbol": "2886",
-          "name": "兆豐金",
-          "weight": 4.13
+          "weight": 4.43
         },
         {
           "symbol": "2357",
@@ -297,44 +287,54 @@
           "weight": 4.05
         },
         {
-          "symbol": "2603",
-          "name": "長榮",
-          "weight": 3.78
+          "symbol": "2890",
+          "name": "永豐金",
+          "weight": 3.96
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "weight": 3.86
         },
         {
           "symbol": "3231",
           "name": "緯創",
-          "weight": 3.62
+          "weight": 3.83
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "weight": 3.65
         },
         {
           "symbol": "2382",
           "name": "廣達",
-          "weight": 3.37
-        },
-        {
-          "symbol": "1216",
-          "name": "統一",
-          "weight": 2.89
+          "weight": 3.49
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "weight": 2.83
+          "weight": 2.99
         },
         {
           "symbol": "2883",
           "name": "凱基金",
-          "weight": 2.81
+          "weight": 2.8
+        },
+        {
+          "symbol": "1216",
+          "name": "統一",
+          "weight": 2.75
         },
         {
           "symbol": "2885",
           "name": "元大金",
-          "weight": 2.71
+          "weight": 2.7
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "weight": 2.66
+          "weight": 2.63
         },
         {
           "symbol": "2887",
@@ -342,34 +342,34 @@
           "weight": 2.63
         },
         {
-          "symbol": "3045",
-          "name": "台灣大",
-          "weight": 2.6
-        },
-        {
-          "symbol": "4904",
-          "name": "遠傳",
-          "weight": 2.56
+          "symbol": "2344",
+          "name": "華邦電",
+          "weight": 2.57
         },
         {
           "symbol": "2379",
           "name": "瑞昱",
-          "weight": 2.54
+          "weight": 2.55
         },
         {
-          "symbol": "2344",
-          "name": "華邦電",
-          "weight": 2.44
+          "symbol": "3045",
+          "name": "台灣大",
+          "weight": 2.53
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "weight": 2.49
         },
         {
           "symbol": "2317",
           "name": "鴻海",
-          "weight": 2.09
+          "weight": 2.11
         },
         {
           "symbol": "2301",
           "name": "光寶科",
-          "weight": 2.01
+          "weight": 2.03
         },
         {
           "symbol": "3034",
@@ -377,64 +377,69 @@
           "weight": 1.81
         },
         {
-          "symbol": "2618",
-          "name": "長榮航",
-          "weight": 1.71
-        },
-        {
           "symbol": "3044",
           "name": "健鼎",
+          "weight": 1.75
+        },
+        {
+          "symbol": "2618",
+          "name": "長榮航",
           "weight": 1.65
         },
         {
           "symbol": "5876",
           "name": "上海商銀",
-          "weight": 1.65
+          "weight": 1.57
         },
         {
           "symbol": "4938",
           "name": "和碩",
-          "weight": 1.47
+          "weight": 1.52
         },
         {
           "symbol": "3036",
           "name": "文曄",
-          "weight": 1.43
+          "weight": 1.45
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "weight": 1.4
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "weight": 1.23
+          "weight": 1.37
         },
         {
           "symbol": "2376",
           "name": "技嘉",
-          "weight": 1.22
+          "weight": 1.23
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "weight": 1.21
         },
         {
           "symbol": "3711",
           "name": "日月光投控",
-          "weight": 1.17
+          "weight": 1.18
         },
         {
           "symbol": "6239",
           "name": "力成",
-          "weight": 1
+          "weight": 1.02
         },
         {
           "symbol": "2356",
           "name": "英業達",
-          "weight": 0.93
+          "weight": 0.95
         },
         {
           "symbol": "2449",
           "name": "京元電子",
-          "weight": 0.84
+          "weight": 0.88
+        },
+        {
+          "symbol": "3702",
+          "name": "大聯大",
+          "weight": 0.85
         },
         {
           "symbol": "2347",
@@ -442,24 +447,9 @@
           "weight": 0.83
         },
         {
-          "symbol": "3702",
-          "name": "大聯大",
-          "weight": 0.83
-        },
-        {
-          "symbol": "2474",
-          "name": "可成",
-          "weight": 0.76
-        },
-        {
           "symbol": "2324",
           "name": "仁寶",
-          "weight": 0.75
-        },
-        {
-          "symbol": "1102",
-          "name": "亞泥",
-          "weight": 0.74
+          "weight": 0.77
         },
         {
           "symbol": "2377",
@@ -467,24 +457,34 @@
           "weight": 0.72
         },
         {
-          "symbol": "2027",
-          "name": "大成鋼",
+          "symbol": "2474",
+          "name": "可成",
+          "weight": 0.72
+        },
+        {
+          "symbol": "1102",
+          "name": "亞泥",
           "weight": 0.71
         },
         {
-          "symbol": "2105",
-          "name": "正新",
-          "weight": 0.62
+          "symbol": "2027",
+          "name": "大成鋼",
+          "weight": 0.69
         },
         {
           "symbol": "6285",
           "name": "啟碁",
-          "weight": 0.59
+          "weight": 0.62
+        },
+        {
+          "symbol": "2105",
+          "name": "正新",
+          "weight": 0.6
         },
         {
           "symbol": "2353",
           "name": "宏碁",
-          "weight": 0.57
+          "weight": 0.55
         },
         {
           "symbol": "1513",
@@ -497,24 +497,24 @@
           "weight": 0.44
         },
         {
-          "symbol": "3023",
-          "name": "信邦",
-          "weight": 0.44
-        },
-        {
           "symbol": "3005",
           "name": "神基",
           "weight": 0.43
         },
         {
+          "symbol": "3023",
+          "name": "信邦",
+          "weight": 0.42
+        },
+        {
           "symbol": "9904",
           "name": "寶成",
-          "weight": 0.41
+          "weight": 0.39
         },
         {
           "symbol": "2645",
           "name": "長榮航太",
-          "weight": 0.3
+          "weight": 0.31
         }
       ]
     },
@@ -522,157 +522,157 @@
       "name": "元大台灣高息低波",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "3045",
           "name": "台灣大",
-          "weight": 10.25
+          "weight": 10.23
         },
         {
           "symbol": "1216",
           "name": "統一",
-          "weight": 9.45
+          "weight": 9.29
         },
         {
           "symbol": "2892",
           "name": "第一金",
-          "weight": 7.1
+          "weight": 6.94
         },
         {
           "symbol": "2912",
           "name": "統一超",
-          "weight": 6.57
+          "weight": 6.49
         },
         {
           "symbol": "4904",
           "name": "遠傳",
-          "weight": 5.29
+          "weight": 5.27
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "weight": 5.06
+          "weight": 5.12
         },
         {
           "symbol": "2880",
           "name": "華南金",
-          "weight": 4.47
+          "weight": 4.56
         },
         {
           "symbol": "5876",
           "name": "上海商銀",
-          "weight": 3.74
+          "weight": 3.64
         },
         {
           "symbol": "1402",
           "name": "遠東新",
-          "weight": 3.58
+          "weight": 3.6
         },
         {
           "symbol": "2633",
           "name": "台灣高鐵",
-          "weight": 2.24
+          "weight": 2.2
         },
         {
           "symbol": "2382",
           "name": "廣達",
-          "weight": 1.79
+          "weight": 1.89
         },
         {
           "symbol": "2379",
           "name": "瑞昱",
-          "weight": 1.72
+          "weight": 1.77
         },
         {
           "symbol": "2006",
           "name": "東和鋼鐵",
-          "weight": 1.58
+          "weight": 1.59
         },
         {
           "symbol": "2890",
           "name": "永豐金",
-          "weight": 1.42
+          "weight": 1.37
         },
         {
           "symbol": "1215",
           "name": "卜蜂",
-          "weight": 1.35
+          "weight": 1.34
         },
         {
           "symbol": "2618",
           "name": "長榮航",
-          "weight": 1.29
+          "weight": 1.28
         },
         {
           "symbol": "2845",
           "name": "遠東銀",
-          "weight": 1.28
-        },
-        {
-          "symbol": "1476",
-          "name": "儒鴻",
-          "weight": 1.26
-        },
-        {
-          "symbol": "2610",
-          "name": "華航",
-          "weight": 1.25
-        },
-        {
-          "symbol": "2207",
-          "name": "和泰車",
-          "weight": 1.24
+          "weight": 1.27
         },
         {
           "symbol": "1477",
           "name": "聚陽",
-          "weight": 1.22
+          "weight": 1.26
+        },
+        {
+          "symbol": "2207",
+          "name": "和泰車",
+          "weight": 1.25
+        },
+        {
+          "symbol": "1476",
+          "name": "儒鴻",
+          "weight": 1.24
         },
         {
           "symbol": "8464",
           "name": "億豐",
-          "weight": 1.22
+          "weight": 1.24
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "weight": 1.23
         },
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "weight": 1.17
+          "weight": 1.2
         },
         {
           "symbol": "9917",
           "name": "中保科",
-          "weight": 1.17
+          "weight": 1.16
         },
         {
           "symbol": "1210",
           "name": "大成",
-          "weight": 1.14
-        },
-        {
-          "symbol": "2206",
-          "name": "三陽工業",
           "weight": 1.12
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 1.08
+          "weight": 1.12
+        },
+        {
+          "symbol": "2206",
+          "name": "三陽工業",
+          "weight": 1.11
         },
         {
           "symbol": "2377",
           "name": "微星",
-          "weight": 1.03
+          "weight": 1.05
         },
         {
           "symbol": "3034",
           "name": "聯詠",
-          "weight": 1.02
+          "weight": 1.05
         },
         {
           "symbol": "6670",
           "name": "復盛應用",
-          "weight": 1.02
+          "weight": 1.04
         },
         {
           "symbol": "4766",
@@ -680,19 +680,19 @@
           "weight": 1.01
         },
         {
-          "symbol": "2606",
-          "name": "裕民",
-          "weight": 0.98
-        },
-        {
           "symbol": "2885",
           "name": "元大金",
-          "weight": 0.98
+          "weight": 1
+        },
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "weight": 0.97
         },
         {
           "symbol": "9939",
           "name": "宏全",
-          "weight": 0.98
+          "weight": 0.95
         },
         {
           "symbol": "2850",
@@ -702,7 +702,17 @@
         {
           "symbol": "2347",
           "name": "聯強",
+          "weight": 0.84
+        },
+        {
+          "symbol": "2357",
+          "name": "華碩",
           "weight": 0.82
+        },
+        {
+          "symbol": "2376",
+          "name": "技嘉",
+          "weight": 0.81
         },
         {
           "symbol": "2303",
@@ -710,49 +720,39 @@
           "weight": 0.8
         },
         {
-          "symbol": "2357",
-          "name": "華碩",
-          "weight": 0.8
-        },
-        {
-          "symbol": "2376",
-          "name": "技嘉",
-          "weight": 0.78
-        },
-        {
-          "symbol": "2504",
-          "name": "國產",
-          "weight": 0.78
-        },
-        {
           "symbol": "2882",
           "name": "國泰金",
-          "weight": 0.78
+          "weight": 0.8
         },
         {
           "symbol": "2458",
           "name": "義隆",
-          "weight": 0.77
+          "weight": 0.79
         },
         {
-          "symbol": "2903",
-          "name": "遠百",
-          "weight": 0.74
-        },
-        {
-          "symbol": "2385",
-          "name": "群光",
-          "weight": 0.73
+          "symbol": "2504",
+          "name": "國產",
+          "weight": 0.79
         },
         {
           "symbol": "5434",
           "name": "崇越",
+          "weight": 0.76
+        },
+        {
+          "symbol": "2385",
+          "name": "群光",
+          "weight": 0.74
+        },
+        {
+          "symbol": "2903",
+          "name": "遠百",
           "weight": 0.73
         },
         {
           "symbol": "3596",
           "name": "智易",
-          "weight": 0.69
+          "weight": 0.7
         },
         {
           "symbol": "4915",
@@ -762,7 +762,7 @@
         {
           "symbol": "8926",
           "name": "台汽電",
-          "weight": 0.6
+          "weight": 0.61
         },
         {
           "symbol": "2015",
@@ -772,7 +772,7 @@
         {
           "symbol": "3036",
           "name": "文曄",
-          "weight": 0.46
+          "weight": 0.48
         }
       ]
     },
@@ -780,57 +780,57 @@
       "name": "元大臺灣ESG永續",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 31.62
+          "weight": 30.48
         },
         {
           "symbol": "2454",
           "name": "聯發科",
-          "weight": 9.02
+          "weight": 8.86
         },
         {
           "symbol": "2317",
           "name": "鴻海",
-          "weight": 4.1
+          "weight": 4.15
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "weight": 3.25
+          "weight": 3.34
         },
         {
           "symbol": "3711",
           "name": "日月光投控",
-          "weight": 2.66
+          "weight": 2.69
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 1.91
-        },
-        {
-          "symbol": "2881",
-          "name": "富邦金",
-          "weight": 1.8
+          "weight": 1.93
         },
         {
           "symbol": "1303",
           "name": "南亞",
-          "weight": 1.79
+          "weight": 1.86
+        },
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "weight": 1.82
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "weight": 1.75
+          "weight": 1.72
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "weight": 1.49
+          "weight": 1.58
         },
         {
           "symbol": "2882",
@@ -840,22 +840,27 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "weight": 1.35
+          "weight": 1.43
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 1.21
+          "weight": 1.28
         },
         {
           "symbol": "2345",
           "name": "智邦",
-          "weight": 1.16
+          "weight": 1.23
         },
         {
           "symbol": "2885",
           "name": "元大金",
           "weight": 1.16
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "weight": 1.15
         },
         {
           "symbol": "2887",
@@ -865,22 +870,12 @@
         {
           "symbol": "2412",
           "name": "中華電",
-          "weight": 1.12
-        },
-        {
-          "symbol": "2382",
-          "name": "廣達",
           "weight": 1.1
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "weight": 1.01
-        },
-        {
-          "symbol": "2886",
-          "name": "兆豐金",
-          "weight": 0.96
+          "weight": 1
         },
         {
           "symbol": "2357",
@@ -888,39 +883,49 @@
           "weight": 0.91
         },
         {
-          "symbol": "2890",
-          "name": "永豐金",
-          "weight": 0.87
+          "symbol": "2886",
+          "name": "兆豐金",
+          "weight": 0.9
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "weight": 0.86
+          "weight": 0.88
         },
         {
           "symbol": "2327",
           "name": "國巨*",
-          "weight": 0.78
+          "weight": 0.83
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "weight": 0.82
         },
         {
           "symbol": "3231",
           "name": "緯創",
-          "weight": 0.72
+          "weight": 0.76
         },
         {
           "symbol": "2395",
           "name": "研華",
-          "weight": 0.71
+          "weight": 0.72
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "weight": 0.69
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "weight": 0.67
         },
         {
           "symbol": "1216",
           "name": "統一",
-          "weight": 0.68
-        },
-        {
-          "symbol": "2892",
-          "name": "第一金",
-          "weight": 0.68
+          "weight": 0.66
         },
         {
           "symbol": "2880",
@@ -928,18 +933,23 @@
           "weight": 0.65
         },
         {
-          "symbol": "3008",
-          "name": "大立光",
+          "symbol": "2892",
+          "name": "第一金",
           "weight": 0.65
-        },
-        {
-          "symbol": "6446",
-          "name": "藥華藥",
-          "weight": 0.64
         },
         {
           "symbol": "2360",
           "name": "致茂",
+          "weight": 0.64
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "weight": 0.64
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
           "weight": 0.62
         },
         {
@@ -948,53 +958,43 @@
           "weight": 0.61
         },
         {
-          "symbol": "3653",
-          "name": "健策",
-          "weight": 0.6
-        },
-        {
-          "symbol": "6669",
-          "name": "緯穎",
+          "symbol": "2059",
+          "name": "川湖",
           "weight": 0.58
         },
         {
           "symbol": "2301",
           "name": "光寶科",
-          "weight": 0.56
+          "weight": 0.57
         },
         {
           "symbol": "2379",
           "name": "瑞昱",
-          "weight": 0.56
+          "weight": 0.57
         },
         {
           "symbol": "3661",
           "name": "世芯-KY",
-          "weight": 0.55
-        },
-        {
-          "symbol": "2059",
-          "name": "川湖",
-          "weight": 0.54
+          "weight": 0.56
         },
         {
           "symbol": "3665",
           "name": "貿聯-KY",
-          "weight": 0.48
+          "weight": 0.5
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "weight": 0.46
+          "weight": 0.49
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "weight": 0.46
+          "weight": 0.49
         },
         {
-          "symbol": "5880",
-          "name": "合庫金",
+          "symbol": "4958",
+          "name": "臻鼎-KY",
           "weight": 0.45
         },
         {
@@ -1003,44 +1003,39 @@
           "weight": 0.44
         },
         {
-          "symbol": "4958",
-          "name": "臻鼎-KY",
-          "weight": 0.43
+          "symbol": "5880",
+          "name": "合庫金",
+          "weight": 0.44
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "weight": 0.41
+          "weight": 0.42
         },
         {
           "symbol": "2603",
           "name": "長榮",
-          "weight": 0.4
+          "weight": 0.39
         },
         {
           "symbol": "3481",
           "name": "群創",
-          "weight": 0.37
+          "weight": 0.38
         },
         {
           "symbol": "2344",
           "name": "華邦電",
+          "weight": 0.36
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
           "weight": 0.34
         },
         {
           "symbol": "2207",
           "name": "和泰車",
-          "weight": 0.33
-        },
-        {
-          "symbol": "2449",
-          "name": "京元電子",
-          "weight": 0.33
-        },
-        {
-          "symbol": "3045",
-          "name": "台灣大",
-          "weight": 0.33
+          "weight": 0.32
         },
         {
           "symbol": "2801",
@@ -1048,8 +1043,8 @@
           "weight": 0.32
         },
         {
-          "symbol": "5876",
-          "name": "上海商銀",
+          "symbol": "3045",
+          "name": "台灣大",
           "weight": 0.32
         },
         {
@@ -1063,18 +1058,28 @@
           "weight": 0.3
         },
         {
-          "symbol": "2912",
-          "name": "統一超",
-          "weight": 0.29
+          "symbol": "5876",
+          "name": "上海商銀",
+          "weight": 0.3
         },
         {
           "symbol": "6770",
           "name": "力積電",
-          "weight": 0.28
+          "weight": 0.29
         },
         {
           "symbol": "8046",
           "name": "南電",
+          "weight": 0.29
+        },
+        {
+          "symbol": "2912",
+          "name": "統一超",
+          "weight": 0.28
+        },
+        {
+          "symbol": "3044",
+          "name": "健鼎",
           "weight": 0.27
         },
         {
@@ -1083,8 +1088,8 @@
           "weight": 0.25
         },
         {
-          "symbol": "3044",
-          "name": "健鼎",
+          "symbol": "2409",
+          "name": "友達",
           "weight": 0.25
         },
         {
@@ -1093,28 +1098,18 @@
           "weight": 0.24
         },
         {
-          "symbol": "2409",
-          "name": "友達",
-          "weight": 0.24
+          "symbol": "4938",
+          "name": "和碩",
+          "weight": 0.22
         },
         {
           "symbol": "1476",
           "name": "儒鴻",
-          "weight": 0.22
-        },
-        {
-          "symbol": "4938",
-          "name": "和碩",
           "weight": 0.21
         },
         {
           "symbol": "1402",
           "name": "遠東新",
-          "weight": 0.2
-        },
-        {
-          "symbol": "2615",
-          "name": "萬海",
           "weight": 0.2
         },
         {
@@ -1125,11 +1120,16 @@
         {
           "symbol": "3533",
           "name": "嘉澤",
-          "weight": 0.19
+          "weight": 0.2
         },
         {
           "symbol": "6505",
           "name": "台塑化",
+          "weight": 0.2
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
           "weight": 0.19
         },
         {
@@ -1148,14 +1148,19 @@
           "weight": 0.17
         },
         {
-          "symbol": "5871",
-          "name": "中租-KY",
-          "weight": 0.17
-        },
-        {
           "symbol": "6239",
           "name": "力成",
           "weight": 0.17
+        },
+        {
+          "symbol": "6415",
+          "name": "矽力*-KY",
+          "weight": 0.17
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "weight": 0.16
         },
         {
           "symbol": "2633",
@@ -1163,19 +1168,9 @@
           "weight": 0.16
         },
         {
-          "symbol": "6415",
-          "name": "矽力*-KY",
+          "symbol": "5871",
+          "name": "中租-KY",
           "weight": 0.16
-        },
-        {
-          "symbol": "1519",
-          "name": "華城",
-          "weight": 0.15
-        },
-        {
-          "symbol": "2834",
-          "name": "臺企銀",
-          "weight": 0.15
         },
         {
           "symbol": "3036",
@@ -1188,9 +1183,9 @@
           "weight": 0.14
         },
         {
-          "symbol": "1102",
-          "name": "亞泥",
-          "weight": 0.13
+          "symbol": "2834",
+          "name": "臺企銀",
+          "weight": 0.14
         },
         {
           "symbol": "1605",
@@ -1203,14 +1198,19 @@
           "weight": 0.13
         },
         {
-          "symbol": "2353",
-          "name": "宏碁",
-          "weight": 0.13
-        },
-        {
           "symbol": "3702",
           "name": "大聯大",
           "weight": 0.13
+        },
+        {
+          "symbol": "1102",
+          "name": "亞泥",
+          "weight": 0.12
+        },
+        {
+          "symbol": "2353",
+          "name": "宏碁",
+          "weight": 0.12
         },
         {
           "symbol": "8464",
@@ -1223,11 +1223,6 @@
           "weight": 0.11
         },
         {
-          "symbol": "2609",
-          "name": "陽明",
-          "weight": 0.11
-        },
-        {
           "symbol": "2610",
           "name": "華航",
           "weight": 0.11
@@ -1235,6 +1230,11 @@
         {
           "symbol": "2356",
           "name": "英業達",
+          "weight": 0.1
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
           "weight": 0.1
         },
         {
@@ -1283,6 +1283,11 @@
           "weight": 0.07
         },
         {
+          "symbol": "5269",
+          "name": "祥碩",
+          "weight": 0.07
+        },
+        {
           "symbol": "6005",
           "name": "群益證",
           "weight": 0.07
@@ -1290,11 +1295,6 @@
         {
           "symbol": "2845",
           "name": "遠東銀",
-          "weight": 0.06
-        },
-        {
-          "symbol": "5269",
-          "name": "祥碩",
           "weight": 0.06
         },
         {
@@ -1338,12 +1338,12 @@
       "name": "元大台灣50正2",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 36.2
+          "weight": 34.12
         }
       ]
     },
@@ -2027,47 +2027,52 @@
       "name": "富邦台50",
       "issuer": "富邦投信",
       "via": "富邦投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 60.43
+          "weight": 59.26
         },
         {
           "symbol": "2454",
           "name": "聯發科",
-          "weight": 6.18
+          "weight": 6.17
         },
         {
           "symbol": "2317",
           "name": "鴻海",
-          "weight": 2.9
+          "weight": 2.99
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "weight": 2.35
+          "weight": 2.45
         },
         {
           "symbol": "3711",
           "name": "日月光投控",
-          "weight": 1.86
+          "weight": 1.92
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 1.34
+          "weight": 1.38
         },
         {
           "symbol": "1303",
           "name": "南亞",
-          "weight": 1.28
+          "weight": 1.36
         },
         {
           "symbol": "2881",
           "name": "富邦金",
-          "weight": 1.27
+          "weight": 1.31
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "weight": 1.2
         },
         {
           "symbol": "2303",
@@ -2075,49 +2080,39 @@
           "weight": 1.17
         },
         {
-          "symbol": "2383",
-          "name": "台光電",
-          "weight": 1.12
-        },
-        {
           "symbol": "2882",
           "name": "國泰金",
-          "weight": 1.1
+          "weight": 1.13
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 0.94
-        },
-        {
-          "symbol": "2887",
-          "name": "台新新光金",
-          "weight": 0.92
+          "weight": 1.01
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "weight": 0.89
+          "weight": 0.96
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "weight": 0.94
         },
         {
           "symbol": "2345",
           "name": "智邦",
+          "weight": 0.91
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
           "weight": 0.84
         },
         {
           "symbol": "2885",
           "name": "元大金",
-          "weight": 0.81
-        },
-        {
-          "symbol": "2382",
-          "name": "廣達",
-          "weight": 0.79
-        },
-        {
-          "symbol": "2412",
-          "name": "中華電",
-          "weight": 0.72
+          "weight": 0.83
         },
         {
           "symbol": "2884",
@@ -2125,24 +2120,29 @@
           "weight": 0.72
         },
         {
+          "symbol": "2412",
+          "name": "中華電",
+          "weight": 0.72
+        },
+        {
           "symbol": "2886",
           "name": "兆豐金",
-          "weight": 0.68
+          "weight": 0.65
         },
         {
           "symbol": "2357",
           "name": "華碩",
-          "weight": 0.6
-        },
-        {
-          "symbol": "2890",
-          "name": "永豐金",
-          "weight": 0.57
+          "weight": 0.61
         },
         {
           "symbol": "2327",
           "name": "國巨*",
-          "weight": 0.56
+          "weight": 0.6
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "weight": 0.57
         },
         {
           "symbol": "2883",
@@ -2150,24 +2150,29 @@
           "weight": 0.55
         },
         {
-          "symbol": "3231",
-          "name": "緯創",
-          "weight": 0.53
-        },
-        {
           "symbol": "6669",
           "name": "緯穎",
-          "weight": 0.51
+          "weight": 0.55
         },
         {
-          "symbol": "2892",
-          "name": "第一金",
-          "weight": 0.48
+          "symbol": "2890",
+          "name": "永豐金",
+          "weight": 0.55
         },
         {
           "symbol": "3443",
           "name": "創意",
+          "weight": 0.49
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
           "weight": 0.47
+        },
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "weight": 0.46
         },
         {
           "symbol": "2880",
@@ -2175,88 +2180,88 @@
           "weight": 0.46
         },
         {
-          "symbol": "1216",
-          "name": "統一",
-          "weight": 0.45
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "weight": 0.43
-        },
-        {
           "symbol": "2360",
           "name": "致茂",
-          "weight": 0.43
-        },
-        {
-          "symbol": "2301",
-          "name": "光寶科",
-          "weight": 0.43
+          "weight": 0.46
         },
         {
           "symbol": "3653",
           "name": "健策",
-          "weight": 0.42
+          "weight": 0.45
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "weight": 0.41
+          "weight": 0.45
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "weight": 0.41
+          "weight": 0.44
+        },
+        {
+          "symbol": "2301",
+          "name": "光寶科",
+          "weight": 0.44
+        },
+        {
+          "symbol": "1216",
+          "name": "統一",
+          "weight": 0.44
         },
         {
           "symbol": "6446",
           "name": "藥華藥",
-          "weight": 0.39
+          "weight": 0.42
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "weight": 0.36
+          "weight": 0.39
         },
         {
           "symbol": "2344",
           "name": "華邦電",
-          "weight": 0.34
+          "weight": 0.36
         },
         {
           "symbol": "3665",
           "name": "貿聯-KY",
-          "weight": 0.34
+          "weight": 0.36
         },
         {
           "symbol": "5880",
           "name": "合庫金",
-          "weight": 0.33
-        },
-        {
-          "symbol": "2603",
-          "name": "長榮",
           "weight": 0.32
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "weight": 0.3
+          "weight": 0.32
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "weight": 0.31
         },
         {
           "symbol": "2395",
           "name": "研華",
-          "weight": 0.29
+          "weight": 0.31
         },
         {
           "symbol": "2449",
           "name": "京元電子",
-          "weight": 0.23
+          "weight": 0.24
         },
         {
           "symbol": "4904",
           "name": "遠傳",
+          "weight": 0.21
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
           "weight": 0.21
         },
         {
@@ -2270,11 +2275,6 @@
           "weight": 0.2
         },
         {
-          "symbol": "8046",
-          "name": "南電",
-          "weight": 0.19
-        },
-        {
           "symbol": "6505",
           "name": "台塑化",
           "weight": 0.11
@@ -2285,27 +2285,27 @@
       "name": "群益台灣精選高息",
       "issuer": "群益投信",
       "via": "群益投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "2881",
           "name": "富邦金",
-          "weight": 14.76
+          "weight": 14.85
         },
         {
           "symbol": "2882",
           "name": "國泰金",
-          "weight": 12.91
+          "weight": 12.92
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 11.21
+          "weight": 11.28
         },
         {
           "symbol": "2382",
           "name": "廣達",
-          "weight": 9.65
+          "weight": 10
         },
         {
           "symbol": "2887",
@@ -2320,57 +2320,57 @@
         {
           "symbol": "2603",
           "name": "長榮",
-          "weight": 5.22
+          "weight": 5.06
         },
         {
           "symbol": "2883",
           "name": "凱基金",
-          "weight": 5.04
+          "weight": 5.02
         },
         {
           "symbol": "2379",
           "name": "瑞昱",
-          "weight": 3.06
+          "weight": 3.07
         },
         {
           "symbol": "3034",
           "name": "聯詠",
-          "weight": 2.81
+          "weight": 2.82
         },
         {
           "symbol": "4938",
           "name": "和碩",
-          "weight": 2.26
+          "weight": 2.33
         },
         {
           "symbol": "2618",
           "name": "長榮航",
-          "weight": 2.19
+          "weight": 2.13
         },
         {
           "symbol": "3293",
           "name": "鈊象",
-          "weight": 1.79
+          "weight": 1.74
         },
         {
           "symbol": "5871",
           "name": "中租-KY",
-          "weight": 1.5
+          "weight": 1.43
         },
         {
           "symbol": "1402",
           "name": "遠東新",
-          "weight": 1
+          "weight": 0.98
         },
         {
           "symbol": "2474",
           "name": "可成",
-          "weight": 0.95
+          "weight": 0.91
         },
         {
           "symbol": "2855",
           "name": "統一證",
-          "weight": 0.87
+          "weight": 0.86
         },
         {
           "symbol": "2347",
@@ -2380,7 +2380,7 @@
         {
           "symbol": "5522",
           "name": "遠雄",
-          "weight": 0.84
+          "weight": 0.81
         },
         {
           "symbol": "2504",
@@ -2388,44 +2388,44 @@
           "weight": 0.66
         },
         {
-          "symbol": "2105",
-          "name": "正新",
-          "weight": 0.62
-        },
-        {
           "symbol": "1477",
           "name": "聚陽",
           "weight": 0.61
         },
         {
+          "symbol": "2105",
+          "name": "正新",
+          "weight": 0.6
+        },
+        {
           "symbol": "2385",
           "name": "群光",
-          "weight": 0.59
+          "weight": 0.58
         },
         {
           "symbol": "2637",
           "name": "慧洋-KY",
-          "weight": 0.57
+          "weight": 0.55
         },
         {
           "symbol": "2542",
           "name": "興富發",
-          "weight": 0.56
+          "weight": 0.54
         },
         {
           "symbol": "2597",
           "name": "潤弘",
-          "weight": 0.52
+          "weight": 0.5
         },
         {
           "symbol": "2606",
           "name": "裕民",
-          "weight": 0.5
+          "weight": 0.48
         },
         {
           "symbol": "8112",
           "name": "至上",
-          "weight": 0.48
+          "weight": 0.46
         },
         {
           "symbol": "8454",
@@ -2438,24 +2438,24 @@
           "weight": 0.43
         },
         {
-          "symbol": "1210",
-          "name": "大成",
-          "weight": 0.4
-        },
-        {
           "symbol": "6670",
           "name": "復盛應用",
           "weight": 0.39
         },
         {
+          "symbol": "1210",
+          "name": "大成",
+          "weight": 0.38
+        },
+        {
           "symbol": "9941",
           "name": "裕融",
-          "weight": 0.39
+          "weight": 0.38
         },
         {
           "symbol": "9910",
           "name": "豐泰",
-          "weight": 0.38
+          "weight": 0.36
         },
         {
           "symbol": "6890",
@@ -2470,12 +2470,12 @@
         {
           "symbol": "2458",
           "name": "義隆",
-          "weight": 0.3
+          "weight": 0.31
         },
         {
           "symbol": "2211",
           "name": "長榮鋼",
-          "weight": 0.3
+          "weight": 0.29
         },
         {
           "symbol": "4763",
@@ -2493,64 +2493,64 @@
       "name": "中信成長高股息",
       "issuer": "MoneyDJ",
       "via": "MoneyDJ",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "3293",
           "name": "鈊象電子",
-          "weight": 8.48
+          "weight": 8.34
         },
         {
           "symbol": "2603",
           "name": "長榮海運",
-          "weight": 8.29
+          "weight": 8.09
         },
         {
           "symbol": "2382",
           "name": "廣達電腦",
-          "weight": 6.55
+          "weight": 6.85
         },
         {
           "symbol": "8299",
           "name": "群聯電子",
-          "weight": 5.47
+          "weight": 5.83
         },
         {
           "symbol": "2357",
           "name": "華碩電腦",
-          "weight": 5.12
+          "weight": 5.16
         },
         {
           "symbol": "3034",
           "name": "聯詠科技",
-          "weight": 4.06
+          "weight": 4.11
         },
         {
           "symbol": "3260",
           "name": "威剛科技",
-          "weight": 3.66
+          "weight": 3.83
         },
         {
           "symbol": "2379",
           "name": "瑞昱半導體",
-          "weight": 3.44
+          "weight": 3.49
         },
         {
           "symbol": "2618",
           "name": "長榮航空",
-          "weight": 3.44
+          "weight": 3.36
         },
         {
           "symbol": "5904",
           "name": "寶雅國際",
-          "weight": 3.06
+          "weight": 3.01
         }
       ]
     },
     "00685L": {
       "name": "群益臺灣加權正2",
       "issuer": "群益投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "futuresOnly": true,
       "top": []
     },
@@ -3019,137 +3019,137 @@
       "name": "群益台灣精選強棒主動式ETF基金",
       "issuer": "群益投信",
       "via": "群益投信",
-      "asOf": "2026-11-25",
+      "asOf": "2026-11-26",
       "top": [
         {
           "symbol": "2454",
           "name": "聯發科",
-          "weight": 9.55
+          "weight": 9.11
         },
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 9.47
+          "weight": 8.86
         },
         {
           "symbol": "3105",
           "name": "穩懋",
-          "weight": 7.82
+          "weight": 8.06
         },
         {
           "symbol": "6531",
           "name": "愛普*",
-          "weight": 6.55
+          "weight": 6.35
         },
         {
           "symbol": "6139",
           "name": "亞翔",
-          "weight": 6.11
+          "weight": 6.17
         },
         {
           "symbol": "3491",
           "name": "昇達科",
-          "weight": 4.57
+          "weight": 4.71
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "weight": 3.39
+          "weight": 3.47
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 3.28
+          "weight": 3.37
         },
         {
           "symbol": "6223",
           "name": "旺矽",
-          "weight": 3.11
+          "weight": 3.18
         },
         {
           "symbol": "3008",
           "name": "大立光",
-          "weight": 2.98
+          "weight": 3.07
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "weight": 2.69
+          "weight": 2.77
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "weight": 2.57
-        },
-        {
-          "symbol": "3711",
-          "name": "日月光投控",
-          "weight": 2.52
+          "weight": 2.6
         },
         {
           "symbol": "6672",
           "name": "騰輝電子-KY",
-          "weight": 2.47
+          "weight": 2.54
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "weight": 2.41
+          "weight": 2.48
         },
         {
-          "symbol": "6239",
-          "name": "力成",
-          "weight": 2.18
+          "symbol": "3711",
+          "name": "日月光投控",
+          "weight": 2.48
         },
         {
           "symbol": "3231",
           "name": "緯創",
-          "weight": 2.12
+          "weight": 2.19
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "weight": 2.19
         },
         {
           "symbol": "3044",
           "name": "健鼎",
-          "weight": 2.07
+          "weight": 2.14
         },
         {
           "symbol": "7788",
           "name": "松川精密",
-          "weight": 1.77
+          "weight": 1.61
         },
         {
           "symbol": "6213",
           "name": "聯茂",
-          "weight": 1.55
-        },
-        {
-          "symbol": "7828",
-          "name": "創新服務",
-          "weight": 1.46
-        },
-        {
-          "symbol": "2395",
-          "name": "研華",
-          "weight": 1.4
+          "weight": 1.6
         },
         {
           "symbol": "6669",
           "name": "緯穎",
+          "weight": 1.43
+        },
+        {
+          "symbol": "2395",
+          "name": "研華",
           "weight": 1.39
+        },
+        {
+          "symbol": "7828",
+          "name": "創新服務",
+          "weight": 1.38
         },
         {
           "symbol": "2455",
           "name": "全新",
-          "weight": 1.34
-        },
-        {
-          "symbol": "2376",
-          "name": "技嘉",
-          "weight": 1.28
+          "weight": 1.31
         },
         {
           "symbol": "6285",
           "name": "啟碁",
-          "weight": 1.24
+          "weight": 1.28
+        },
+        {
+          "symbol": "2376",
+          "name": "技嘉",
+          "weight": 1.26
         },
         {
           "symbol": "8016",
@@ -3157,19 +3157,19 @@
           "weight": 1.22
         },
         {
+          "symbol": "8996",
+          "name": "高力",
+          "weight": 0.94
+        },
+        {
           "symbol": "6510",
           "name": "精測",
-          "weight": 0.92
+          "weight": 0.93
         },
         {
           "symbol": "5536",
           "name": "聖暉*",
-          "weight": 0.92
-        },
-        {
-          "symbol": "8996",
-          "name": "高力",
-          "weight": 0.91
+          "weight": 0.9
         },
         {
           "symbol": "2441",
@@ -3179,22 +3179,22 @@
         {
           "symbol": "2377",
           "name": "微星",
-          "weight": 0.78
+          "weight": 0.75
         },
         {
           "symbol": "6472",
           "name": "保瑞",
-          "weight": 0.77
+          "weight": 0.75
         },
         {
           "symbol": "3702",
           "name": "大聯大",
-          "weight": 0.72
+          "weight": 0.71
         },
         {
           "symbol": "3028",
           "name": "增你強",
-          "weight": 0.7
+          "weight": 0.69
         },
         {
           "symbol": "1785",
@@ -3207,59 +3207,59 @@
           "weight": 0.5
         },
         {
-          "symbol": "2885",
-          "name": "元大金",
-          "weight": 0.37
-        },
-        {
           "symbol": "6274",
           "name": "台燿",
           "weight": 0.37
         },
         {
+          "symbol": "2885",
+          "name": "元大金",
+          "weight": 0.36
+        },
+        {
           "symbol": "2451",
           "name": "創見",
-          "weight": 0.37
+          "weight": 0.36
         },
         {
           "symbol": "2351",
           "name": "順德",
-          "weight": 0.35
-        },
-        {
-          "symbol": "6691",
-          "name": "洋基工程",
           "weight": 0.34
         },
         {
           "symbol": "2478",
           "name": "大毅",
-          "weight": 0.33
+          "weight": 0.34
         },
         {
-          "symbol": "3661",
-          "name": "世芯-KY",
+          "symbol": "6691",
+          "name": "洋基工程",
           "weight": 0.33
         },
         {
           "symbol": "2327",
           "name": "國巨*",
-          "weight": 0.31
+          "weight": 0.32
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "weight": 0.32
         },
         {
           "symbol": "4749",
           "name": "新應材",
-          "weight": 0.3
+          "weight": 0.28
         },
         {
           "symbol": "6446",
           "name": "藥華藥",
-          "weight": 0.12
+          "weight": 0.13
         },
         {
           "symbol": "7722",
           "name": "LINEPAY",
-          "weight": 0.07
+          "weight": 0.06
         },
         {
           "symbol": "6177",
@@ -3282,122 +3282,122 @@
       "name": "元大全球AI新經濟主動式ETF基金",
       "issuer": "元大投信",
       "via": "元大投信",
-      "asOf": "2026-11-24",
+      "asOf": "2026-11-25",
       "top": [
         {
           "symbol": "MSFT US",
           "name": "MICROSOFT CORP",
-          "weight": 7.19
+          "weight": 7.22
         },
         {
           "symbol": "GOOGL US",
           "name": "ALPHABET INC-CL A",
-          "weight": 5.53
-        },
-        {
-          "symbol": "AMZN US",
-          "name": "AMAZON.COM INC",
-          "weight": 4.76
+          "weight": 5.5
         },
         {
           "symbol": "META US",
           "name": "META PLATFORMS INC-CLASS A",
-          "weight": 4.74
+          "weight": 4.98
+        },
+        {
+          "symbol": "AMZN US",
+          "name": "AMAZON.COM INC",
+          "weight": 4.69
         },
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 4.36
+          "weight": 4.25
         },
         {
           "symbol": "AAPL US",
           "name": "APPLE INC",
-          "weight": 4.11
+          "weight": 4.19
         },
         {
           "symbol": "LLY US",
           "name": "ELI LILLY & CO",
-          "weight": 3.39
-        },
-        {
-          "symbol": "BE US",
-          "name": "BLOOM ENERGY CORP- A",
-          "weight": 3.05
+          "weight": 3.41
         },
         {
           "symbol": "CRWD US",
           "name": "CROWDSTRIKE HOLDINGS INC - A",
-          "weight": 3.02
+          "weight": 3.05
         },
         {
           "symbol": "GE US",
           "name": "GENERAL ELECTRIC",
-          "weight": 3
-        },
-        {
-          "symbol": "APP US",
-          "name": "APPLOVIN CORP-CLASS A",
-          "weight": 2.96
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "weight": 2.95
+          "weight": 3.04
         },
         {
           "symbol": "PANW US",
           "name": "PALO ALTO NETWORKS INC",
-          "weight": 2.94
+          "weight": 3.01
+        },
+        {
+          "symbol": "APP US",
+          "name": "APPLOVIN CORP-CLASS A",
+          "weight": 2.99
         },
         {
           "symbol": "SNOW US",
           "name": "SNOWFLAKE INC",
-          "weight": 2.86
+          "weight": 2.87
         },
         {
           "symbol": "NET US",
           "name": "CLOUDFLARE INC - CLASS A",
-          "weight": 2.83
+          "weight": 2.84
         },
         {
           "symbol": "PLTR US",
           "name": "PALANTIR TECHNOLOGIES INC-A",
-          "weight": 2.66
+          "weight": 2.74
         },
         {
-          "symbol": "ANET US",
-          "name": "ARISTA NETWORKS INC",
-          "weight": 2.64
+          "symbol": "2454",
+          "name": "聯發科",
+          "weight": 2.68
         },
         {
           "symbol": "SHOP US",
           "name": "SHOPIFY INC - CLASS A",
-          "weight": 2.33
+          "weight": 2.39
         },
         {
           "symbol": "AVGO US",
           "name": "BROADCOM INC",
-          "weight": 2.27
+          "weight": 2.31
         },
         {
           "symbol": "FROG US",
           "name": "JFROG LTD",
-          "weight": 2.21
+          "weight": 2.26
         },
         {
           "symbol": "U US",
           "name": "UNITY SOFTWARE INC",
-          "weight": 2.11
+          "weight": 2.14
+        },
+        {
+          "symbol": "BE US",
+          "name": "BLOOM ENERGY CORP- A",
+          "weight": 2.04
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 1.87
+          "weight": 1.84
         },
         {
           "symbol": "HWM US",
           "name": "HOWMET AEROSPACE INC",
-          "weight": 1.71
+          "weight": 1.74
+        },
+        {
+          "symbol": "TTWO US",
+          "name": "TAKE-TWO INTERACTIVE SOFTWRE",
+          "weight": 1.73
         },
         {
           "symbol": "AMD US",
@@ -3405,29 +3405,29 @@
           "weight": 1.7
         },
         {
-          "symbol": "TTWO US",
-          "name": "TAKE-TWO INTERACTIVE SOFTWRE",
-          "weight": 1.65
-        },
-        {
-          "symbol": "6857 JP",
-          "name": "ADVANTEST CORP",
-          "weight": 1.46
+          "symbol": "ANET US",
+          "name": "ARISTA NETWORKS INC",
+          "weight": 1.63
         },
         {
           "symbol": "6098 JP",
           "name": "RECRUIT HOLDINGS CO LTD",
-          "weight": 1.36
+          "weight": 1.35
+        },
+        {
+          "symbol": "6857 JP",
+          "name": "ADVANTEST CORP",
+          "weight": 1.29
         },
         {
           "symbol": "MU US",
           "name": "MICRON TECHNOLOGY INC",
-          "weight": 1.29
+          "weight": 1.25
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "weight": 1.21
+          "weight": 1.1
         },
         {
           "symbol": "2383",
@@ -3435,29 +3435,24 @@
           "weight": 1.06
         },
         {
-          "symbol": "3037",
-          "name": "欣興",
-          "weight": 1.03
-        },
-        {
           "symbol": "COHR US",
           "name": "COHERENT CORP",
-          "weight": 0.76
-        },
-        {
-          "symbol": "4004 JP",
-          "name": "RESONAC HOLDINGS CORP",
-          "weight": 0.75
+          "weight": 0.77
         },
         {
           "symbol": "SMTC US",
           "name": "SEMTECH CORP",
-          "weight": 0.65
+          "weight": 0.72
+        },
+        {
+          "symbol": "4004 JP",
+          "name": "RESONAC HOLDINGS CORP",
+          "weight": 0.68
         },
         {
           "symbol": "7974 JP",
           "name": "NINTENDO CO LTD",
-          "weight": 0.54
+          "weight": 0.57
         }
       ]
     },
@@ -3465,227 +3460,237 @@
       "name": "00407A",
       "issuer": "凱基投信",
       "via": "凱基投信",
-      "asOf": "2026-11-26",
+      "asOf": "2026-11-27",
       "top": [
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 12.59
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "weight": 6.47
-        },
-        {
-          "symbol": "3017",
-          "name": "奇鋐",
-          "weight": 6.11
+          "weight": 12.23
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "weight": 6.04
+          "weight": 6.95
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "weight": 6.54
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "weight": 6.4
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "weight": 3.94
-        },
-        {
-          "symbol": "3443",
-          "name": "創意電子",
-          "weight": 3.53
-        },
-        {
-          "symbol": "3665",
-          "name": "貿聯-KY",
-          "weight": 3.4
-        },
-        {
-          "symbol": "2368",
-          "name": "金像電",
-          "weight": 3.24
-        },
-        {
-          "symbol": "3711",
-          "name": "日月光投控",
-          "weight": 2.95
+          "weight": 4.52
         },
         {
           "symbol": "1303",
           "name": "南亞",
-          "weight": 2.94
+          "weight": 3.72
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "weight": 3.72
+        },
+        {
+          "symbol": "3443",
+          "name": "創意電子",
+          "weight": 3.65
+        },
+        {
+          "symbol": "3665",
+          "name": "貿聯-KY",
+          "weight": 3.63
         },
         {
           "symbol": "6223",
           "name": "旺矽",
-          "weight": 2.93
+          "weight": 3.11
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "weight": 3
         },
         {
           "symbol": "3653",
           "name": "健策",
-          "weight": 2.64
+          "weight": 2.82
         },
         {
           "symbol": "2345",
           "name": "智邦",
-          "weight": 2.23
+          "weight": 2.39
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "weight": 2.2
+          "weight": 2.36
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "weight": 1.86
+          "weight": 1.92
         },
         {
           "symbol": "3231",
           "name": "緯創",
-          "weight": 1.4
+          "weight": 1.49
         },
         {
           "symbol": "6669",
           "name": "緯穎",
-          "weight": 1.33
+          "weight": 1.42
         },
         {
           "symbol": "6274",
           "name": "台燿",
-          "weight": 1.24
-        },
-        {
-          "symbol": "2301",
-          "name": "光寶科",
-          "weight": 1.19
+          "weight": 1.3
         },
         {
           "symbol": "3081",
           "name": "聯亞",
-          "weight": 1.18
+          "weight": 1.26
+        },
+        {
+          "symbol": "2301",
+          "name": "光寶科",
+          "weight": 1.22
         },
         {
           "symbol": "6510",
           "name": "精測",
-          "weight": 1.16
+          "weight": 1.22
         },
         {
           "symbol": "3008",
           "name": "大立光",
-          "weight": 1.13
+          "weight": 1.21
         },
         {
           "symbol": "5274",
           "name": "信驊",
+          "weight": 1.16
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
           "weight": 1.12
         },
         {
           "symbol": "2615",
           "name": "萬海",
-          "weight": 1.11
-        },
-        {
-          "symbol": "8996",
-          "name": "高力",
-          "weight": 1.05
-        },
-        {
-          "symbol": "6187",
-          "name": "萬潤",
-          "weight": 0.95
+          "weight": 1.07
         },
         {
           "symbol": "6805",
           "name": "富世達",
-          "weight": 0.94
+          "weight": 1
         },
         {
           "symbol": "3491",
           "name": "昇達科",
-          "weight": 0.92
+          "weight": 0.99
+        },
+        {
+          "symbol": "6187",
+          "name": "萬潤",
+          "weight": 0.97
         },
         {
           "symbol": "3533",
           "name": "嘉澤",
-          "weight": 0.82
-        },
-        {
-          "symbol": "3293",
-          "name": "鈊象",
-          "weight": 0.79
-        },
-        {
-          "symbol": "3406",
-          "name": "玉晶光",
-          "weight": 0.78
+          "weight": 0.87
         },
         {
           "symbol": "1560",
           "name": "中砂",
-          "weight": 0.77
+          "weight": 0.82
         },
         {
-          "symbol": "3034",
-          "name": "聯詠",
-          "weight": 0.77
+          "symbol": "3406",
+          "name": "玉晶光",
+          "weight": 0.82
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "weight": 0.75
+          "weight": 0.79
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "weight": 0.73
+          "weight": 0.78
+        },
+        {
+          "symbol": "3034",
+          "name": "聯詠",
+          "weight": 0.78
+        },
+        {
+          "symbol": "3293",
+          "name": "鈊象",
+          "weight": 0.77
         },
         {
           "symbol": "1476",
           "name": "儒鴻",
-          "weight": 0.66
-        },
-        {
-          "symbol": "2618",
-          "name": "長榮航",
-          "weight": 0.62
+          "weight": 0.65
         },
         {
           "symbol": "2360",
           "name": "致茂",
-          "weight": 0.58
+          "weight": 0.61
+        },
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "weight": 0.61
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "weight": 0.42
+          "weight": 0.41
         },
         {
           "symbol": "6446",
           "name": "藥華藥",
-          "weight": 0.38
+          "weight": 0.4
         },
         {
           "symbol": "2327",
           "name": "國巨*",
+          "weight": 0.38
+        },
+        {
+          "symbol": "3044",
+          "name": "健鼎",
+          "weight": 0.38
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
           "weight": 0.36
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "weight": 0.34
+          "weight": 0.36
         },
         {
           "symbol": "2451",
           "name": "創見",
-          "weight": 0.34
+          "weight": 0.35
         },
         {
-          "symbol": "2313",
-          "name": "華通",
-          "weight": 0.33
+          "symbol": "8299",
+          "name": "群聯",
+          "weight": 0.3
         },
         {
           "symbol": "2379",
@@ -3693,14 +3698,9 @@
           "weight": 0.29
         },
         {
-          "symbol": "8299",
-          "name": "群聯",
-          "weight": 0.28
-        },
-        {
           "symbol": "3260",
           "name": "威剛",
-          "weight": 0.26
+          "weight": 0.27
         },
         {
           "symbol": "6531",
@@ -3711,11 +3711,6 @@
           "symbol": "5434",
           "name": "崇越",
           "weight": 0.2
-        },
-        {
-          "symbol": "3044",
-          "name": "健鼎",
-          "weight": 0.17
         }
       ]
     },
@@ -3723,8 +3718,13 @@
       "name": "00952",
       "issuer": "凱基投信",
       "via": "凱基投信",
-      "asOf": "2026-11-26",
+      "asOf": "2026-11-27",
       "top": [
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "weight": 5.24
+        },
         {
           "symbol": "2301",
           "name": "光寶科",
@@ -3733,22 +3733,22 @@
         {
           "symbol": "2303",
           "name": "聯電",
-          "weight": 5.1
-        },
-        {
-          "symbol": "3231",
-          "name": "緯創",
-          "weight": 5.01
+          "weight": 4.94
         },
         {
           "symbol": "4938",
           "name": "和碩",
-          "weight": 4.37
+          "weight": 4.45
         },
         {
           "symbol": "2376",
           "name": "技嘉",
-          "weight": 4.34
+          "weight": 4.33
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "weight": 4.33
         },
         {
           "symbol": "2317",
@@ -3756,84 +3756,79 @@
           "weight": 4.24
         },
         {
-          "symbol": "6669",
-          "name": "緯穎",
-          "weight": 4.14
-        },
-        {
           "symbol": "2356",
           "name": "英業達",
-          "weight": 3.87
+          "weight": 3.93
         },
         {
           "symbol": "2382",
           "name": "廣達",
-          "weight": 3.73
+          "weight": 3.83
         },
         {
           "symbol": "5347",
           "name": "世界",
-          "weight": 3.64
+          "weight": 3.55
         },
         {
           "symbol": "6526",
           "name": "達發",
-          "weight": 2.48
-        },
-        {
-          "symbol": "2352",
-          "name": "佳世達",
-          "weight": 2.29
+          "weight": 2.6
         },
         {
           "symbol": "5434",
           "name": "崇越",
-          "weight": 2.27
+          "weight": 2.29
+        },
+        {
+          "symbol": "2352",
+          "name": "佳世達",
+          "weight": 2.21
         },
         {
           "symbol": "6414",
           "name": "樺漢",
-          "weight": 2.14
-        },
-        {
-          "symbol": "3023",
-          "name": "信邦",
-          "weight": 2.12
+          "weight": 2.13
         },
         {
           "symbol": "2451",
           "name": "創見",
-          "weight": 2.04
+          "weight": 2
+        },
+        {
+          "symbol": "3023",
+          "name": "信邦",
+          "weight": 1.99
         },
         {
           "symbol": "6196",
           "name": "帆宣",
-          "weight": 1.89
-        },
-        {
-          "symbol": "2421",
-          "name": "建準",
-          "weight": 1.85
+          "weight": 1.95
         },
         {
           "symbol": "6285",
           "name": "啟碁",
-          "weight": 1.82
+          "weight": 1.91
+        },
+        {
+          "symbol": "2421",
+          "name": "建準",
+          "weight": 1.83
         },
         {
           "symbol": "3706",
           "name": "神達",
-          "weight": 1.78
+          "weight": 1.76
         },
         {
           "symbol": "2312",
           "name": "金寶",
-          "weight": 1.74
+          "weight": 1.75
         },
         {
           "symbol": "5269",
           "name": "祥碩",
-          "weight": 1.73
+          "weight": 1.74
         },
         {
           "symbol": "3413",
@@ -3843,47 +3838,42 @@
         {
           "symbol": "4966",
           "name": "譜瑞-KY",
-          "weight": 1.42
+          "weight": 1.44
         },
         {
           "symbol": "4915",
           "name": "致伸",
-          "weight": 1.34
+          "weight": 1.28
         },
         {
           "symbol": "2323",
           "name": "中環",
-          "weight": 1.31
-        },
-        {
-          "symbol": "6913",
-          "name": "鴻呈",
-          "weight": 1.23
-        },
-        {
-          "symbol": "6561",
-          "name": "是方",
-          "weight": 1.21
+          "weight": 1.27
         },
         {
           "symbol": "3088",
           "name": "艾訊",
-          "weight": 1.18
+          "weight": 1.19
         },
         {
-          "symbol": "2420",
-          "name": "新巨",
-          "weight": 1.16
+          "symbol": "6913",
+          "name": "鴻呈",
+          "weight": 1.19
+        },
+        {
+          "symbol": "6561",
+          "name": "是方",
+          "weight": 1.17
         },
         {
           "symbol": "3169",
           "name": "亞信",
-          "weight": 1.16
+          "weight": 1.15
         },
         {
-          "symbol": "3577",
-          "name": "泓格",
-          "weight": 1.12
+          "symbol": "2420",
+          "name": "新巨",
+          "weight": 1.13
         },
         {
           "symbol": "3558",
@@ -3891,89 +3881,94 @@
           "weight": 1.1
         },
         {
-          "symbol": "3015",
-          "name": "全漢",
-          "weight": 1.08
+          "symbol": "3577",
+          "name": "泓格",
+          "weight": 1.09
         },
         {
           "symbol": "4549",
           "name": "桓達",
-          "weight": 1.08
+          "weight": 1.09
+        },
+        {
+          "symbol": "3015",
+          "name": "全漢",
+          "weight": 1.04
         },
         {
           "symbol": "4755",
           "name": "三福化",
-          "weight": 1.04
+          "weight": 1
         },
         {
           "symbol": "2328",
           "name": "廣宇",
-          "weight": 1
+          "weight": 0.99
         },
         {
           "symbol": "6120",
           "name": "達運",
-          "weight": 1
-        },
-        {
-          "symbol": "6203",
-          "name": "海韻電",
-          "weight": 1
-        },
-        {
-          "symbol": "6202",
-          "name": "盛群",
           "weight": 0.98
         },
         {
           "symbol": "6191",
           "name": "精成科",
+          "weight": 0.97
+        },
+        {
+          "symbol": "6202",
+          "name": "盛群",
+          "weight": 0.97
+        },
+        {
+          "symbol": "6203",
+          "name": "海韻電",
           "weight": 0.95
         },
         {
           "symbol": "3265",
           "name": "台星科",
-          "weight": 0.91
+          "weight": 0.92
         },
         {
           "symbol": "2489",
           "name": "瑞軒",
-          "weight": 0.85
+          "weight": 0.86
         },
         {
           "symbol": "2495",
           "name": "普安",
-          "weight": 0.84
+          "weight": 0.83
         },
         {
           "symbol": "6412",
           "name": "群電",
-          "weight": 0.84
+          "weight": 0.83
         },
         {
           "symbol": "8499",
           "name": "鼎炫-KY",
-          "weight": 0.82
-        },
-        {
-          "symbol": "3078",
-          "name": "僑威",
-          "weight": 0.81
+          "weight": 0.83
         },
         {
           "symbol": "2329",
           "name": "華泰",
-          "weight": 0.77
+          "weight": 0.78
+        },
+        {
+          "symbol": "3078",
+          "name": "僑威",
+          "weight": 0.78
         },
         {
           "symbol": "3483",
           "name": "力致",
-          "weight": 0.74
+          "weight": 0.73
         },
         {
           "symbol": "4933",
           "name": "友輝",
-          "weight": 0.67
+          "weight": 0.64
         }
       ]
     },
@@ -3981,127 +3976,127 @@
       "name": "009816",
       "issuer": "凱基投信",
       "via": "凱基投信",
-      "asOf": "2026-11-26",
+      "asOf": "2026-11-27",
       "top": [
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 43.38
+          "weight": 42.32
         },
         {
           "symbol": "2454",
           "name": "聯發科",
-          "weight": 6.06
+          "weight": 6.03
         },
         {
           "symbol": "2881",
           "name": "富邦金",
-          "weight": 4.02
+          "weight": 4.11
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 3.83
+          "weight": 3.91
         },
         {
           "symbol": "2882",
           "name": "國泰金",
-          "weight": 2.93
+          "weight": 2.98
         },
         {
           "symbol": "2317",
           "name": "鴻海",
-          "weight": 2.81
-        },
-        {
-          "symbol": "2412",
-          "name": "中華電",
-          "weight": 2.49
+          "weight": 2.9
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "weight": 2.45
+          "weight": 2.55
+        },
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "weight": 2.48
         },
         {
           "symbol": "3711",
           "name": "日月光投控",
-          "weight": 1.79
-        },
-        {
-          "symbol": "2890",
-          "name": "永豐金",
-          "weight": 1.64
+          "weight": 1.83
         },
         {
           "symbol": "2603",
           "name": "長榮",
-          "weight": 1.6
+          "weight": 1.57
         },
         {
-          "symbol": "2880",
-          "name": "華南金",
-          "weight": 1.4
+          "symbol": "2890",
+          "name": "永豐金",
+          "weight": 1.57
         },
         {
           "symbol": "1303",
           "name": "南亞",
-          "weight": 1.39
+          "weight": 1.46
         },
         {
-          "symbol": "2892",
-          "name": "第一金",
-          "weight": 1.3
+          "symbol": "2880",
+          "name": "華南金",
+          "weight": 1.41
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "weight": 1.21
+          "weight": 1.29
         },
         {
-          "symbol": "1216",
-          "name": "統一",
-          "weight": 1.13
+          "symbol": "2892",
+          "name": "第一金",
+          "weight": 1.26
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "weight": 1.13
+          "weight": 1.12
         },
         {
-          "symbol": "5880",
-          "name": "合庫金",
-          "weight": 1
+          "symbol": "1216",
+          "name": "統一",
+          "weight": 1.11
         },
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "weight": 0.94
-        },
-        {
-          "symbol": "2887",
-          "name": "台新新光金",
-          "weight": 0.91
+          "weight": 1
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "weight": 0.9
+          "weight": 0.96
+        },
+        {
+          "symbol": "5880",
+          "name": "合庫金",
+          "weight": 0.96
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "weight": 0.93
         },
         {
           "symbol": "2885",
           "name": "元大金",
-          "weight": 0.89
+          "weight": 0.91
         },
         {
           "symbol": "2382",
           "name": "廣達",
-          "weight": 0.84
+          "weight": 0.88
         },
         {
           "symbol": "2345",
           "name": "智邦",
-          "weight": 0.81
+          "weight": 0.86
         },
         {
           "symbol": "2884",
@@ -4111,76 +4106,81 @@
         {
           "symbol": "2408",
           "name": "南亞科",
-          "weight": 0.65
-        },
-        {
-          "symbol": "2886",
-          "name": "兆豐金",
-          "weight": 0.64
+          "weight": 0.7
         },
         {
           "symbol": "2327",
           "name": "國巨*",
-          "weight": 0.63
+          "weight": 0.67
         },
         {
           "symbol": "2357",
           "name": "華碩",
+          "weight": 0.6
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "weight": 0.6
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
           "weight": 0.59
         },
         {
           "symbol": "6669",
           "name": "緯穎",
-          "weight": 0.56
+          "weight": 0.59
         },
         {
           "symbol": "2883",
           "name": "凱基金",
-          "weight": 0.55
-        },
-        {
-          "symbol": "3231",
-          "name": "緯創",
-          "weight": 0.55
+          "weight": 0.56
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "weight": 0.48
-        },
-        {
-          "symbol": "3443",
-          "name": "創意電子",
-          "weight": 0.48
+          "weight": 0.52
         },
         {
           "symbol": "3653",
           "name": "健策",
-          "weight": 0.48
+          "weight": 0.51
+        },
+        {
+          "symbol": "3443",
+          "name": "創意電子",
+          "weight": 0.49
         },
         {
           "symbol": "2360",
           "name": "致茂",
+          "weight": 0.48
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
           "weight": 0.46
         },
         {
           "symbol": "2301",
           "name": "光寶科",
-          "weight": 0.43
-        },
-        {
-          "symbol": "6446",
-          "name": "藥華藥",
-          "weight": 0.43
+          "weight": 0.44
         },
         {
           "symbol": "3008",
           "name": "大立光",
-          "weight": 0.39
+          "weight": 0.42
         },
         {
           "symbol": "2368",
           "name": "金像電",
+          "weight": 0.37
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
           "weight": 0.35
         },
         {
@@ -4191,47 +4191,42 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "weight": 0.33
-        },
-        {
-          "symbol": "2344",
-          "name": "華邦電",
-          "weight": 0.33
+          "weight": 0.34
         },
         {
           "symbol": "3045",
           "name": "台灣大",
-          "weight": 0.33
+          "weight": 0.32
         },
         {
           "symbol": "2395",
           "name": "研華",
-          "weight": 0.3
+          "weight": 0.31
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "weight": 0.29
+          "weight": 0.31
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "weight": 0.28
+          "weight": 0.29
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "weight": 0.2
+          "weight": 0.21
         },
         {
           "symbol": "3189",
           "name": "景碩",
-          "weight": 0.18
+          "weight": 0.19
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "weight": 0.17
+          "weight": 0.18
         }
       ]
     },
@@ -4239,97 +4234,97 @@
       "name": "00938",
       "issuer": "凱基投信",
       "via": "凱基投信",
-      "asOf": "2026-11-26",
+      "asOf": "2026-11-27",
       "top": [
         {
           "symbol": "2330",
           "name": "台積電",
-          "weight": 24.59
+          "weight": 23.93
         },
         {
           "symbol": "2881",
           "name": "富邦金",
-          "weight": 9.95
+          "weight": 10.14
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 9.46
+          "weight": 9.65
         },
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "weight": 7.45
+          "weight": 7.55
         },
         {
           "symbol": "2882",
           "name": "國泰金",
-          "weight": 7.24
+          "weight": 7.35
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "weight": 6.3
+          "weight": 6.31
         },
         {
           "symbol": "2885",
           "name": "元大金",
-          "weight": 6.03
-        },
-        {
-          "symbol": "2890",
-          "name": "永豐金",
-          "weight": 5.39
+          "weight": 6.1
         },
         {
           "symbol": "2883",
           "name": "凱基金",
-          "weight": 5.18
+          "weight": 5.23
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "weight": 5.14
         },
         {
           "symbol": "2618",
           "name": "長榮航",
-          "weight": 2.2
+          "weight": 2.16
         },
         {
           "symbol": "5876",
           "name": "上海商銀",
-          "weight": 2
+          "weight": 1.92
         },
         {
           "symbol": "3293",
           "name": "鈊象",
-          "weight": 1.94
+          "weight": 1.91
         },
         {
           "symbol": "5871",
           "name": "中租-KY",
-          "weight": 1.71
+          "weight": 1.66
         },
         {
           "symbol": "2347",
           "name": "聯強",
-          "weight": 0.97
-        },
-        {
-          "symbol": "2610",
-          "name": "華航",
-          "weight": 0.89
+          "weight": 0.98
         },
         {
           "symbol": "2812",
           "name": "台中銀",
-          "weight": 0.83
+          "weight": 0.94
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "weight": 0.86
         },
         {
           "symbol": "2542",
           "name": "興富發",
-          "weight": 0.79
+          "weight": 0.78
         },
         {
           "symbol": "9945",
           "name": "潤泰新",
-          "weight": 0.59
+          "weight": 0.65
         },
         {
           "symbol": "2385",
@@ -4337,29 +4332,29 @@
           "weight": 0.58
         },
         {
-          "symbol": "6121",
-          "name": "新普",
-          "weight": 0.5
-        },
-        {
           "symbol": "2855",
           "name": "統一證",
-          "weight": 0.49
+          "weight": 0.58
         },
         {
           "symbol": "2006",
           "name": "東和鋼鐵",
-          "weight": 0.43
+          "weight": 0.52
+        },
+        {
+          "symbol": "6121",
+          "name": "新普",
+          "weight": 0.51
         },
         {
           "symbol": "1210",
           "name": "大成",
-          "weight": 0.39
+          "weight": 0.38
         },
         {
           "symbol": "9939",
           "name": "宏全",
-          "weight": 0.38
+          "weight": 0.37
         },
         {
           "symbol": "6414",
@@ -4369,12 +4364,17 @@
         {
           "symbol": "2504",
           "name": "國產",
-          "weight": 0.31
+          "weight": 0.35
         },
         {
           "symbol": "9941",
           "name": "裕融",
           "weight": 0.25
+        },
+        {
+          "symbol": "2539",
+          "name": "櫻花建",
+          "weight": 0.23
         },
         {
           "symbol": "4915",
@@ -4385,11 +4385,6 @@
           "symbol": "1215",
           "name": "卜蜂",
           "weight": 0.2
-        },
-        {
-          "symbol": "2539",
-          "name": "櫻花建",
-          "weight": 0.18
         }
       ]
     },
@@ -4397,147 +4392,147 @@
       "name": "00915",
       "issuer": "凱基投信",
       "via": "凱基投信",
-      "asOf": "2026-11-26",
+      "asOf": "2026-11-27",
       "top": [
-        {
-          "symbol": "2618",
-          "name": "長榮航",
-          "weight": 8.33
-        },
         {
           "symbol": "2891",
           "name": "中信金",
-          "weight": 8.18
+          "weight": 8.35
+        },
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "weight": 8.19
         },
         {
           "symbol": "2886",
           "name": "兆豐金",
-          "weight": 7.56
+          "weight": 7.16
         },
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "weight": 6.83
+          "weight": 6.92
         },
         {
           "symbol": "2317",
           "name": "鴻海",
-          "weight": 6.7
+          "weight": 6.85
         },
         {
           "symbol": "2382",
           "name": "廣達",
-          "weight": 5.92
+          "weight": 6.21
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "weight": 5.51
+          "weight": 5.46
         },
         {
           "symbol": "3034",
           "name": "聯詠",
-          "weight": 4.91
+          "weight": 5
         },
         {
           "symbol": "3293",
           "name": "鈊象",
-          "weight": 4.69
+          "weight": 4.63
         },
         {
           "symbol": "2892",
           "name": "第一金",
-          "weight": 4.63
+          "weight": 4.48
         },
         {
           "symbol": "2885",
           "name": "元大金",
-          "weight": 4.13
+          "weight": 4.18
         },
         {
           "symbol": "2379",
           "name": "瑞昱",
-          "weight": 3.88
+          "weight": 3.96
         },
         {
           "symbol": "2347",
           "name": "聯強",
-          "weight": 3.62
+          "weight": 3.66
         },
         {
           "symbol": "1216",
           "name": "統一",
-          "weight": 3.56
+          "weight": 3.46
         },
         {
           "symbol": "3702",
           "name": "大聯大",
-          "weight": 3.32
+          "weight": 3.43
         },
         {
           "symbol": "2610",
           "name": "華航",
-          "weight": 3.24
+          "weight": 3.14
         },
         {
           "symbol": "2890",
           "name": "永豐金",
-          "weight": 2.58
+          "weight": 2.46
         },
         {
           "symbol": "1477",
           "name": "聚陽",
-          "weight": 1.91
+          "weight": 1.95
         },
         {
           "symbol": "3045",
           "name": "台灣大",
-          "weight": 1.65
-        },
-        {
-          "symbol": "4766",
-          "name": "南寶",
-          "weight": 1.14
-        },
-        {
-          "symbol": "2377",
-          "name": "微星",
-          "weight": 1.11
+          "weight": 1.63
         },
         {
           "symbol": "2458",
           "name": "義隆",
-          "weight": 1.11
+          "weight": 1.13
+        },
+        {
+          "symbol": "4766",
+          "name": "南寶",
+          "weight": 1.13
+        },
+        {
+          "symbol": "2377",
+          "name": "微星",
+          "weight": 1.12
         },
         {
           "symbol": "2027",
           "name": "大成鋼",
-          "weight": 0.86
+          "weight": 0.84
         },
         {
           "symbol": "4904",
           "name": "遠傳",
-          "weight": 0.78
-        },
-        {
-          "symbol": "2615",
-          "name": "萬海",
-          "weight": 0.48
+          "weight": 0.77
         },
         {
           "symbol": "2395",
           "name": "研華",
-          "weight": 0.46
+          "weight": 0.48
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "weight": 0.47
         },
         {
           "symbol": "3406",
           "name": "玉晶光",
-          "weight": 0.44
+          "weight": 0.46
         },
         {
           "symbol": "2912",
           "name": "統一超",
-          "weight": 0.37
+          "weight": 0.36
         },
         {
           "symbol": "1513",
@@ -4547,7 +4542,7 @@
         {
           "symbol": "6278",
           "name": "台表科",
-          "weight": 0.3
+          "weight": 0.32
         }
       ]
     }
