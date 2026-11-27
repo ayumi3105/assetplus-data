@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-27",
- "generatedAt": "2026-11-26T23:58:46.842Z",
+ "generatedAt": "2026-11-27T00:47:12.823Z",
  "items": [
   {
    "title": "美股收盤／那斯達克一度重挫4.6%後收斂跌幅道瓊翻紅守住5萬點",
@@ -17,6 +17,12 @@
    "at": "2026-11-26T14:00:06.000Z"
   },
   {
+   "title": "美股休市台積電期貨上揚 台股拚緩步墊高",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611270018.aspx",
+   "at": "2026-11-26T23:53:24.000Z"
+  },
+  {
    "title": "歐洲央行10月為何沒升息？會議紀要揭官員顧慮",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6673258",
@@ -27,15 +33,45 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6672746",
    "at": "2026-11-26T06:00:20.000Z"
-  },
-  {
-   "title": "韓股早盤／KOSPI反彈2.19%SK海力士漲近6%、南韓央行升息1碼",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6672722",
-   "at": "2026-11-26T06:00:14.000Z"
   }
  ],
  "more": [
+  {
+   "title": "【台股真的跌完了嗎？】4大落底訊號揭密！12月反攻強勢股藏在這？！",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6673457",
+   "at": "2026-11-27T00:30:55.000Z"
+  },
+  {
+   "title": "川普再談推動黃仁勳復職：他沒有問題 我為全世界做了一件大好事",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6673444",
+   "at": "2026-11-27T00:30:22.000Z"
+  },
+  {
+   "title": "日本JERA洽談Anthropic、Meta以電廠直供電力招攬AI資料中心客戶",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6673464",
+   "at": "2026-11-27T00:30:15.000Z"
+  },
+  {
+   "title": "荷蘭Budel鋅廠11月底停產能源成本壓垮冶煉，鋅價一度漲逾5%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6673463",
+   "at": "2026-11-27T00:30:15.000Z"
+  },
+  {
+   "title": "歐元區領袖支持德科斯接掌歐洲央行仍待正式任命",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6673427",
+   "at": "2026-11-27T00:00:05.000Z"
+  },
+  {
+   "title": "鎧俠攜輝達用144顆SSD擴充GPU可用容量AI資料不必全擠進HBM",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6673426",
+   "at": "2026-11-27T00:00:04.000Z"
+  },
   {
    "title": "西班牙籍戴柯斯將接替拉加德 出任歐洲央行總裁",
    "source": "中央社",
@@ -331,12 +367,6 @@
    "at": "2026-11-26T11:17:52.000Z"
   },
   {
-   "title": "統一實：明年鐵製品營運看美反傾銷終判 DR材拚今年底商轉",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611260267.aspx",
-   "at": "2026-11-26T11:07:31.000Z"
-  },
-  {
    "title": "南韓KT Cloud租下凱德60MW資料中心安山自建加租賃拚110MW",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6673123",
@@ -365,36 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6673049",
    "at": "2026-11-26T10:26:24.000Z"
-  },
-  {
-   "title": "馬來西亞未承諾救亞航財長：若出手，政府須優先於其他債權人",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673047",
-   "at": "2026-11-26T10:01:16.000Z"
-  },
-  {
-   "title": "軟銀股價反彈7.3%、CDS卻創四年新高100億美元貸款連動OpenAI估值",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673046",
-   "at": "2026-11-26T10:01:16.000Z"
-  },
-  {
-   "title": "陸股收盤／上證創16個月盤中新低後收平半導體跌2%、通訊設備逆勢上漲",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673045",
-   "at": "2026-11-26T10:01:16.000Z"
-  },
-  {
-   "title": "Skanska再接2.75億美元資料中心工程喬治亞州48MW機房已開工",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673044",
-   "at": "2026-11-26T10:01:15.000Z"
-  },
-  {
-   "title": "漲價推升舊旗艦殘值 10月二手機回收價逆勢走揚 小米15T Pro漲幅24%居冠",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673035",
-   "at": "2026-11-26T10:00:17.000Z"
   }
  ]
 }
