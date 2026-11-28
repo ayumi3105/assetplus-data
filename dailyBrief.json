@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-28",
- "generatedAt": "2026-11-28T04:15:22.375Z",
+ "generatedAt": "2026-11-28T07:35:20.662Z",
  "items": [
   {
    "title": "〈美股盤後〉AI強勢回血！標普創2025年4月來最佳單周 Sandisk飆16% Anthropic重返IPO價",
@@ -17,25 +17,97 @@
    "at": "2026-11-27T20:02:43.000Z"
   },
   {
+   "title": "高盛示警美股風險未除！AI擁擠交易退潮後市場「脆弱平衡」、信貸風險決定後市走向",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674377",
+   "at": "2026-11-28T07:10:07.000Z"
+  },
+  {
    "title": "〈美股早盤〉AI買盤回流主要指數走揚 標普500拚4月以來最佳單周表現",
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6674170",
    "at": "2026-11-27T15:32:52.000Z"
   },
   {
-   "title": "輝達AI帝國非單打獨鬥！美股新ETF瞄準非美半導體供應鏈",
+   "title": "美股大跌為何帶來美元買盤？外資回補匯率避險部位",
    "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673832",
-   "at": "2026-11-27T10:30:03.000Z"
-  },
-  {
-   "title": "外資賣超296億元連十賣 選前倒貨00406A 15萬張 台指期空單再增至10萬7503口",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673941",
-   "at": "2026-11-27T10:00:03.000Z"
+   "url": "https://news.cnyes.com/news/id/6674126",
+   "at": "2026-11-27T14:00:05.000Z"
   }
  ],
  "more": [
+  {
+   "title": "日本12月3日起對台韓雙酚A課反傾銷稅南亞8.7%、長春2.4%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674471",
+   "at": "2026-11-28T06:30:08.000Z"
+  },
+  {
+   "title": "景旺電子砸26.8億元擴產鎖定800G至3.2T光模組PCB",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674469",
+   "at": "2026-11-28T06:30:07.000Z"
+  },
+  {
+   "title": "OpenAI反訴蘋果指共同供應商受壓、未公開硬體資料遭取得",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674468",
+   "at": "2026-11-28T06:30:07.000Z"
+  },
+  {
+   "title": "德國議會通過2027年預算核心預算淨舉債較原案多42億歐元",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674467",
+   "at": "2026-11-28T06:30:07.000Z"
+  },
+  {
+   "title": "Google比利時資料中心遭勒令停工每小時600立方公尺取水計畫卡關",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674465",
+   "at": "2026-11-28T06:30:06.000Z"
+  },
+  {
+   "title": "伸興、程泰集團達成董事提名共識 程泰獲1席",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674461",
+   "at": "2026-11-28T06:12:36.000Z"
+  },
+  {
+   "title": "英國啟動冷戰後最大戰時動員準備！10萬預備役收通知、歐洲多國加速備戰",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674392",
+   "at": "2026-11-28T06:10:04.000Z"
+  },
+  {
+   "title": "〈第一金法說〉AI重點筆記2026/11/27",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674426",
+   "at": "2026-11-28T05:14:00.000Z"
+  },
+  {
+   "title": "美國空軍核心雲端平台Cloud One遭駭！軍機作戰、彈藥庫存資料恐面臨風險",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674384",
+   "at": "2026-11-28T05:10:02.000Z"
+  },
+  {
+   "title": "一地雞毛！上市地位將被取消 恆大汽車造車黃粱一夢",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674425",
+   "at": "2026-11-28T05:09:22.000Z"
+  },
+  {
+   "title": "熱門股〉貿聯-KY獲利創高、展望正向 投信11月來大買力挺周漲29%",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674416",
+   "at": "2026-11-28T04:40:54.000Z"
+  },
+  {
+   "title": "OpenAI反擊蘋果！控施壓供應商、限制員工跳槽 阻撓進軍AI硬體市場",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674380",
+   "at": "2026-11-28T04:10:05.000Z"
+  },
   {
    "title": "《彭博》輝達高階晶片現蹤上海！黃樂關係企業涉入、Blackwell設備成銀行抵押品",
    "source": "鉅亨網",
@@ -323,78 +395,6 @@
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/aopl/202611270275.aspx",
    "at": "2026-11-27T14:16:52.000Z"
-  },
-  {
-   "title": "今彩539第115287期 頭獎1注中獎",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/ahel/202611270272.aspx",
-   "at": "2026-11-27T14:05:45.000Z"
-  },
-  {
-   "title": "大樂透第115109期 頭獎槓龜",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/ahel/202611270271.aspx",
-   "at": "2026-11-27T14:04:43.000Z"
-  },
-  {
-   "title": "美股大跌為何帶來美元買盤？外資回補匯率避險部位",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674126",
-   "at": "2026-11-27T14:00:05.000Z"
-  },
-  {
-   "title": "紐時：華為從被美國制裁 如今成為中國AI戰略的核心",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674106",
-   "at": "2026-11-27T13:30:04.000Z"
-  },
-  {
-   "title": "印度軟性飲料年增13% 2030年市場逾9000億元",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611270262.aspx",
-   "at": "2026-11-27T13:22:21.000Z"
-  },
-  {
-   "title": "韓國財經女主播報導股災忍不住哽咽 引發揣測",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611270260.aspx",
-   "at": "2026-11-27T13:21:17.000Z"
-  },
-  {
-   "title": "第一金：目標股利配發率6成以上 評估證券壽險子公司增資",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611270255.aspx",
-   "at": "2026-11-27T12:56:06.000Z"
-  },
-  {
-   "title": "大樂透第115109期開獎",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/ahel/202611270253.aspx",
-   "at": "2026-11-27T12:50:03.000Z"
-  },
-  {
-   "title": "惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674099",
-   "at": "2026-11-27T12:44:17.000Z"
-  },
-  {
-   "title": "今彩539第115287期開獎",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/ahel/202611270252.aspx",
-   "at": "2026-11-27T12:43:01.000Z"
-  },
-  {
-   "title": "國研院舉辦首場工作級ROV操作競賽 強化海洋探測能力",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/ahel/202611270247.aspx",
-   "at": "2026-11-27T12:33:48.000Z"
-  },
-  {
-   "title": "中鋼自結前10月稅前淨利49.13億元 較去年同期轉盈",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611270245.aspx",
-   "at": "2026-11-27T12:30:44.000Z"
   }
  ]
 }
