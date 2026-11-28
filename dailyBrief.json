@@ -2,153 +2,13 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-28",
- "generatedAt": "2026-11-27T23:41:29.767Z",
+ "generatedAt": "2026-11-28T00:13:20.283Z",
  "items": [
-  {
-   "title": "〈美股盤後〉AI強勢回血！標普創2025年4月來最佳單周 Sandisk飆16% Anthropic重返IPO價",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674256",
-   "at": "2026-11-27T20:20:02.000Z"
-  },
   {
    "title": "AI股帶領科技股跌深勁彈 美股收紅",
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/afe/202611280006.aspx",
    "at": "2026-11-27T20:02:43.000Z"
-  },
-  {
-   "title": "〈美股早盤〉AI買盤回流主要指數走揚 標普500拚4月以來最佳單周表現",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674170",
-   "at": "2026-11-27T15:32:52.000Z"
-  },
-  {
-   "title": "輝達AI帝國非單打獨鬥！美股新ETF瞄準非美半導體供應鏈",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673832",
-   "at": "2026-11-27T10:30:03.000Z"
-  },
-  {
-   "title": "外資賣超296億元連十賣 選前倒貨00406A 15萬張 台指期空單再增至10萬7503口",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673941",
-   "at": "2026-11-27T10:00:03.000Z"
-  }
- ],
- "more": [
-  {
-   "title": "〈熱門股〉華通LEO題材夯獲外資回補 股價周漲20%站上月線",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674310",
-   "at": "2026-11-27T23:30:21.000Z"
-  },
-  {
-   "title": "市場交投清淡 油價震盪收低",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611280007.aspx",
-   "at": "2026-11-27T21:08:46.000Z"
-  },
-  {
-   "title": "美股收盤／晶片股領漲，那斯達克升2.31%標普創去年4月來最大單週漲幅",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674265",
-   "at": "2026-11-27T19:30:09.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：Regency Centers公司(REG-US)EPS預估下修至2.32元，預估目標價為84.50元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674249",
-   "at": "2026-11-27T18:15:40.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：KRC臨時(KIM-US)EPS預估上修至1.03元，預估目標價為26.50元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674248",
-   "at": "2026-11-27T18:15:37.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：布里克斯摩爾房地產集團(BRX-US)EPS預估上修至1.2元，預估目標價為33.50元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674247",
-   "at": "2026-11-27T18:15:35.000Z"
-  },
-  {
-   "title": "盤中速報 - 和康電訊(MTSI-US)大漲5.29%，報210.52美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674246",
-   "at": "2026-11-27T18:15:07.000Z"
-  },
-  {
-   "title": "盤中速報 - 科磊(KLAC-US)大漲5.01%，報140.93美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674245",
-   "at": "2026-11-27T18:15:05.000Z"
-  },
-  {
-   "title": "盤中速報 - 泰瑞達(TER-US)大漲5.36%，報223.53美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674242",
-   "at": "2026-11-27T18:14:52.000Z"
-  },
-  {
-   "title": "盤中速報 - 芯源系統(MPWR-US)大漲5.18%，報1256.47美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674240",
-   "at": "2026-11-27T18:14:08.000Z"
-  },
-  {
-   "title": "盤中速報 - 英特爾(INTC-US)大漲5.33%，報57.38美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674239",
-   "at": "2026-11-27T18:14:07.000Z"
-  },
-  {
-   "title": "盤中速報 - 英特格(ENTG-US)大漲5.09%，報134.9美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674238",
-   "at": "2026-11-27T18:12:38.000Z"
-  },
-  {
-   "title": "科技股續漲帶動 歐股收紅結束震盪一週",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/afe/202611280003.aspx",
-   "at": "2026-11-27T17:33:34.000Z"
-  },
-  {
-   "title": "盤中速報 - 萊迪思半導體(LSCC-US)大漲5.02%，報103.16美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674220",
-   "at": "2026-11-27T17:05:39.000Z"
-  },
-  {
-   "title": "盤中速報 - 安森美半導體(ON-US)大漲5.02%，報65.62美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674216",
-   "at": "2026-11-27T16:49:43.000Z"
-  },
-  {
-   "title": "盤中速報 - 高通(QCOM-US)大漲5.06%，報177.2美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674211",
-   "at": "2026-11-27T16:35:22.000Z"
-  },
-  {
-   "title": "盤中速報 - 美光科技(MU-US)大漲5%，報631.33美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674186",
-   "at": "2026-11-27T15:51:48.000Z"
-  },
-  {
-   "title": "盤中速報 - 特斯拉(TSLA-US)大漲5.01%，報399.18美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674185",
-   "at": "2026-11-27T15:50:44.000Z"
-  },
-  {
-   "title": "盤中速報 - 思佳訊半導體(SWKS-US)大漲5.11%，報86.2美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674175",
-   "at": "2026-11-27T15:23:17.000Z"
   },
   {
    "title": "美股早盤走高 那指漲逾1.5%",
@@ -157,83 +17,19 @@
    "at": "2026-11-27T15:19:21.000Z"
   },
   {
-   "title": "盤中速報 - 特許通訊(CHTR-US)大漲5.04%，報154.69美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674174",
-   "at": "2026-11-27T15:19:12.000Z"
+   "title": "市場交投清淡 油價震盪收低",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611280007.aspx",
+   "at": "2026-11-27T21:08:46.000Z"
   },
   {
-   "title": "盤中速報 - ANSYS公司(ANSS-US)大跌5.13%，報15.26美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674164",
-   "at": "2026-11-27T14:51:35.000Z"
-  },
-  {
-   "title": "盤中速報 - Atlassian Corporation - Class A(TEAM-US)大漲5.01%，報151.63美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674163",
-   "at": "2026-11-27T14:49:18.000Z"
-  },
-  {
-   "title": "盤中速報 - Applovin Corp - Class A(APP-US)大漲5.15%，報398.45美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674162",
-   "at": "2026-11-27T14:45:53.000Z"
-  },
-  {
-   "title": "盤中速報 - 安可(AMKR-US)大漲5.15%，報33.67美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674161",
-   "at": "2026-11-27T14:45:13.000Z"
-  },
-  {
-   "title": "盤中速報 - 連貫(COHR-US)大漲6.89%，報209.71美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674160",
-   "at": "2026-11-27T14:45:12.000Z"
-  },
-  {
-   "title": "盤中速報 - 邁威爾科技(MRVL-US)大漲5.65%，報138.33美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674159",
-   "at": "2026-11-27T14:45:08.000Z"
-  },
-  {
-   "title": "盤中速報 - 福泰製藥(VRTX-US)大跌8.53%，報516.01美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674158",
-   "at": "2026-11-27T14:45:07.000Z"
-  },
-  {
-   "title": "盤中速報 - 美卡多(MELI-US)大漲5.63%，報1549.9美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674157",
-   "at": "2026-11-27T14:45:06.000Z"
-  },
-  {
-   "title": "盤中速報 - 安謀控股公司(ARM-US)大漲5.68%，報170.69美元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674154",
-   "at": "2026-11-27T14:45:03.000Z"
-  },
-  {
-   "title": "盤中速報 - 道瓊指數大漲1%，報50685.1點",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674153",
-   "at": "2026-11-27T14:40:32.000Z"
-  },
-  {
-   "title": "全球柴油2027年第二季恐再現缺口中東出口僅戰前三分之一",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674152",
-   "at": "2026-11-27T14:33:13.000Z"
-  },
-  {
-   "title": "美國10月商品貿易逆差擴至1,495億美元資本財占進口增額近64%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674151",
-   "at": "2026-11-27T14:33:13.000Z"
-  },
+   "title": "科技股續漲帶動 歐股收紅結束震盪一週",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611280003.aspx",
+   "at": "2026-11-27T17:33:34.000Z"
+  }
+ ],
+ "more": [
   {
    "title": "南非鑽石業陷低潮 中小型礦商停產、清算或轉農業",
    "source": "中央社",
@@ -251,18 +47,6 @@
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/ahel/202611270271.aspx",
    "at": "2026-11-27T14:04:43.000Z"
-  },
-  {
-   "title": "美股大跌為何帶來美元買盤？外資回補匯率避險部位",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674126",
-   "at": "2026-11-27T14:00:05.000Z"
-  },
-  {
-   "title": "紐時：華為從被美國制裁 如今成為中國AI戰略的核心",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674106",
-   "at": "2026-11-27T13:30:04.000Z"
   },
   {
    "title": "印度軟性飲料年增13% 2030年市場逾9000億元",
@@ -289,12 +73,6 @@
    "at": "2026-11-27T12:50:03.000Z"
   },
   {
-   "title": "惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674099",
-   "at": "2026-11-27T12:44:17.000Z"
-  },
-  {
    "title": "今彩539第115287期開獎",
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/ahel/202611270252.aspx",
@@ -313,22 +91,10 @@
    "at": "2026-11-27T12:30:44.000Z"
   },
   {
-   "title": "選前疏運運能創歷年新高 高鐵尖峰訂位近全滿、交長視察疏運狀況",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674092",
-   "at": "2026-11-27T12:28:15.000Z"
-  },
-  {
    "title": "星宇航空決議辦理現增發行3億股 用於償還銀行借款",
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/afe/202611270243.aspx",
    "at": "2026-11-27T12:24:39.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：箭頭製藥(ARWR-US)EPS預估下修至-6.01元，預估目標價為105.00元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674090",
-   "at": "2026-11-27T12:15:37.000Z"
   },
   {
    "title": "路透：川普新關稅施壓各國劍指北京 圖重塑全球貿易秩序",
@@ -337,64 +103,28 @@
    "at": "2026-11-27T12:15:37.000Z"
   },
   {
-   "title": "鉅亨速報 - Factset 最新調查：理想汽車(LI-US)EPS預估上修至-0.53元，預估目標價為13.87元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674089",
-   "at": "2026-11-27T12:15:34.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：AST SpaceMobile Inc - Class AASTS-US的目標價調降至48元，幅度約13.82%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674088",
-   "at": "2026-11-27T12:15:30.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：Nebius Group N.V. Class ANBIS-US的目標價調降至223元，幅度約4.7%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674087",
-   "at": "2026-11-27T12:15:29.000Z"
-  },
-  {
-   "title": "鉅亨速報 - Factset 最新調查：高特利集團MO-US的目標價調升至82元，幅度約6.49%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674086",
-   "at": "2026-11-27T12:15:25.000Z"
-  },
-  {
-   "title": "正崴看好明年AI高速線出貨續成長 算力中心需求旺租金有調漲空間",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674059",
-   "at": "2026-11-27T12:15:04.000Z"
-  },
-  {
-   "title": "〈第一金法說〉築底訊號出現？估房市將逐步止跌回穩 明年房貸穩健成長5%",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674058",
-   "at": "2026-11-27T12:11:25.000Z"
-  },
-  {
-   "title": "馬斯克預言：Optimus機器人18個月內包辦家務 人人會想買一至兩台",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6673835",
-   "at": "2026-11-27T12:10:11.000Z"
-  },
-  {
-   "title": "美股盤前／那斯達克100期貨漲近3%輝達、超微領軍AI股反彈",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674065",
-   "at": "2026-11-27T12:00:53.000Z"
-  },
-  {
-   "title": "眾達-KY自結10月EPS淨損0.46元 單月虧損3200萬元",
-   "source": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6674057",
-   "at": "2026-11-27T11:55:38.000Z"
-  },
-  {
    "title": "金管會強化金融資安韌性推3大措施 擬將供應商納聯防機制",
    "source": "中央社",
    "url": "https://www.cna.com.tw/news/afe/202611270238.aspx",
    "at": "2026-11-27T11:52:28.000Z"
+  },
+  {
+   "title": "主計總處：明年經濟成長估6.51% AI發展腳步不會停",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611270234.aspx",
+   "at": "2026-11-27T11:34:19.000Z"
+  },
+  {
+   "title": "烏山頭水庫光電案 台汽電：星曄綠能投標程序合法",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/afe/202611270222.aspx",
+   "at": "2026-11-27T10:48:53.000Z"
+  },
+  {
+   "title": "醜聞纏身黃仁勳回鍋掌舵 AI惡搞影片掀熱潮",
+   "source": "中央社",
+   "url": "https://www.cna.com.tw/news/aopl/202611270221.aspx",
+   "at": "2026-11-27T10:44:51.000Z"
   }
  ]
 }
