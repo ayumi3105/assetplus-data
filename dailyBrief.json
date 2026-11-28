@@ -2,7 +2,7 @@
  "version": 1,
  "edition": "open",
  "date": "2026-11-28",
- "generatedAt": "2026-11-28T07:35:20.662Z",
+ "generatedAt": "2026-11-28T08:53:51.342Z",
  "items": [
   {
    "title": "〈美股盤後〉AI強勢回血！標普創2025年4月來最佳單周 Sandisk飆16% Anthropic重返IPO價",
@@ -36,6 +36,12 @@
   }
  ],
  "more": [
+  {
+   "title": "英國美軍基地遭6架無人機接近！疑與伊朗有關、英美憂武器與間諜設備威脅",
+   "source": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6674447",
+   "at": "2026-11-28T08:10:03.000Z"
+  },
   {
    "title": "日本12月3日起對台韓雙酚A課反傾銷稅南亞8.7%、長春2.4%",
    "source": "鉅亨網",
@@ -389,12 +395,6 @@
    "source": "鉅亨網",
    "url": "https://news.cnyes.com/news/id/6674151",
    "at": "2026-11-27T14:33:13.000Z"
-  },
-  {
-   "title": "南非鑽石業陷低潮 中小型礦商停產、清算或轉農業",
-   "source": "中央社",
-   "url": "https://www.cna.com.tw/news/aopl/202611270275.aspx",
-   "at": "2026-11-27T14:16:52.000Z"
   }
  ]
 }
